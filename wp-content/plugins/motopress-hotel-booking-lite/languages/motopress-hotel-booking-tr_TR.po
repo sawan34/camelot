@@ -1,0 +1,6195 @@
+# Translation of WordPress - Plugins - Hotel Booking in Turkish
+# This file is distributed under the same license as the WordPress - Plugins - Hotel Booking package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-08 13:03:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: tr\n"
+"Project-Id-Version: WordPress - Plugins - Hotel Booking\n"
+
+#: includes/post-types/rate-cpt.php:99
+msgid "This is where you can add new rates."
+msgstr ""
+
+#: includes/post-types/rate-cpt.php:94
+msgid "Uploaded to this rate"
+msgstr ""
+
+#: includes/post-types/rate-cpt.php:93
+msgid "Insert into rate description"
+msgstr ""
+
+#: includes/post-types/rate-cpt.php:91
+msgid "No rates found in Trash"
+msgstr ""
+
+#: includes/post-types/rate-cpt.php:90
+msgid "No rates found"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:274
+msgid "Skip search results page and enable direct booking from accommodation pages."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:273
+msgid "Skip Search Results"
+msgstr ""
+
+#: templates/widgets/search-availability/search-form.php:85
+msgid "Children %s:"
+msgstr ""
+
+#: includes/views/shortcodes/checkout-view.php:167 template-functions.php:556
+msgid "Children %s"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:156
+msgctxt "slug"
+msgid "accommodation-tag"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:145
+msgid "Tags"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:144
+msgid "No tags found."
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:143
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:142
+msgid "Add or remove tags"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:141
+msgid "Separate tags with commas"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:140
+msgid "New Accommodation Tag Name"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:139
+msgid "Add New Accommodation Tag"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:138
+msgid "Update Accommodation Tag"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:137
+msgid "Edit Accommodation Tag"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:136
+msgid "Parent Accommodation Tag:"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:135
+msgid "Parent Accommodation Tag"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:134
+msgid "All Accommodation Tags"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:133
+msgid "Popular Accommodation Tags"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:132
+msgid "Search Accommodation Tags"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:131
+msgid "Accommodation Tag"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:130
+msgid "Accommodation Tags"
+msgstr ""
+
+#: includes/bookings-calendar.php:516
+msgid "Locked (Booked or Pending)"
+msgstr ""
+
+#: includes/bookings-calendar.php:488 includes/bookings-calendar.php:835
+msgid "Blocked"
+msgstr ""
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:189
+msgid "Possible values are AND, OR."
+msgstr ""
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:188
+msgid "Logical relationship between each taxonomy when there is more than one."
+msgstr ""
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:183
+msgid "IDs of accommodations that will be shown."
+msgstr ""
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:178
+msgid "IDs of tags that will be shown."
+msgstr ""
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:173
+msgid "IDs of categories that will be shown."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:268
+msgid "Optional description of the \"Children\" field."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:267
+msgid "Age of Child"
+msgstr ""
+
+#: includes/admin/fields/time-picker-field.php:13
+msgid "HH:MM"
+msgstr ""
+
+#: includes/admin/fields/amount-field.php:199
+msgid "Per child: "
+msgstr ""
+
+#: includes/admin/fields/amount-field.php:197
+msgid "Per adult: "
+msgstr ""
+
+#: includes/admin/fields/amount-field.php:78
+msgid "Per child:"
+msgstr ""
+
+#: includes/admin/fields/amount-field.php:75
+msgid "Per adult:"
+msgstr ""
+
+#: includes/views/booking-view.php:71
+msgid "Discount"
+msgstr ""
+
+#: includes/views/booking-view.php:170
+msgid "Fee Taxes Subtotal"
+msgstr ""
+
+#: includes/views/booking-view.php:154
+msgid "Fees Subtotal"
+msgstr ""
+
+#: includes/views/booking-view.php:136
+msgid "Service Taxes Subtotal"
+msgstr ""
+
+#: includes/views/booking-view.php:92
+msgid "Accommodation Taxes Subtotal"
+msgstr ""
+
+#: includes/views/booking-view.php:76
+msgid "Accommodation Subtotal"
+msgstr ""
+
+#: includes/views/booking-view.php:52
+msgid "Nights"
+msgstr ""
+
+#: includes/emails/booking/customer/confirmation-email.php:16
+msgid "This email is sent when \"Booking Confirmation Mode\" is set to Customer confirmation via email."
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:250
+#: includes/views/booking-view.php:160
+msgid "Fee Taxes"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:217
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:266
+msgid "Percentage"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:201
+#: includes/views/booking-view.php:126
+msgid "Service Taxes"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:165
+msgid "Per accommodation (%)"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:155
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:209
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:258
+msgid "New tax"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:148
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:202
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:251
+msgid "No taxes have been created yet."
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:131
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:181
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:234
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:283
+msgid "Limit"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:115
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:164
+msgid "Per accommodation / per day"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:114
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:163
+msgid "Per guest / per day"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:106
+msgid "New fee"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:105
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:154
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:208
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:257
+msgid "Label"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:100
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:149
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:203
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:252
+msgid "Add new"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:99
+msgid "No fees have been created yet."
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:98
+#: includes/views/booking-view.php:144
+msgid "Fees"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:34
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:299
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:303
+msgid "Taxes & Fees"
+msgstr ""
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:27
+msgid "Taxes and fees saved."
+msgstr ""
+
+#. translators: %s - original Rate title
+#: includes/repositories/rate-repository.php:195
+msgid "%s - copy"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:317
+msgid "Twice Daily"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:316
+msgid "Once Daily"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:315
+msgid "Once Hourly"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:313
+msgid "Interval"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:307
+msgid "Sync calendars at this time (UTC) or starting at this time every interval below."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:306
+msgid "Clock"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:302
+msgid "Enable automatic external calendars synchronization"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:297
+msgid "Calendars synchronization scheduler"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://motopress.com/"
+msgstr "https://motopress.com/"
+
+#: includes/ajax.php:652 includes/ajax.php:671
+#: includes/shortcodes/checkout-shortcode/step.php:54
+#: includes/shortcodes/search-results-shortcode.php:513
+msgid "Nothing found. Please try again with different search parameters."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:185
+#: includes/shortcodes/checkout-shortcode/step-checkout.php:157
+msgid "Selected dates do not meet booking rules for type %s"
+msgstr ""
+
+#. translators: This is date and time format 31/12/2017 - 23:59:59' Please set
+#. the order for 'd/m/Y - H:i:s' that is most commonly used in the country of
+#. your target language. See http://php.net/date
+#: includes/admin/room-sync-queue-list-table.php:82
+msgctxt "This is date and time format 31/12/2017 - 23:59:59"
+msgid "d/m/Y - H:i:s"
+msgstr "d/m/Y - H:i:s"
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:335
+msgid "Comment"
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:325
+msgid "Restriction"
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:318
+msgid "Till"
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:290
+msgid "There are no blocking accommodation rules."
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:289
+msgid "Block accommodation"
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:258
+msgid "There are no maximum stay rules."
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:257
+#: includes/admin/menu-pages/booking-rules-menu-page.php:265
+msgid "Maximum stay"
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:226
+msgid "There are no minimum stay rules."
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:225
+#: includes/admin/menu-pages/booking-rules-menu-page.php:233
+msgid "Minimum stay"
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:195
+msgid "Guests can check out any day."
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:164
+msgid "Guests can check in any day."
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:165
+#: includes/admin/menu-pages/booking-rules-menu-page.php:196
+#: includes/admin/menu-pages/booking-rules-menu-page.php:227
+#: includes/admin/menu-pages/booking-rules-menu-page.php:259
+#: includes/admin/menu-pages/booking-rules-menu-page.php:291
+msgid "Add rule"
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:57
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:51
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:30
+msgid "Booking rules saved."
+msgstr ""
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:234
+#: includes/admin/menu-pages/booking-rules-menu-page.php:266
+msgid "nights"
+msgstr ""
+
+#: includes/admin/fields/multiple-checkbox-field.php:73
+msgid "Unselect all"
+msgstr ""
+
+#: includes/admin/fields/multiple-checkbox-field.php:69
+msgid "Select all"
+msgstr ""
+
+#: includes/views/loop-room-type-view.php:67
+#: includes/views/single-room-type-view.php:154
+#: templates/widgets/rooms/room-content.php:95
+msgid "Amenities:"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:180
+msgid "New Amenity Name"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:179
+msgid "Add New Amenity"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:178
+msgid "Update Amenity"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:177
+msgid "Edit Amenity"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:176
+msgid "Parent Amenity:"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:175
+msgid "Parent Amenity"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:174
+msgid "All Amenities"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:173
+msgid "Popular Amenities"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:172
+msgid "Search Amenities"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:171
+msgid "Amenity"
+msgstr ""
+
+#: includes/post-types/room-type-cpt.php:170
+#: includes/post-types/room-type-cpt.php:185
+msgid "Amenities"
+msgstr ""
+
+#: includes/i-cal/logs-handler.php:180
+msgid " There was %2$d failure."
+msgid_plural " There were %2$d failures."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/i-cal/logs-handler.php:179
+msgid "All done! %1$d booking was successfully added."
+msgid_plural "All done! %1$d bookings were successfully added."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/i-cal/logs-handler.php:96
+msgid "Collapse All"
+msgstr ""
+
+#: includes/i-cal/logs-handler.php:92
+msgid "Expand All"
+msgstr ""
+
+#: includes/i-cal/logs-handler.php:49
+msgid "Failed bookings: %s"
+msgstr ""
+
+#: includes/i-cal/logs-handler.php:47
+msgid "Skipped bookings: %s"
+msgstr ""
+
+#: includes/i-cal/logs-handler.php:45
+msgid "Success bookings: %s"
+msgstr ""
+
+#: includes/i-cal/logs-handler.php:43
+msgid "Total bookings: %s"
+msgstr ""
+
+#: includes/i-cal/logs-handler.php:33
+msgid "Process Information"
+msgstr ""
+
+#: includes/i-cal/importer.php:168
+msgid "Success. New booking #%d"
+msgstr ""
+
+#: includes/i-cal/importer.php:167
+msgid "Booking imported with UID %1$s. Source: %2$s."
+msgstr ""
+
+#: includes/i-cal/importer.php:103
+msgid "Failure: Event conflicts with %1$d other bookings: %2$s."
+msgstr ""
+
+#: includes/i-cal/importer.php:96
+msgid "Failure: Event conflicts with booking #%d."
+msgstr ""
+
+#: includes/i-cal/importer.php:77
+msgid "Failure: Event with such UID already registered for accommodation #%d."
+msgstr ""
+
+#. The event is not new, but still there is no problems/overbooking
+#: includes/i-cal/importer.php:58
+msgid "Skipped. Event with such UID already exists in booking #%d."
+msgstr ""
+
+#: includes/admin/fields/rules-list-field.php:37
+#: includes/i-cal/background-processes/sync-rooms-queue-handler.php:309
+#: includes/script-managers/admin-script-manager.php:68
+msgid "Done"
+msgstr ""
+
+#: includes/i-cal/background-processes/sync-rooms-queue-handler.php:303
+msgid "Processing"
+msgstr ""
+
+#: includes/i-cal/background-processes/sync-rooms-queue-handler.php:297
+msgid "Waiting"
+msgstr ""
+
+#: includes/i-cal/background-processes/background-worker.php:387
+msgctxt "%s - error description"
+msgid "Parse error. %s"
+msgstr ""
+
+#: includes/i-cal/background-processes/background-worker.php:385
+msgid "Error while loading calendar (%1$s): %2$s"
+msgstr ""
+
+#: includes/i-cal/background-processes/background-worker.php:365
+msgctxt "%s - calendar URI or calendar filename"
+msgid "Calendar file is not empty, but there are no events in %s"
+msgstr ""
+
+#: includes/i-cal/background-processes/background-worker.php:363
+msgctxt "%s - calendar URI or calendar filename"
+msgid "Calendar source is empty (%s)"
+msgstr ""
+
+#. This info can replace some messages from background process
+#. if log it after the process starts
+#: includes/i-cal/background-processes/background-worker.php:355
+msgctxt "%s - calendar URI or calendar filename"
+msgid "%1$d event found in calendar %2$s"
+msgid_plural "%1$d events found in calendar %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. *
+#. * @todo add context to log
+#: includes/i-cal/background-processes/background-uploader.php:51
+msgid "Cannot read uploaded file"
+msgstr ""
+
+#: includes/i-cal/background-processes/background-synchronizer.php:58
+msgid "Skipped. No URLs found for parsing."
+msgstr ""
+
+#: includes/i-cal/background-processes/background-synchronizer.php:56
+msgid "%d URL pulled for parsing."
+msgid_plural "%d URLs pulled for parsing."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/i-cal/background-processes/background-synchronizer.php:31
+msgid "Maximum execution time is set to %d seconds."
+msgstr ""
+
+#: includes/emails/abstract-email.php:109
+msgid "\"%s\" email will not be sent: there is no customer email in the booking."
+msgstr ""
+
+#: includes/admin/room-sync-queue-list-table.php:207
+msgid "Delete Log"
+msgstr ""
+
+#: includes/admin/room-sync-queue-list-table.php:123
+msgid "Skipped"
+msgstr ""
+
+#: includes/admin/room-sync-queue-list-table.php:122
+msgid "Failed"
+msgstr ""
+
+#: includes/admin/room-sync-queue-list-table.php:121
+msgid "Succeed"
+msgstr ""
+
+#: includes/admin/room-sync-queue-list-table.php:119
+msgid "Errors"
+msgstr ""
+
+#: includes/admin/room-list-table.php:189
+msgid "Download Calendar"
+msgstr ""
+
+#: includes/admin/room-list-table.php:167
+#: includes/admin/room-sync-queue-list-table.php:88
+msgctxt "Placeholder for empty accommodation title"
+msgid "(no title)"
+msgstr ""
+
+#: includes/admin/room-list-table.php:161
+#: includes/admin/room-list-table.php:215
+msgid "Sync External Calendars"
+msgstr ""
+
+#: includes/admin/fields/rules-list-field.php:36
+#: includes/admin/room-list-table.php:158
+#: includes/script-managers/admin-script-manager.php:67
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/room-list-table.php:99
+msgid "External Calendars"
+msgstr ""
+
+#: includes/admin/room-list-table.php:98
+msgid "Export"
+msgstr ""
+
+#. 'class'	 => '',
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:132
+msgid "Display calendars synchronization status."
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:114
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:128
+msgid "Calendars Sync Status"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:84
+msgid "Here you can see synchronization status of your external calendars."
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:81
+msgid "Calendars Synchronization Status"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:56
+msgid "%d items"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:55
+msgid "%d item"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:54
+msgid "Deleting..."
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:53
+#: includes/i-cal/logs-handler.php:88
+msgid "Delete All Logs"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-menu-page.php:162
+#: includes/admin/menu-pages/i-cal-menu-page.php:166
+msgid "Sync Calendars"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-menu-page.php:154
+msgid "Add New Calendar"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-menu-page.php:149
+msgid "Calendar URL"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-menu-page.php:101
+msgid "Update"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-menu-page.php:78
+msgid "Sync your bookings across all online channels like Booking.com, TripAdvisor, Airbnb etc. via iCalendar file format."
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-menu-page.php:77
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:89
+msgid "Sync All External Calendars"
+msgstr ""
+
+#. translators: %s - room name. Example: "Comfort Triple 1"
+#: includes/admin/menu-pages/i-cal-menu-page.php:70
+msgid "Edit External Calendars of \"%s\""
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-menu-page.php:66
+msgid "Sync, Import and Export Calendars"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-menu-page.php:57
+msgid "Accommodation updated."
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-import-menu-page.php:196
+#: includes/admin/menu-pages/i-cal-menu-page.php:102
+msgid "Back"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-import-menu-page.php:164
+msgid "Please be patient while the calendars are imported. You will be notified via this page when the process is completed."
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-import-menu-page.php:157
+msgid "Accommodation Type: %s"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-import-menu-page.php:154
+msgid "Accommodation: %s"
+msgstr ""
+
+#. 'editinline'	 => sprintf( '<a href="#">%s</a>', __( 'Quick Edit',
+#. 'motopress-hotel-booking' ) ),
+#: includes/admin/menu-pages/i-cal-import-menu-page.php:151
+#: includes/admin/menu-pages/i-cal-import-menu-page.php:197
+#: includes/admin/menu-pages/i-cal-import-menu-page.php:211
+#: includes/admin/room-list-table.php:160
+msgid "Import Calendar"
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-import-menu-page.php:80
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:52
+msgid "Aborting..."
+msgstr ""
+
+#: includes/admin/menu-pages/i-cal-import-menu-page.php:79
+#: includes/admin/menu-pages/i-cal-sync-progress-menu-page.php:51
+#: includes/i-cal/logs-handler.php:79
+msgid "Abort Process"
+msgstr ""
+
+#: includes/admin/manage-cpt-pages/service-manage-cpt-page.php:39
+#: includes/entities/service.php:159 includes/post-types/service-cpt.php:133
+msgid "Per Day"
+msgstr ""
+
+#: includes/shortcodes/search-results-shortcode.php:643
+msgid "Max occupancy:"
+msgstr ""
+
+#: includes/views/shortcodes/checkout-view.php:18
+msgid "Apply"
+msgstr ""
+
+#: includes/views/shortcodes/checkout-view.php:17
+msgid "Coupon Code:"
+msgstr ""
+
+#: includes/views/booking-view.php:186
+msgid "Coupon: %s"
+msgstr ""
+
+#: includes/script-managers/public-script-manager.php:171
+msgid "Coupon code is empty."
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:118
+msgid "All Coupons"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:117
+msgid "No coupons found in Trash"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:116
+msgid "No coupons found"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:115
+msgid "Search Coupon"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:114
+msgid "View Coupon"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:113
+msgid "New Coupon"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:112
+msgid "Edit Coupon"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:111
+msgid "Add New Coupon"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:110
+msgctxt "Add New Coupon"
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:108
+msgid "Coupons"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:92
+msgid "Usage Count"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:83
+msgid "Usage Limit"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:75
+msgid "Maximum Days"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:67
+msgid "Minimum Days"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:61
+msgid "Check-out Before"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:55
+msgid "Check-in After"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:40
+msgid "Expiration Date"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:30
+msgid "Coupon Amount (%)"
+msgstr ""
+
+#: includes/post-types/coupon-cpt.php:19
+msgid "Coupon Information"
+msgstr ""
+
+#: includes/post-types/booking-cpt.php:135
+#: includes/post-types/coupon-cpt.php:109
+msgid "Coupon"
+msgstr ""
+
+#: includes/entities/coupon.php:252
+msgid "Coupon usage limit has been reached."
+msgstr ""
+
+#: includes/entities/coupon.php:248
+msgid "Sorry, this coupon is not applicable to your booking contents."
+msgstr ""
+
+#: includes/entities/coupon.php:244
+msgid "This coupon has expired."
+msgstr ""
+
+#: includes/ajax.php:491 includes/entities/coupon.php:240
+msgid "Coupon is not valid."
+msgstr ""
+
+#: includes/ajax.php:485
+msgid "Coupon applied successfully."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:146
+msgid "Enable the use of coupons."
+msgstr ""
+
+#: includes/admin/edit-cpt-pages/coupon-edit-cpt-page.php:14
+msgid "Coupon code"
+msgstr ""
+
+#: includes/payments/gateways/gateway.php:492
+msgid "Accommodation(s) reservation"
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:44
+#: includes/payments/gateways/braintree-gateway.php:122
+#: includes/payments/gateways/paypal-gateway.php:47
+#: includes/payments/gateways/stripe-gateway.php:87
+#: includes/payments/gateways/two-checkout-gateway.php:51
+msgid "Use the card number %1$s with CVC %2$s and a valid expiration date to test a payment."
+msgstr ""
+
+#: templates/emails/reserved-room-details.php:14
+msgid "Accommodation #%s"
+msgstr ""
+
+#: template-functions.php:569
+msgid "Check Availability"
+msgstr ""
+
+#: includes/views/global-view.php:56
+msgid "Services pagination"
+msgstr ""
+
+#: includes/views/global-view.php:53
+msgid "Accommodation pagination"
+msgstr ""
+
+#: includes/views/booking-view.php:66
+msgid "Dates Subtotal"
+msgstr ""
+
+#: includes/views/booking-view.php:35
+msgctxt "Accommodation type in price breakdown table. Example: #1 Double Room"
+msgid "#%d %s"
+msgstr ""
+
+#: includes/views/booking-view.php:34
+msgid "Expand"
+msgstr ""
+
+#: includes/upgrader.php:153
+msgid "Taking a while? Click here to run it now."
+msgstr ""
+
+#: includes/upgrader.php:152
+msgid "Your database is being updated in the background."
+msgstr ""
+
+#: includes/shortcodes/search-results-shortcode.php:717
+#: includes/views/booking-view.php:189
+msgid "Remove"
+msgstr ""
+
+#: includes/script-managers/public-script-manager.php:168
+#: includes/script-managers/public-script-manager.php:169
+#: includes/shortcodes/search-results-shortcode.php:713
+#: template-functions.php:579
+msgid "of %d accommodation available."
+msgid_plural "of %d accommodations available."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/shortcodes/search-results-shortcode.php:653
+msgid "%d child"
+msgid_plural "%d children"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/shortcodes/search-results-shortcode.php:602
+msgid " and %d child"
+msgid_plural " and %d children"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/shortcodes/search-results-shortcode.php:600
+msgid "Recommended for %d adult"
+msgid_plural "Recommended for %d adults"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/shortcodes/search-results-shortcode.php:572
+#: includes/shortcodes/search-results-shortcode.php:721
+#: template-functions.php:582
+msgid "Confirm Reservation"
+msgstr ""
+
+#: includes/shortcodes/search-results-shortcode.php:563
+msgid "Select from available accommodations."
+msgstr ""
+
+#: includes/views/shortcodes/checkout-view.php:184
+msgid "Full Guest Name"
+msgstr ""
+
+#: includes/views/shortcodes/checkout-view.php:107
+msgid "Accommodation #%d"
+msgstr ""
+
+#: includes/views/shortcodes/checkout-view.php:444
+msgid "Payment Method"
+msgstr ""
+
+#: includes/views/shortcodes/checkout-view.php:379
+msgid "Country of residence"
+msgstr ""
+
+#: includes/views/shortcodes/checkout-view.php:337
+msgid "Your Information"
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-checkout.php:152
+msgid "There are no rates for requested dates."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-checkout.php:129
+msgid "Accommodation count is not valid."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:427
+msgid "Payment method is not valid."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:386
+msgid "Address is required."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:382
+msgid "Postcode is required."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:378
+msgid "City is required."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:374
+msgid "State is required."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:369
+msgid "Country is required."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:365
+msgid "Phone is required."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:361
+msgid "Email is required."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:357
+msgid "Last name is required."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:353
+msgid "First name is required."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:128
+#: includes/shortcodes/checkout-shortcode/step-booking.php:264
+#: includes/shortcodes/checkout-shortcode/step-checkout.php:114
+msgid "There are no accommodations selected for reservation."
+msgstr ""
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:86
+msgid "Booking is blocked due to maintenance reason. Please try again later."
+msgstr ""
+
+#: includes/settings/main-settings.php:34
+msgid "Turquoise"
+msgstr ""
+
+#: includes/settings/main-settings.php:33
+msgid "Slate Blue"
+msgstr ""
+
+#: includes/settings/main-settings.php:32
+msgid "Sky Blue"
+msgstr ""
+
+#: includes/settings/main-settings.php:30
+msgid "Minimal"
+msgstr ""
+
+#: includes/settings/main-settings.php:29
+msgid "Minimal Orange"
+msgstr ""
+
+#: includes/settings/main-settings.php:28
+msgid "Minimal Blue"
+msgstr ""
+
+#: includes/settings/main-settings.php:27
+msgid "Light Yellow"
+msgstr ""
+
+#: includes/settings/main-settings.php:26
+msgid "Light Green"
+msgstr ""
+
+#: includes/settings/main-settings.php:25
+msgid "Light Coral"
+msgstr ""
+
+#: includes/settings/main-settings.php:24
+msgid "Light Blue"
+msgstr ""
+
+#: includes/settings/main-settings.php:23
+msgid "Grayscale"
+msgstr ""
+
+#: includes/settings/main-settings.php:22
+msgid "Dark Red"
+msgstr ""
+
+#: includes/settings/main-settings.php:21
+msgid "Dark Green"
+msgstr ""
+
+#: includes/settings/main-settings.php:20
+msgid "Dark Blue"
+msgstr ""
+
+#: includes/script-managers/public-script-manager.php:166
+#: includes/script-managers/public-script-manager.php:167
+msgid "%s accommodation selected."
+msgid_plural "%s accommodations selected."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/script-managers/public-script-manager.php:164
+#: includes/script-managers/public-script-manager.php:165
+msgid "%1$d &times; &ldquo;%2$s&rdquo; has been added to your reservation."
+msgid_plural "%1$d &times; &ldquo;%2$s&rdquo; have been added to your reservation."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/script-managers/public-script-manager.php:163
+msgid "Tokenisation failed: %s"
+msgstr ""
+
+#: includes/post-types/reserved-room-cpt.php:19
+msgid "Reserved Accommodation"
+msgstr ""
+
+#: includes/post-types/booking-cpt.php:116
+#: includes/views/shortcodes/checkout-view.php:412
+msgid "Address"
+msgstr ""
+
+#: includes/post-types/booking-cpt.php:110
+#: includes/views/shortcodes/checkout-view.php:420
+msgid "Postcode"
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:180
+msgid "Payment single use token is required."
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:142
+msgid "Beanstream Payment Error: %s"
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:94
+msgid "To generate the passcode, navigate to Administration > Account Settings > Order Settings in the sidebar, then scroll to Payment Gateway > Security/Authentication"
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:92
+msgid "Payments Passcode"
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:88
+msgid "Your Merchant ID can be found in the top-right corner of the screen after logging in to the Beanstream Back Office"
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:76
+msgid "Beanstream"
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:52
+msgid "Pay with your credit card via Beanstream."
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:51
+msgid "Pay by Card (Beanstream)"
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:39
+msgid "Beanstream/Bambora"
+msgstr ""
+
+#: includes/libraries/wp-background-processing/classes/wp-background-process.php:427
+msgid "Every %d Minutes"
+msgstr ""
+
+#: includes/libraries/edd-plugin-updater/edd-plugin-updater.php:398
+msgid "Error"
+msgstr ""
+
+#: includes/libraries/edd-plugin-updater/edd-plugin-updater.php:398
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/libraries/edd-plugin-updater/edd-plugin-updater.php:211
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/libraries/edd-plugin-updater/edd-plugin-updater.php:203
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/emails/templaters/reserved-rooms-templater.php:179
+msgid "Sequential Number of Accommodation"
+msgstr ""
+
+#: includes/emails/templaters/email-templater.php:248
+msgid "Cancellation Details (if enabled)"
+msgstr ""
+
+#: includes/emails/templaters/email-templater.php:238
+msgid "Use %s tag for cancellation section."
+msgstr ""
+
+#: includes/emails/templaters/email-templater.php:215
+msgid "Reserved Accommodations Details"
+msgstr ""
+
+#: includes/emails/templaters/email-templater.php:100
+msgid "Use %s tag for reserved accommodations details."
+msgstr ""
+
+#: includes/emails/templaters/abstract-templater.php:79
+#: includes/emails/templaters/abstract-templater.php:81
+msgid "Deprecated."
+msgstr ""
+
+#: includes/emails/abstract-email.php:438
+msgid "Deprecated tags in template of %s"
+msgstr ""
+
+#: includes/emails/abstract-email.php:435
+msgid "Deprecated tags in subject of %s"
+msgstr ""
+
+#: includes/emails/abstract-email.php:432
+msgid "Deprecated tags in header of %s"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:259
+msgid "Western Sahara"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:255
+msgid "Vatican"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:253
+msgid "Uzbekistan"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:251
+msgid "United States (US) Virgin Islands"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:250
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:249
+msgid "United States (US)"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:248
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:241
+msgid "Turkey"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:237
+msgid "Tokelau"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:235
+msgid "Timor-Leste"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:230
+msgid "Syria"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:224
+msgid "Sudan"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:221
+msgid "South Sudan"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:219
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:207
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:205
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:204
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:203
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:202
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:201
+msgid "Saint Lucia"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:200
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:199
+msgid "Saint Helena"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:198
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:192
+msgid "Puerto Rico"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:189
+msgid "Pitcairn"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:183
+msgid "Palestinian Territory"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:182
+msgid "Pakistan"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:179
+msgid "North Korea"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:178
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:166
+msgid "Myanmar"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:144
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:140
+msgid "Libya"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:139
+msgid "Liberia"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:137
+msgid "Lebanon"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:128
+msgid "Jersey"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:125
+msgid "Ivory Coast"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:122
+msgid "Isle of Man"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:120
+msgid "Iraq"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:119
+msgid "Iran"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:114
+msgid "Hong Kong"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:112
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:111
+msgid "Haiti"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:107
+msgid "Guernsey"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:105
+msgid "Guam"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:99
+msgid "Ghana"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:94
+msgid "French Southern Territories"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:83
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:73
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:72
+msgid "Cuba"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:64
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:63
+msgid "Christmas Island"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:59
+msgid "Central African Republic"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:48
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:46
+msgid "Bouvet Island"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:43
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:37
+msgid "Belau"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:33
+msgid "Bangladesh"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:23
+msgid "Antarctica"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:19
+msgid "American Samoa"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:16
+msgid "&#197;land Islands"
+msgstr ""
+
+#: includes/bundles/countries-bundle.php:15
+msgid "Afghanistan"
+msgstr ""
+
+#: includes/ajax.php:314
+#: includes/shortcodes/checkout-shortcode/step-booking.php:180
+#: includes/shortcodes/search-results-shortcode.php:470
+msgid "Children number is not valid."
+msgstr ""
+
+#: includes/ajax.php:307
+#: includes/shortcodes/checkout-shortcode/step-booking.php:174
+#: includes/shortcodes/search-results-shortcode.php:454
+msgid "Adults number is not valid."
+msgstr ""
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:163
+#: includes/admin/menu-pages/shortcodes-menu-page.php:207
+msgid "Count per page"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:416
+msgid "Used for %reserved_rooms_details% tag."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:415
+msgid "Reserved Accommodation Details Template"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:363
+msgid "Used for %cancellation_details% tag."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:362
+msgid "Cancellation Details Template"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:292
+msgid "Select theme for an availability calendar."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:291
+msgid "Calendar Theme"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:285
+msgid "Display gallery images of accommodation page in lightbox."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:280
+msgid "Display Options"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:248
+msgid "Search Options"
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:223
+msgid "Full address fields are required for reservation."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:218
+msgid "Country of residence field is required for reservation."
+msgstr ""
+
+#: includes/admin/menu-pages/settings-menu-page.php:140
+msgid "Enable search form to recommend the best set of accommodations according to a number of guests."
+msgstr ""
+
+#: includes/admin/manage-tax-pages/facility-manage-tax-page.php:9
+msgid "These are accommodation amenities, generally free ones. E.g. air-conditioning, wifi."
+msgstr ""
+
+#: includes/admin/manage-cpt-pages/service-manage-cpt-page.php:11
+msgid "Services are extra offers that you can sell or give for free. E.g. Thai massage, transfer, babysitting. Guests can pre-oder them when placing a booking."
+msgstr ""
+
+#: includes/admin/manage-cpt-pages/season-manage-cpt-page.php:11
+msgid "Seasons are real periods of time, dates or days that come with different prices for accommodations. E.g. Winter 2018 ($120 per night), Christmas ($150 per night)."
+msgstr ""
+
+#: includes/admin/manage-cpt-pages/room-type-manage-cpt-page.php:11
+msgid "These are not physical accommodations, but their types. E.g. standard double room. To specify the real number of existing accommodations, you'll need to use Generate Accommodations menu."
+msgstr ""
+
+#: includes/admin/manage-cpt-pages/rate-manage-cpt-page.php:11
+msgid "Rates are used to offer different prices of the same accommodation type depending on extra conditions. E.g. Double room with breakfast included; double room with no breakfast. Guests will choose the preferable rate when submitting a booking request."
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:69
+msgid "Product ID is not valid"
+msgstr ""
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:109
+msgid "Services:"
+msgstr ""
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:94
+msgid "Rate:"
+msgstr ""
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:85
+msgid "Accommodation:"
+msgstr ""
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:17
+#: includes/post-types/reserved-room-cpt.php:18
+msgid "Reserved Accommodations"
+msgstr ""
+
+#: templates/emails/admin-customer-cancelled-booking.php:20
+#: templates/emails/admin-customer-confirmed-booking.php:20
+#: templates/emails/admin-payment-confirmed-booking.php:27
+#: templates/emails/admin-pending-booking.php:20
+#: templates/emails/customer-approved-booking.php:22
+#: templates/emails/customer-cancelled-booking.php:23
+#: templates/emails/customer-confirmation-booking.php:29
+#: templates/emails/customer-pending-booking.php:24
+msgid "Check-out: %1$s, until %2$s"
+msgstr ""
+
+#: templates/emails/admin-customer-cancelled-booking.php:18
+#: templates/emails/admin-customer-confirmed-booking.php:18
+#: templates/emails/admin-payment-confirmed-booking.php:25
+#: templates/emails/admin-pending-booking.php:18
+#: templates/emails/customer-approved-booking.php:20
+#: templates/emails/customer-cancelled-booking.php:21
+#: templates/emails/customer-confirmation-booking.php:27
+#: templates/emails/customer-pending-booking.php:22
+msgid "Check-in: %1$s, from %2$s"
+msgstr ""
+
+#: includes/views/shortcodes/checkout-view.php:603
+msgctxt "until 10:00 am"
+msgid "until"
+msgstr ""
+
+#: includes/views/shortcodes/checkout-view.php:580
+msgctxt "from 10:00 am"
+msgid "from"
+msgstr ""
+
+#: includes/payments/gateways/braintree/webhook-listener.php:153
+msgid "Braintree transaction voided"
+msgstr ""
+
+#: includes/payments/gateways/braintree/webhook-listener.php:149
+msgid "Payment refunded in Braintree"
+msgstr ""
+
+#: includes/payments/gateways/braintree/webhook-listener.php:131
+msgid "Payment dispute won"
+msgstr ""
+
+#: includes/payments/gateways/braintree/webhook-listener.php:125
+msgid "Payment dispute lost"
+msgstr ""
+
+#: includes/payments/gateways/braintree/webhook-listener.php:119
+msgid "Payment dispute opened"
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:72
+#: includes/payments/gateways/braintree-gateway.php:169
+#: includes/payments/gateways/stripe-gateway.php:165
+msgid "%1$s is enabled, but the <a href=\"%2$s\">Force Secure Checkout</a> option is disabled. Please enable SSL and ensure your server has a valid SSL certificate. Otherwise, %1$s will only work in Test Mode."
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:290
+msgid "Payment method nonce is required."
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:263
+msgid "Braintree Payment Error: %s"
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:253
+msgid "Braintree submitted for settlement (Transaction ID: %s)"
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:200
+msgid "In case the site currency differs from default currency in your Braintree account, you can set specific merchant account to avoid <a href=\"%s\">complications with currencty conversions</a>. Otherwise leave the field empty."
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:199
+msgid "Merchant Account ID"
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:194
+msgid "Private Key"
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:185
+msgid "In your Braintree account select Account > My User > View Authorizations."
+msgstr ""
+
+#: includes/payments/gateways/beanstream-gateway.php:86
+#: includes/payments/gateways/braintree-gateway.php:183
+msgid "Merchant ID"
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:164
+msgid "Braintree gateway cannot be enabled due to some problems: %s"
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:142
+msgid "Pay with your credit card via Braintree."
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:141
+msgid "Pay by Card (Braintree)"
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:128
+msgid "Webhooks Destination URL: %s"
+msgstr ""
+
+#: includes/payments/gateways/braintree-gateway.php:115
+#: includes/payments/gateways/braintree-gateway.php:173
+msgid "Braintree"
+msgstr ""
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:425
+msgid "Deprecated since %s"
+msgstr ""
+
+#: templates/emails/admin-payment-confirmed-booking.php:22
+msgid "Method: %s"
+msgstr "Yöntem: %s"
+
+#: templates/emails/admin-payment-confirmed-booking.php:20
+msgid "Amount: %s"
+msgstr "Miktar : %s"
+
+#: templates/emails/admin-payment-confirmed-booking.php:18
+msgid "Payment ID: #%s"
+msgstr "Ödeme Kimliği: #%s"
+
+#: templates/emails/admin-payment-confirmed-booking.php:17
+msgid "Details of payment"
+msgstr "Ödeme detayları"
+
+#: templates/emails/admin-payment-confirmed-booking.php:15
+msgid "Booking #%s is confirmed by payment."
+msgstr "#%s rezervasyonu ödeme ile teyit edilir."
+
+#: template-functions.php:51
+msgid "Based on your search parameters"
+msgstr "Arama parametrelerinize dayanarak"
+
+#: includes/shortcodes/room-rates-shortcode.php:95 template-functions.php:17
+msgid "Choose dates to see relevant prices"
+msgstr "İlgili fiyatları görmek için tarih seçiniz"
+
+#: includes/post-types/payment-cpt/statuses.php:56
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] "Tamamlandı <span class=\"count\">(%s)</span>"
+msgstr[1] "Tamamlandı <span class=\"count\">(%s)</span>"
+
+#: includes/payments/gateways/manual-gateway.php:14
+#: includes/payments/gateways/manual-gateway.php:19
+msgid "Manual Payment"
+msgstr "Manuel Ödeme"
+
+#: includes/emails/templaters/email-templater.php:267
+msgid "The method of payment"
+msgstr "Ödeme yöntemi"
+
+#: includes/emails/templaters/email-templater.php:263
+msgid "The unique ID of payment"
+msgstr "Benzersiz ödeme kimliği"
+
+#: includes/emails/templaters/email-templater.php:259
+msgid "The total price of payment"
+msgstr "Toplam  Ödeme Tutarı"
+
+#: includes/emails/booking/admin/confirmed-by-payment-email.php:20
+msgid "Approved Booking Email (via payment)"
+msgstr "Onaylanan Rezervasyon E-postası (ödeme yoluyla)"
+
+#: includes/emails/booking/admin/confirmed-by-payment-email.php:16
+msgid "Email that will be sent to Admin when payment is completed."
+msgstr "Ödeme tamamlandığında Yönetici'ye gönderilecek e-posta."
+
+#: includes/admin/menu-pages/settings-menu-page.php:127
+#: includes/admin/menu-pages/settings-menu-page.php:136
+msgid "Lowest price of accommodation for selected number of days if check-in and check-out dates are not set. Example: set 0 to display today's lowest price, set 7 to display the lowest price for the next week."
+msgstr "Check-in ve check-out tarihleri belirlenmediyse, seçilen gün sayısı için en düşük fiyat uygulanır. Örnek: bugünün en düşük fiyatını görüntülemek için 0, sonraki haftanın en düşük fiyatını görüntülemek için 7 değerini ayarlayın."
+
+#: includes/admin/menu-pages/settings-menu-page.php:123
+#: includes/admin/menu-pages/settings-menu-page.php:132
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:132
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:182
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:235
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:284
+msgid "days"
+msgstr "Günler"
+
+#: includes/admin/menu-pages/settings-menu-page.php:122
+#: includes/admin/menu-pages/settings-menu-page.php:131
+msgid "Show Lowest Price for"
+msgstr "En Düşük Fiyatı Göster"
+
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:27
+msgid "Customer"
+msgstr "Müşteri"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:174
+msgid "Paid: %s"
+msgstr "Ödendi: %s"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:241
+msgid "Add Payment Manually"
+msgstr "Manuel Olarak Ödeme Ekle"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:226
+msgid "To Pay"
+msgstr "Ödemek"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:222
+msgid "Total Paid"
+msgstr "Toplam Ödenen"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:190
+msgid "Payment ID"
+msgstr "Ödeme Kimliği"
+
+#: functions.php:186
+msgctxt "Ex: $99 for 2 nights"
+msgid "per night"
+msgid_plural "for %d nights"
+msgstr[0] "gecelik"
+msgstr[1] "%d gece"
+
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:56
+msgid "Payment #%s"
+msgstr "Ödeme #%s"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:71
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:91
+msgid "Booking #%s"
+msgstr "Rezervasyon #%s"
+
+#: includes/admin/manage-cpt-pages/room-manage-cpt-page.php:13
+msgid "These are real accommodations like rooms, apartments, houses, villas, beds (for hostels) etc."
+msgstr "Bunlar, odalar, apartmanlar, evler, villalar, yataklar (pansiyonlar için) gibi gerçek konaklama yerleri."
+
+#: includes/post-types/season-cpt.php:42
+msgid "Hold Ctrl / Cmd to select multiple."
+msgstr "Çoklu seçmek için Ctrl/Cmd  basınız."
+
+#: includes/payments/gateways/paypal-gateway.php:193
+msgid "Disable IPN Verification"
+msgstr "IPN Doğrulamayı Devre Dışı Bırak"
+
+#: includes/payments/gateways/gateway.php:449
+msgid "Enable Sandbox Mode"
+msgstr "Sandbox modu etkinleştir"
+
+#: includes/payments/gateways/gateway.php:440
+msgid "Enable %s"
+msgstr "Etkinleştir %s"
+
+#: includes/admin/menu-pages/language-menu-page.php:32
+msgid "Language"
+msgstr "Dil"
+
+#: includes/admin/menu-pages/language-menu-page.php:22
+msgid "If your site is multilingual, you may use additional plugins to translate your added content into multiple languages allowing the site visitors to switch them."
+msgstr "Siteniz çok dilli ise eklediğiniz içerikleri birden çok dile çevirmek için ek eklentiler kullanabilir, böylece site ziyaretçilerinizin bunları değiştirmelerine izin verebilirsiniz."
+
+#: includes/admin/menu-pages/language-menu-page.php:21
+msgid "Multilingual content"
+msgstr "Çoklu dil içeriği"
+
+#: includes/admin/menu-pages/language-menu-page.php:18
+msgid "Put created .mo file with your translations into the folder %s. Where {lang} is ISO-639 language code and {country} is ISO-3166 country code. Example: Brazilian Portuguese file would be called motopress-hotel-booking-pt_BR.mo."
+msgstr "Oluşturulan .mo dosyasını çevirilerinizle birlikte %s klasörüne yerleştirin. {Lang}, ISO-639 dil kodu ve {country} ise ISO-3166 ülke kodudur. Örnek: Brezilya Portekizce dosyaya motopress-hotel-booking-pt_BR.mo adı verilecektir."
+
+#: includes/admin/menu-pages/language-menu-page.php:17
+msgid "Translate texts with any translation program like Poedit, Loco, Pootle etc."
+msgstr "Poedit, Loco, Pootle vb. Gibi herhangi bir çeviri programıyla metinleri çevirin."
+
+#: includes/admin/menu-pages/language-menu-page.php:16
+msgid "Take the source file for your translations %s or needed translated locale."
+msgstr "%s çevirilerinizin kaynak dosyasını alın veya çevrilen yerel ayarı yapın."
+
+#: includes/admin/menu-pages/language-menu-page.php:14
+msgid "You may customize plugin translation by editing the needed texts or adding your translation following these steps:"
+msgstr "Gerekli metinleri düzenleyerek veya şu adımları izleyerek çevirinizi ekleyerek eklenti çevirisini özelleştirebilirsiniz:"
+
+#: includes/admin/menu-pages/language-menu-page.php:13
+msgid "Custom translations and edits"
+msgstr "Özel çeviriler ve düzenlemeler"
+
+#: includes/admin/menu-pages/language-menu-page.php:12
+msgid "This plugin will display all system messages, labels, buttons in the language set in <em>General > Settings > Site Language</em>. If the plugin is not available in your language, you may <a href=\"%s\">contribute your translation</a>."
+msgstr "Bu eklenti,  tüm sistem mesajları, etiketler ve düğmeleri <em> Genel> Ayarlar> Site Dili</em> 'de ayarlanan dilde görüntüleyecektir. Eklenti, dilinizde mevcut değilse <a href=\"%s\"> çeviri katkıda bulunabilir </a>."
+
+#: includes/admin/menu-pages/language-menu-page.php:11
+msgid "Default language"
+msgstr "Varsayılan dil"
+
+#: includes/admin/menu-pages/language-menu-page.php:10
+#: includes/admin/menu-pages/language-menu-page.php:36
+msgid "Language Guide"
+msgstr "Dil Rehberi"
+
+#: includes/bookings-calendar.php:838
+msgctxt "Availability"
+msgid "Free"
+msgstr "Serbestçe"
+
+#: functions.php:168
+msgctxt "Zero price"
+msgid "Free"
+msgstr "Ücretsiz"
+
+#. Description of the plugin/theme
+msgid "Manage your hotel booking services. Perfect for hotels, villas, guest houses, hostels, and apartments of all sizes."
+msgstr "Otel rezervasyon hizmetlerinizi yönetin."
+
+#: includes/views/loop-room-type-view.php:147
+#: includes/views/single-room-type-view.php:234
+#: templates/widgets/rooms/room-content.php:143
+msgid "Prices start at:"
+msgstr "Ücretten itibaren:"
+
+#: includes/admin/menu-pages/settings-menu-page.php:400
+msgid "Logo URL"
+msgstr "Logo URL"
+
+#. Author of the plugin/theme
+msgid "MotoPress"
+msgstr "MotoPress"
+
+#. Plugin Name of the plugin/theme
+#: includes/upgrader.php:151
+msgid "Hotel Booking"
+msgstr "Otel Rezervasyonu"
+
+#: includes/views/shortcodes/checkout-view.php:596
+#: templates/widgets/search-availability/search-form.php:48
+msgid "Check-out:"
+msgstr "Çıkış:"
+
+#: includes/views/shortcodes/checkout-view.php:573
+#: templates/widgets/search-availability/search-form.php:30
+msgid "Check-in:"
+msgstr "Giriş:"
+
+#: templates/widgets/rooms/not-found.php:6
+msgid "Nothing found."
+msgstr "Hiçbirşey Bulunamadı."
+
+#: templates/shortcodes/services/not-found.php:7
+msgid "No services matched criteria."
+msgstr "Hiçbir hizmet ölçütleriyle eşleşmedi."
+
+#: templates/shortcodes/search/search-form.php:47
+msgid "Check-out"
+msgstr "Çıkış"
+
+#: templates/shortcodes/search/search-form.php:28
+msgid "Check-in"
+msgstr "Giriş"
+
+#: templates/shortcodes/search-results/results-info.php:21
+msgid " from %s - till %s"
+msgstr " %s'dan %s 'a kadar"
+
+#: templates/shortcodes/search-results/results-info.php:17
+msgid "%s accommodation found"
+msgid_plural "%s accommodations found"
+msgstr[0] "%s konaklama bulundu"
+msgstr[1] "%s konaklama bulundu"
+
+#: templates/shortcodes/rooms/not-found.php:7
+msgid "No accommodations matching criteria."
+msgstr "Aranılan kriterlere uygun konaklama yoktur."
+
+#: templates/shortcodes/room-rates/rate-content.php:14
+msgid "from %s"
+msgstr "%s 'dan"
+
+#: templates/shortcodes/booking-confirmation/not-possible.php:7
+msgid "Confirmation of your booking request is not possible for some reason. Please start a new booking request."
+msgstr "Rezervasyon isteğinizin doğrulanması bazı nedenlerle mümkün değildir. Lütfen yeni bir rezervasyon talebi başlatın."
+
+#: templates/shortcodes/booking-confirmation/invalid-request.php:7
+msgid "Invalid request."
+msgstr "Geçersiz istek."
+
+#: templates/shortcodes/booking-confirmation/expired.php:7
+msgid "Your booking request is expired. Please start a new booking request."
+msgstr "Rezervasyon isteğinizin süresi doldu. Lütfen yeni bir rezervasyon talebi başlatın."
+
+#: templates/shortcodes/booking-confirmation/confirmed.php:7
+msgid "Your booking is confirmed. Thank You!"
+msgstr "Rezervasyonunuz onaylandı. Teşekkür ederiz!"
+
+#: templates/shortcodes/booking-confirmation/already-confirmed.php:7
+msgid "Booking is already confirmed."
+msgstr "Rezervasyon zaten onaylandı."
+
+#: templates/required-fields-tip.php:8
+msgid "Required fields are followed by"
+msgstr "Gerekli alanlar aşağıdakiler tarafından takip edilir"
+
+#: templates/emails/customer-pending-booking.php:17
+msgid "We will notify you by email once it is confirmed by our staff."
+msgstr "Çalışanlarımız tarafından onaylandıktan sonra sizi e-postayla bilgilendireceğiz."
+
+#: templates/emails/customer-pending-booking.php:15
+msgid "Dear %1$s %2$s, your reservation is pending."
+msgstr "Sayın %1$s %2$s, Rezervasyonunuz bekliyor."
+
+#: templates/emails/customer-confirmation-booking.php:22
+msgid "If you did not place this booking, please ignore this email."
+msgstr "Bu rezervasyonu düzenlemediyseniz, lütfen bu e-postayı yoksayın."
+
+#: templates/emails/customer-confirmation-booking.php:20
+msgid "UTC"
+msgstr "UTC"
+
+#: templates/emails/customer-confirmation-booking.php:20
+msgid "Note: link expires on"
+msgstr "Not: bağlantı sona eriyor"
+
+#: templates/emails/customer-confirmation-booking.php:18
+msgid "Confirm"
+msgstr "Onayla"
+
+#: templates/emails/customer-confirmation-booking.php:16
+msgid "Click the link below to confirm your booking."
+msgstr "Rezervasyonunuzu onaylamak için aşağıdaki bağlantıyı tıklayın."
+
+#: templates/emails/customer-confirmation-booking.php:14
+msgid "Dear %1$s %2$s, we received your request for reservation."
+msgstr "Sayın %1$s %2$s, rezervasyon talebinizi aldık."
+
+#: templates/emails/customer-approved-booking.php:18
+#: templates/emails/customer-cancelled-booking.php:19
+#: templates/emails/customer-confirmation-booking.php:25
+#: templates/emails/customer-pending-booking.php:20
+msgid "ID: #%s"
+msgstr "Kimlik numarası: #%s"
+
+#: templates/emails/customer-cancelled-booking.php:15
+msgid "Dear %1$s %2$s, your reservation is cancelled!"
+msgstr "Sayın %1$s %2$s, Rezervasyonunuz iptal edildi!"
+
+#: templates/emails/customer-approved-booking.php:39
+#: templates/emails/customer-cancelled-booking.php:38
+#: templates/emails/customer-confirmation-booking.php:44
+#: templates/emails/customer-pending-booking.php:39
+msgid "Thank you!"
+msgstr "Teşekkürler!"
+
+#: templates/emails/cancellation-details.php:16
+msgid "Cancel your booking"
+msgstr "Rezervasyonunuzu iptal edin"
+
+#: templates/emails/cancellation-details.php:14
+msgid "Click the link below to cancel your booking."
+msgstr "Rezervasyonunuzu iptal etmek için aşağıdaki bağlantıyı tıklayın."
+
+#: templates/emails/customer-approved-booking.php:15
+msgid "Dear %1$s %2$s, your reservation is approved!"
+msgstr "Sayın %1$s %2$s, Rezervasyonunuz onaylandı!"
+
+#: templates/emails/admin-pending-booking.php:15
+msgid "Booking #%s is pending for Administrator approval."
+msgstr "#%s Rezervasyonu, Yöneticinin onaylamasını bekliyor."
+
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:147
+#: includes/views/booking-view.php:82
+msgid "Accommodation Taxes"
+msgstr ""
+
+#: templates/emails/admin-customer-confirmed-booking.php:15
+msgid "Booking #%s is confirmed by customer."
+msgstr "Rezervasyon #%s müşteri tarafından onaylandı."
+
+#: templates/emails/reserved-room-details.php:27
+msgid "Additional Services"
+msgstr "Ek hizmetler"
+
+#: templates/emails/admin-customer-cancelled-booking.php:30
+#: templates/emails/admin-customer-confirmed-booking.php:30
+#: templates/emails/admin-payment-confirmed-booking.php:37
+#: templates/emails/admin-pending-booking.php:30
+#: templates/emails/customer-approved-booking.php:36
+#: templates/emails/customer-cancelled-booking.php:36
+#: templates/emails/customer-confirmation-booking.php:42
+#: templates/emails/customer-pending-booking.php:37
+msgid "Note: %s"
+msgstr "Not:  %s"
+
+#: templates/emails/admin-customer-cancelled-booking.php:28
+#: templates/emails/admin-customer-confirmed-booking.php:28
+#: templates/emails/admin-payment-confirmed-booking.php:35
+#: templates/emails/admin-pending-booking.php:28
+#: templates/emails/customer-approved-booking.php:34
+#: templates/emails/customer-cancelled-booking.php:34
+#: templates/emails/customer-confirmation-booking.php:40
+#: templates/emails/customer-pending-booking.php:35
+msgid "Phone: %s"
+msgstr "Telefon Numarası: %s"
+
+#: templates/emails/admin-customer-cancelled-booking.php:26
+#: templates/emails/admin-customer-confirmed-booking.php:26
+#: templates/emails/admin-payment-confirmed-booking.php:33
+#: templates/emails/admin-pending-booking.php:26
+#: templates/emails/customer-approved-booking.php:32
+#: templates/emails/customer-cancelled-booking.php:32
+#: templates/emails/customer-confirmation-booking.php:38
+#: templates/emails/customer-pending-booking.php:33
+msgid "Email: %s"
+msgstr "E-posta: %s"
+
+#: templates/emails/admin-customer-cancelled-booking.php:24
+#: templates/emails/admin-customer-confirmed-booking.php:24
+#: templates/emails/admin-payment-confirmed-booking.php:31
+#: templates/emails/admin-pending-booking.php:24
+#: templates/emails/customer-approved-booking.php:30
+#: templates/emails/customer-cancelled-booking.php:30
+#: templates/emails/customer-confirmation-booking.php:36
+#: templates/emails/customer-pending-booking.php:31
+msgid "Name: %1$s %2$s"
+msgstr "İsim: %1$s %2$s"
+
+#: templates/emails/reserved-room-details.php:25
+msgid "Bed Type: %s"
+msgstr "Yatak Tipi: %s"
+
+#: templates/emails/reserved-room-details.php:21
+msgid "Accommodation Rate: %s"
+msgstr "Konaklama Puanı: %s"
+
+#: templates/emails/reserved-room-details.php:19
+msgid "Accommodation: <a href=\"%1$s\">%2$s</a>"
+msgstr "Konaklama: <a href=\"%1$s\">%2$s</a>"
+
+#: templates/emails/reserved-room-details.php:17
+msgid "Children: %s"
+msgstr "Çocuk: %s"
+
+#: templates/emails/reserved-room-details.php:15
+msgid "Adults: %s"
+msgstr "Yetişkin: %s"
+
+#: templates/emails/admin-customer-cancelled-booking.php:17
+#: templates/emails/admin-customer-confirmed-booking.php:17
+#: templates/emails/admin-payment-confirmed-booking.php:24
+#: templates/emails/admin-pending-booking.php:17
+#: templates/emails/customer-approved-booking.php:17
+#: templates/emails/customer-cancelled-booking.php:18
+#: templates/emails/customer-confirmation-booking.php:24
+#: templates/emails/customer-pending-booking.php:19
+msgid "Details of booking"
+msgstr "Rezervasyon Detayları"
+
+#: templates/emails/admin-customer-cancelled-booking.php:15
+msgid "Booking #%s is cancelled by customer."
+msgstr "Rezervasyon #%s müşteri tarafından iptal edildi."
+
+#: includes/shortcodes/search-results-shortcode.php:668
+msgid "Reserve"
+msgstr "Rezerv edin"
+
+#: template-functions.php:527 template-functions.php:536
+#: templates/shortcodes/search/search-form.php:29
+#: templates/shortcodes/search/search-form.php:48
+#: templates/widgets/search-availability/search-form.php:31
+#: templates/widgets/search-availability/search-form.php:49
+msgctxt "Date format tip"
+msgid "Formatted as %s"
+msgstr "%s olarak biçimlendirildi"
+
+#: template-functions.php:467
+msgid "View Details"
+msgstr "Detayları Görüntüleyin"
+
+#: includes/shortcodes/search-results-shortcode.php:720
+#: template-functions.php:438 template-functions.php:449
+msgid "Book"
+msgstr "Rezerve Edin"
+
+#: includes/admin/menu-pages/calendar-menu-page.php:41
+msgid "Calendar"
+msgstr "Takvim"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:501
+msgid "MotoPress Hotel Booking Shortcodes Parameters"
+msgstr "MotoPress Otel Rezervasyon Kısayolları Parametreleri"
+
+#: includes/admin/menu-pages/settings-menu-page.php:659
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/admin/menu-pages/settings-menu-page.php:663
+msgid "MotoPress Hotel Booking Settings"
+msgstr "MotoPress Otel Rezervasyon Ayarları"
+
+#: includes/wizard.php:81
+msgid "Search Results"
+msgstr "Arama sonuçları"
+
+#: includes/wizard.php:37
+msgid "Skip"
+msgstr "Geçin"
+
+#: includes/wizard.php:36
+msgid "Install Pages"
+msgstr "Sayfaları Yükleyin"
+
+#: includes/wizard.php:35
+msgid "Booking Confirmation and Search Results pages are required to handle bookings. Press \"Install Pages\" button to create and set up these pages. Dismiss this notice if you already installed them."
+msgstr "Rezervasyon işlemlerini gerçekleştirmek için Ödeme ve Arama Sonuçları sayfaları gerekir. Bu sayfaları oluşturmak ve kurmak için \"Sayfaları Kur\" düğmesine basın. Zaten bunları yüklediyseniz bu uyarıyı reddet."
+
+#: includes/wizard.php:34
+msgid "Hotel Booking Plugin"
+msgstr "Otel Rezervasyon Eklentisi"
+
+#: includes/widgets/search-availability-widget.php:213
+msgid "Preset Children:"
+msgstr "Çocuklar için hazır ayar:"
+
+#: includes/widgets/search-availability-widget.php:205
+msgid "Preset Adults:"
+msgstr "Yetişkinler için hazır ayar:"
+
+#: includes/widgets/search-availability-widget.php:197
+#: includes/widgets/search-availability-widget.php:202
+msgctxt "Date format tip"
+msgid "Preset date. Formatted as %s"
+msgstr "Önceden ayarlanmış tarih. %s olarak biçimlendirildi"
+
+#: includes/widgets/search-availability-widget.php:192
+msgid "Title:"
+msgstr "Başlık:"
+
+#: includes/widgets/search-availability-widget.php:46
+msgid "Search Availability Form"
+msgstr "Müsaitliği Arama Formu"
+
+#: includes/widgets/search-availability-widget.php:43 includes/wizard.php:75
+msgid "Search Availability"
+msgstr "Müsaitliği Ara"
+
+#: includes/widgets/rooms-widget.php:190
+msgid "Show Book Button"
+msgstr "Rezervasyon Düğmesini Göster"
+
+#: includes/widgets/rooms-widget.php:186
+msgid "Show Price"
+msgstr "Fiyat Göster"
+
+#: includes/widgets/rooms-widget.php:182
+msgid "Show Details"
+msgstr "Detayları Göster"
+
+#: includes/widgets/rooms-widget.php:178
+msgid "Show Excerpt (short description)"
+msgstr "Alıntıyı Göster (kısa açıklama)"
+
+#: includes/widgets/rooms-widget.php:174
+msgid "Show Featured Image"
+msgstr "Öne Çıkan Resmi Göster"
+
+#: includes/widgets/rooms-widget.php:170
+msgid "Show Title"
+msgstr "Başlığı Göster"
+
+#: includes/widgets/rooms-widget.php:24
+msgid "Display Accommodation Types"
+msgstr "Konaklama Türlerini Görüntüle"
+
+#: includes/views/single-room-type-view.php:250
+msgid "Reservation Form"
+msgstr "Rezervasyon Formu"
+
+#: includes/views/single-room-type-view.php:122
+msgid "Availability"
+msgstr "Müsaitlik"
+
+#: includes/views/loop-service-view.php:46
+msgid "Price:"
+msgstr "Fiyat:"
+
+#: includes/views/loop-room-type-view.php:127
+#: includes/views/single-room-type-view.php:214
+#: templates/widgets/rooms/room-content.php:116
+msgid "View:"
+msgstr "Görüntüle:"
+
+#: includes/views/loop-room-type-view.php:103
+#: includes/views/single-room-type-view.php:190
+#: templates/widgets/rooms/room-content.php:132
+msgid "Bed Type:"
+msgstr "Yatak Tipi:"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:119
+#: includes/views/reserved-room-view.php:24
+msgid "x %d adult"
+msgid_plural "x %d adults"
+msgstr[0] "x %d yetişkin"
+msgstr[1] "x %d yetişkin"
+
+#: includes/admin/room-sync-queue-list-table.php:120
+#: includes/views/booking-view.php:195
+msgid "Total"
+msgstr "Toplam"
+
+#: includes/views/booking-view.php:117
+msgid "Services Subtotal"
+msgstr "Hizmetler Ara Toplamı"
+
+#: includes/views/booking-view.php:105
+#: includes/views/loop-room-type-view.php:39
+#: includes/views/single-room-type-view.php:126
+msgid "Details"
+msgstr "Detaylar"
+
+#: includes/views/booking-view.php:178
+msgid "Subtotal"
+msgstr "Ara Toplam"
+
+#: includes/views/booking-view.php:56
+msgid "Dates"
+msgstr "Tarih"
+
+#: includes/views/booking-view.php:37
+msgid "Rate: %s"
+msgstr "Puan: %s"
+
+#: includes/utils/date-utils.php:99
+msgid "Saturday"
+msgstr "Cumartesi"
+
+#: includes/utils/date-utils.php:98
+msgid "Friday"
+msgstr "Cuma"
+
+#: includes/utils/date-utils.php:97
+msgid "Thursday"
+msgstr "Perşembe"
+
+#: includes/utils/date-utils.php:96
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+#: includes/utils/date-utils.php:95
+msgid "Tuesday"
+msgstr "Salı"
+
+#: includes/utils/date-utils.php:94
+msgid "Monday"
+msgstr "Pazartesi"
+
+#: includes/utils/date-utils.php:93
+msgid "Sunday"
+msgstr "Pazar"
+
+#: includes/shortcodes/checkout-shortcode/step.php:81
+#: includes/shortcodes/checkout-shortcode/step.php:89
+msgid "We received your booking request. Once it is confirmed we will notify you via email."
+msgstr "Rezervasyon isteğinizi aldık. Onaylandığında size e-posta yoluyla haber vereceğiz."
+
+#: includes/shortcodes/checkout-shortcode/step.php:73
+msgid "Details of your reservation have just been sent to you in a confirmation email. Please check your inbox to complete booking."
+msgstr "Rezervasyonunuzun ayrıntıları size bir onay e-postasıyla gönderildi. Lütfen rezervasyonunuzu tamamlamak için gelen kutunuzu kontrol edin."
+
+#: includes/shortcodes/checkout-shortcode/step.php:72
+#: includes/shortcodes/checkout-shortcode/step.php:80
+#: includes/shortcodes/checkout-shortcode/step.php:88
+msgid "Reservation submitted"
+msgstr "Rezervasyon teslim edildi"
+
+#: includes/shortcodes/checkout-shortcode/step.php:63
+msgid "Accommodation is already booked."
+msgstr "Konaklama rezerv edildi."
+
+#: includes/views/shortcodes/checkout-view.php:448
+msgid "Sorry, it seems that there are no available payment methods."
+msgstr "Maalesef, ödeme yöntemi mevcut  değil gibi görünüyor."
+
+#: includes/views/shortcodes/checkout-view.php:545
+#: templates/emails/admin-customer-cancelled-booking.php:32
+#: templates/emails/admin-customer-confirmed-booking.php:32
+#: templates/emails/admin-payment-confirmed-booking.php:39
+#: templates/emails/admin-pending-booking.php:32
+#: templates/emails/customer-approved-booking.php:26
+#: templates/emails/customer-cancelled-booking.php:26
+#: templates/emails/customer-confirmation-booking.php:32
+#: templates/emails/customer-pending-booking.php:28
+msgid "Total Price:"
+msgstr "Toplam Fiyat:"
+
+#: includes/views/shortcodes/checkout-view.php:555
+msgid "Deposit:"
+msgstr "Depozit:"
+
+#: includes/views/shortcodes/checkout-view.php:300
+msgid " adult(s)"
+msgstr " Yetişkin(ler)"
+
+#: includes/views/shortcodes/checkout-view.php:290
+msgid "for "
+msgstr "için "
+
+#: includes/views/shortcodes/checkout-view.php:265
+msgid "Choose Additional Services"
+msgstr "Ek hizmetler seçiniz"
+
+#: includes/post-types/booking-cpt.php:147
+#: includes/views/shortcodes/checkout-view.php:316
+msgid "Price Breakdown"
+msgstr "Fiyat dökümü"
+
+#: includes/views/shortcodes/checkout-view.php:211
+msgid "Choose Rate"
+msgstr "Puan Seç"
+
+#: includes/widgets/search-availability-widget.php:200
+msgid "Check-out Date:"
+msgstr "Çıkış Tarihi:"
+
+#: includes/widgets/search-availability-widget.php:196
+msgid "Check-in Date:"
+msgstr "Giriş Tarihi:"
+
+#: includes/shortcodes/search-results-shortcode.php:646
+msgid "%d adult"
+msgid_plural "%d adults"
+msgstr[0] "%d Yetişkin"
+msgstr[1] "%d Yetişkin"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:131
+msgid "Guest:"
+msgstr "Misafirler:"
+
+#: includes/views/loop-room-type-view.php:55
+#: includes/views/single-room-type-view.php:142
+#: templates/widgets/rooms/room-content.php:74
+msgid "Categories:"
+msgstr "Kategoriler:"
+
+#: includes/views/shortcodes/checkout-view.php:92
+msgid "Booking Details"
+msgstr "Rezervasyon Detayları"
+
+#. full address
+#: includes/views/shortcodes/checkout-view.php:428
+msgid "Notes"
+msgstr "Notlar"
+
+#: includes/views/shortcodes/checkout-view.php:340 template-functions.php:516
+#: templates/widgets/search-availability/search-form.php:19
+msgid "Required fields are followed by %s"
+msgstr "Gerekli alanlar aşağıdakiler tarafından takip edilir %s"
+
+#: includes/views/shortcodes/checkout-view.php:668
+msgid "Book Now"
+msgstr "Şimdi Rezerv Edin"
+
+#: includes/shortcodes/checkout-shortcode/step-booking.php:456
+msgid "Unable to create booking. Please try again."
+msgstr "Rezervasyon oluşturulamadı. Lütfen tekrar deneyin."
+
+#: includes/script-managers/public-script-manager.php:162
+msgid "Rules:"
+msgstr "Kurallar:"
+
+#. for dates between "not stay-in" (rules, existsing bookings) date and "max
+#. days stay" date
+#: includes/script-managers/public-script-manager.php:161
+msgid "Later than max date for current check-in date"
+msgstr "Geçerli check-in tarihinin maksimum tarihten sonra"
+
+#: includes/script-managers/public-script-manager.php:159
+msgid "More than max days (%s) stay"
+msgstr "Maksimum gün sayısından fazla (%s) kalma"
+
+#: includes/script-managers/public-script-manager.php:158
+msgid "Less than min days (%s) stay"
+msgstr "Minimum gün sayısından (%s) daha az kalma"
+
+#: includes/script-managers/public-script-manager.php:157
+msgid "Check-in date"
+msgstr "Giriş Tarihi"
+
+#: includes/script-managers/public-script-manager.php:156
+msgid "Day in the past"
+msgstr "Geçen gün"
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:329
+#: includes/script-managers/public-script-manager.php:155
+msgid "Not check-out"
+msgstr "Çıkış yapılmıyor"
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:328
+#: includes/script-managers/public-script-manager.php:154
+msgid "Not check-in"
+msgstr "Giriş yapılmıyor"
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:330
+#: includes/script-managers/public-script-manager.php:153
+msgid "Not stay-in"
+msgstr "Kalınmıyor"
+
+#: includes/script-managers/public-script-manager.php:152
+msgid "Not available"
+msgstr "Müsait değil"
+
+#: includes/script-managers/public-script-manager.php:151
+msgid "Available"
+msgstr "Müsait"
+
+#: includes/script-managers/admin-script-manager.php:64
+msgid "An error has occurred"
+msgstr "Bir hata oluştu"
+
+#: includes/script-managers/admin-script-manager.php:63
+msgid "Add Gallery To Accommodation Type"
+msgstr "Konaklama Tipine Galeri Ekle"
+
+#: includes/script-managers/admin-script-manager.php:62
+msgid "Accommodation Type Gallery"
+msgstr "Konaklama Türü Galerisi"
+
+#: includes/post-types/service-cpt.php:135
+msgid "How many times the customer will be charged."
+msgstr "Kaç kez müşteri ücretlendirilecek."
+
+#: includes/post-types/service-cpt.php:103
+msgctxt "slug"
+msgid "service"
+msgstr "service"
+
+#: includes/post-types/service-cpt.php:92
+msgid "This is where you can add new service to your hotel."
+msgstr "Burası, otelinize yeni hizmet ekleyebileceğiniz yerdir."
+
+#: includes/post-types/service-cpt.php:87
+msgid "Uploaded to this service"
+msgstr "Bu servise yüklendi"
+
+#: includes/post-types/service-cpt.php:86
+msgid "Insert into service description"
+msgstr "Hizmet açıklamalarına ekle"
+
+#: includes/post-types/service-cpt.php:84
+msgid "No services found in Trash"
+msgstr "Çöp Kutusunda hiçbir hizmet bulunamadı"
+
+#: includes/post-types/service-cpt.php:83
+msgid "No services found"
+msgstr "Hiç bir hizmet bulunamadı"
+
+#: includes/post-types/service-cpt.php:82
+msgid "Search Service"
+msgstr "Hizmet ara"
+
+#: includes/post-types/service-cpt.php:81
+msgid "View Service"
+msgstr "Hizmet Görüntüle"
+
+#: includes/post-types/service-cpt.php:80
+msgid "New Service"
+msgstr "Yeni Hizmet"
+
+#: includes/post-types/service-cpt.php:79
+msgid "Edit Service"
+msgstr "Hizmeti Düzenle"
+
+#: includes/post-types/service-cpt.php:78
+msgid "Add New Service"
+msgstr "Yeni Hizmet Ekle"
+
+#: includes/post-types/service-cpt.php:77
+msgctxt "Add New Service"
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: includes/post-types/season-cpt.php:61
+msgid "Search Season"
+msgstr "Sezon Ara"
+
+#: includes/post-types/season-cpt.php:60
+msgid "View Season"
+msgstr "Sezon Görüntüle"
+
+#: includes/post-types/season-cpt.php:59
+msgid "New Season"
+msgstr "Yeni Sezon"
+
+#: includes/post-types/season-cpt.php:58
+msgid "Edit Season"
+msgstr "Sezon Düzenle"
+
+#: includes/post-types/season-cpt.php:57
+msgid "Add New Season"
+msgstr "Yeni Sezon Ekle"
+
+#: includes/post-types/season-cpt.php:56
+msgctxt "Add New Season"
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:184
+#: includes/admin/menu-pages/booking-rules-menu-page.php:215
+#: includes/admin/menu-pages/booking-rules-menu-page.php:247
+#: includes/admin/menu-pages/booking-rules-menu-page.php:279
+#: includes/post-types/season-cpt.php:54 includes/post-types/season-cpt.php:64
+msgid "Seasons"
+msgstr "Sezonlar"
+
+#: includes/post-types/season-cpt.php:38
+msgid "Applied for days"
+msgstr "Günler için uygulanır"
+
+#: includes/post-types/season-cpt.php:30
+msgid "End date"
+msgstr "Bitiş tarihi"
+
+#: includes/post-types/season-cpt.php:22
+msgid "Start date"
+msgstr "Başlayış tarihi"
+
+#: includes/post-types/season-cpt.php:17
+msgid "Season Info"
+msgstr "Sezon bilgisi"
+
+#: includes/post-types/room-type-cpt.php:279
+#: includes/post-types/room-type-cpt.php:283
+msgid "Available Services"
+msgstr "Kullanılabilir Hizmetler"
+
+#: includes/post-types/room-type-cpt.php:271
+msgid "Photo Gallery"
+msgstr "Fotoğraf Galerisi"
+
+#: includes/post-types/room-type-cpt.php:263
+msgid "Set bed types list in <a href=\"%link%\" target=\"_blank\">settings</a>."
+msgstr "Yatak tiplerini <a href=\"%link%\" target=\"_blank\"> ayarlar </a> bölümünde ayarla."
+
+#: includes/post-types/room-type-cpt.php:261
+msgid "Bed type"
+msgstr "Yatak Tipi"
+
+#: includes/post-types/room-type-cpt.php:251
+msgid "City view, seaside, swimming pool etc."
+msgstr "Şehir manzarası, deniz kenarı, yüzme havuzu vb."
+
+#: includes/post-types/room-type-cpt.php:246
+msgid "Other"
+msgstr "Diğerleri"
+
+#: includes/post-types/room-type-cpt.php:237
+msgid "Size, %s"
+msgstr "Boyut, %s"
+
+#: includes/post-types/room-type-cpt.php:197
+msgctxt "slug"
+msgid "accommodation-facility"
+msgstr "accommodation-facility"
+
+#: includes/post-types/room-type-cpt.php:184
+msgid "No amenities found."
+msgstr "Hiç bir tesis bulunmadı."
+
+#: includes/post-types/room-type-cpt.php:183
+msgid "Choose from the most used amenities"
+msgstr "En çok kullanılan tesislerden seçin"
+
+#: includes/post-types/room-type-cpt.php:182
+msgid "Add or remove amenities"
+msgstr "Tesis ekle veya çıkarın"
+
+#: includes/post-types/room-type-cpt.php:181
+msgid "Separate amenities with commas"
+msgstr "Tesisleri virgül ile ayırın"
+
+#: includes/post-types/room-type-cpt.php:116
+msgctxt "slug"
+msgid "accommodation-category"
+msgstr "accommodation-category"
+
+#: includes/post-types/room-type-cpt.php:104
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: includes/post-types/room-type-cpt.php:103
+msgid "No categories found."
+msgstr "Hiç bir kategori bulunmadı."
+
+#: includes/post-types/room-type-cpt.php:102
+msgid "Choose from the most used categories"
+msgstr "En çok kullanılan kategoriler seçin"
+
+#: includes/post-types/room-type-cpt.php:101
+msgid "Add or remove categories"
+msgstr "Kategori ekle veya çıkarın"
+
+#: includes/post-types/room-type-cpt.php:100
+msgid "Separate categories with commas"
+msgstr "Kategorileri virgül ile ayırın"
+
+#: includes/post-types/room-type-cpt.php:99
+msgid "New Accommodation Category Name"
+msgstr "Yeni Konaklama Kategori İsmi"
+
+#: includes/post-types/room-type-cpt.php:98
+msgid "Add New Accommodation Category"
+msgstr "Yeni Konaklama Kategori İsmi Ekle"
+
+#: includes/post-types/room-type-cpt.php:97
+msgid "Update Accommodation Category"
+msgstr "Konaklama Kategorisini Güncelle"
+
+#: includes/post-types/room-type-cpt.php:96
+msgid "Edit Accommodation Category"
+msgstr "Konaklama Kategorisini Güncelle"
+
+#: includes/post-types/room-type-cpt.php:95
+msgid "Parent Accommodation Category:"
+msgstr "Uygun Konaklama Kategorisi:"
+
+#: includes/post-types/room-type-cpt.php:94
+msgid "Parent Accommodation Category"
+msgstr "Uygun Konaklama Kategorisi"
+
+#: includes/post-types/room-type-cpt.php:93
+msgid "All Accommodation Categories"
+msgstr "Tüm Konaklama Kategorileri"
+
+#: includes/post-types/room-type-cpt.php:92
+msgid "Popular Accommodation Categories"
+msgstr "Popüler Konaklama Kategorisi"
+
+#: includes/post-types/room-type-cpt.php:91
+msgid "Search Accommodation Categories"
+msgstr "Konaklama Kategorisi Ara"
+
+#: includes/post-types/room-type-cpt.php:90
+msgid "Accommodation Category"
+msgstr "Konaklama Kategorisi"
+
+#: includes/post-types/room-type-cpt.php:89
+msgid "Accommodation Categories"
+msgstr "Konaklama Kategorileri"
+
+#: includes/post-types/room-type-cpt.php:69
+msgctxt "slug"
+msgid "accommodation"
+msgstr "accommodation"
+
+#: includes/post-types/room-type-cpt.php:58
+msgid "This is where you can add new accommodation types to your hotel."
+msgstr "Burası, otelinize yeni konaklama ekleyebileceğiniz yerdir."
+
+#: includes/post-types/room-type-cpt.php:53
+msgid "Uploaded to this accommodation type"
+msgstr "Bu konaklama türüne yüklendi"
+
+#: includes/post-types/room-type-cpt.php:52
+msgid "Insert into accommodation type description"
+msgstr "Konaklama türü açıklamalarına ekle"
+
+#: includes/post-types/room-type-cpt.php:50
+msgid "No Accommodation types found in Trash"
+msgstr "Çöp Kutusunda hiçbir Konaklama türü bulunamadı"
+
+#: includes/post-types/room-type-cpt.php:49
+msgid "No Accommodation types found"
+msgstr "Hiçbir Konaklama türü bulunamadı"
+
+#: includes/post-types/room-type-cpt.php:48
+msgid "Search Accommodation Type"
+msgstr "Konaklama Türü Ara"
+
+#: includes/post-types/room-type-cpt.php:46
+msgid "View Accommodation Type"
+msgstr "Konaklama Türünü Görüntüle"
+
+#: includes/post-types/room-type-cpt.php:45
+msgid "New Accommodation Type"
+msgstr "Yeni Konaklama Türü"
+
+#: includes/post-types/room-type-cpt.php:44
+msgid "Edit Accommodation Type"
+msgstr "Konaklama Türünü Düzenle"
+
+#: includes/post-types/room-type-cpt.php:43
+msgid "Add New Accommodation Type"
+msgstr "Yeni Konaklama Türünü Ekle"
+
+#: includes/post-types/room-type-cpt.php:42
+msgctxt "Add New Accommodation Type"
+msgid "Add Accommodation Type"
+msgstr "Konaklama Türünü Ekle"
+
+#: includes/post-types/coupon-cpt.php:49
+#: includes/post-types/room-type-cpt.php:40
+#: includes/post-types/room-type-cpt.php:51
+#: includes/widgets/rooms-widget.php:21
+msgid "Accommodation Types"
+msgstr "Konaklama Türleri"
+
+#: includes/post-types/room-cpt.php:38
+msgid "This is where you can add new accommodations to your hotel."
+msgstr "Burası, otelinize yeni konaklama ekleyebileceğiniz yerdir."
+
+#: includes/post-types/room-cpt.php:33
+msgid "Uploaded to this accommodation"
+msgstr "Bu konaklama türüne yüklendi"
+
+#: includes/post-types/room-cpt.php:32
+msgid "Insert into accommodation description"
+msgstr "Konaklama türü açıklamalarına ekle"
+
+#: includes/post-types/room-cpt.php:30
+msgid "No accommodations found in Trash"
+msgstr "Çöp Kutusunda hiçbir Konaklama türü bulunamadı"
+
+#: includes/post-types/room-cpt.php:29
+#: templates/shortcodes/search-results/results-info.php:19
+msgid "No accommodations found"
+msgstr "Hiçbir konaklama bulunamadı"
+
+#: includes/post-types/room-cpt.php:28
+msgid "Search Accommodation"
+msgstr "Konaklama Ara"
+
+#: includes/post-types/room-cpt.php:27
+msgid "View Accommodation"
+msgstr "Konaklama Görüntüle"
+
+#: includes/post-types/room-cpt.php:26
+msgid "New Accommodation"
+msgstr "Yeni Konaklama"
+
+#: includes/post-types/room-cpt.php:25
+msgid "Edit Accommodation"
+msgstr "Konaklamayı Düzenle"
+
+#: includes/post-types/room-cpt.php:24
+msgid "Add New Accommodation"
+msgstr "Yeni Konaklama Ekle"
+
+#: includes/post-types/room-cpt.php:23
+msgctxt "Add New Accommodation"
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: includes/post-types/season-cpt.php:71
+msgid "This is where you can add new seasons."
+msgstr "Burası, otelinize yeni sezonlar ekleyebileceğiniz yerdir."
+
+#: includes/post-types/season-cpt.php:66
+msgid "Uploaded to this season"
+msgstr "Bu sezona yüklendi"
+
+#: includes/post-types/season-cpt.php:65
+msgid "Insert into season description"
+msgstr "Sezon açıklamalarına ekle"
+
+#: includes/post-types/season-cpt.php:63
+msgid "No seasons found in Trash"
+msgstr "Çöp Kutusunda hiçbir sezon bulunamadı"
+
+#: includes/post-types/season-cpt.php:62
+msgid "No seasons found"
+msgstr "Hiçbir sezon bulunamadı"
+
+#: includes/post-types/rate-cpt.php:89
+msgid "Search Rate"
+msgstr "Puan Ara"
+
+#: includes/post-types/rate-cpt.php:88
+msgid "View Rate"
+msgstr "Puan Görüntüle"
+
+#: includes/post-types/rate-cpt.php:87
+msgid "New Rate"
+msgstr "Yeni Puan"
+
+#: includes/post-types/rate-cpt.php:86
+msgid "Edit Rate"
+msgstr "Puan Düzenle"
+
+#: includes/post-types/rate-cpt.php:85
+msgid "Add New Rate"
+msgstr "Yeni Puan Ekle"
+
+#: includes/post-types/rate-cpt.php:84
+msgctxt "Add New Rate"
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: includes/post-types/rate-cpt.php:82 includes/post-types/rate-cpt.php:92
+msgid "Rates"
+msgstr "Puan"
+
+#: includes/post-types/rate-cpt.php:69
+msgid "Will be displayed on the checkout page."
+msgstr "Ödeme Sayfasında görüntülenecek."
+
+#: includes/post-types/rate-cpt.php:62
+msgid "Add New Season Price"
+msgstr "Yeni Sezon Fıyatını Ekle"
+
+#: includes/post-types/rate-cpt.php:61
+msgid "Move price to top to set higher priority."
+msgstr "Daha yüksek önceliği ayarlamak için fiyatı en üste getirin."
+
+#: includes/post-types/rate-cpt.php:40 includes/post-types/season-cpt.php:55
+msgid "Season"
+msgstr "Sezon"
+
+#: includes/post-types/rate-cpt.php:36
+msgid "Season Prices"
+msgstr "Sezon Fiyatları"
+
+#: includes/post-types/rate-cpt.php:23
+msgid "Rate Info"
+msgstr "Puan Bilgisi"
+
+#: includes/post-types/payment-cpt/statuses.php:144
+msgid "Payment (#%s) for this booking is on hold"
+msgstr "Bu Rezervasyon için olan Ödeme (#%s) beklemede"
+
+#: includes/post-types/payment-cpt/statuses.php:96
+msgid "Refunded <span class=\"count\">(%s)</span>"
+msgid_plural "Refunded <span class=\"count\">(%s)</span>"
+msgstr[0] "Geri Ödendi <span class=\"count\">(%s)</span>"
+msgstr[1] "Geri Ödendi <span class=\"count\">(%s)</span>"
+
+#: includes/post-types/payment-cpt/statuses.php:91
+msgctxt "Payment status"
+msgid "Refunded"
+msgstr "Geri Ödendi"
+
+#: includes/post-types/payment-cpt/statuses.php:86
+msgid "On Hold <span class=\"count\">(%s)</span>"
+msgid_plural "On Hold <span class=\"count\">(%s)</span>"
+msgstr[0] "Beklemede <span class=\"count\">(%s)</span>"
+msgstr[1] "Beklemede <span class=\"count\">(%s)</span>"
+
+#: includes/post-types/payment-cpt/statuses.php:81
+msgctxt "Payment status"
+msgid "On Hold"
+msgstr "Beklemede"
+
+#: includes/post-types/payment-cpt/statuses.php:71
+msgctxt "Payment status"
+msgid "Abandoned"
+msgstr "Terkedilmiş"
+
+#: includes/post-types/payment-cpt/statuses.php:66
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] "Başarısız <span class=\"count\">(%s)</span>"
+msgstr[1] "Başarısız <span class=\"count\">(%s)</span>"
+
+#: includes/post-types/payment-cpt/statuses.php:61
+msgctxt "Payment status"
+msgid "Failed"
+msgstr "Başarısız"
+
+#: includes/post-types/payment-cpt/statuses.php:51
+msgctxt "Payment status"
+msgid "Completed"
+msgstr "Tamamlandı"
+
+#: includes/post-types/payment-cpt/statuses.php:46
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] "Beklemede <span class=\"count\">(%s)</span>"
+msgstr[1] "Beklemede <span class=\"count\">(%s)</span>"
+
+#: includes/post-types/payment-cpt/statuses.php:41
+msgctxt "Payment status"
+msgid "Pending"
+msgstr "Beklemede"
+
+#: includes/post-types/payment-cpt.php:288
+msgid "Postal Code (ZIP)"
+msgstr "Posta Kodu"
+
+#: includes/post-types/payment-cpt.php:260
+msgid "Address 2"
+msgstr "Adres 2"
+
+#: includes/post-types/payment-cpt.php:253
+msgid "Address 1"
+msgstr "Adres 1"
+
+#: includes/post-types/payment-cpt.php:219
+msgid "Billing Info"
+msgstr "Fatura bilgisi"
+
+#: includes/post-types/payment-cpt.php:196
+msgid "Payment Type"
+msgstr "Ödeme Türü"
+
+#: includes/post-types/payment-cpt.php:177
+msgid "Fee"
+msgstr "Ücret"
+
+#: includes/post-types/payment-cpt.php:157
+msgid "Live"
+msgstr "Canlı"
+
+#: includes/post-types/payment-cpt.php:156
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: includes/post-types/payment-cpt.php:154
+msgid "Gateway Mode"
+msgstr "Ağ Geçidi Modu"
+
+#: includes/post-types/payment-cpt.php:122
+msgid "Payment Details"
+msgstr "Ödeme Detayları"
+
+#: includes/post-types/payment-cpt.php:48
+msgid "Payments."
+msgstr "Ödemeler."
+
+#: includes/post-types/payment-cpt.php:43
+msgid "Uploaded to this payment"
+msgstr "Bu ödemeye yüklendi"
+
+#: includes/post-types/payment-cpt.php:42
+msgid "Insert into payment description"
+msgstr "Ödeme açıklamalarına ekle"
+
+#: includes/post-types/payment-cpt.php:41
+msgid "Payments"
+msgstr "Ödemeler"
+
+#: includes/post-types/payment-cpt.php:40
+msgid "No payments found in Trash"
+msgstr "Çöp Kutusunda hiçbir ödeme bulunamadı"
+
+#: includes/post-types/payment-cpt.php:39
+msgid "No payments found"
+msgstr "Hiç bir ödeme bulunamadı"
+
+#: includes/post-types/payment-cpt.php:38
+msgid "Search Payment"
+msgstr "Ödemeyi Ara"
+
+#: includes/post-types/payment-cpt.php:37
+msgid "View Payment"
+msgstr "Ödemeyi Görüntüle"
+
+#: includes/post-types/payment-cpt.php:36
+msgid "New Payment"
+msgstr "Yeni Ödeme"
+
+#: includes/post-types/payment-cpt.php:35
+msgid "Edit Payment"
+msgstr "Ödemeyi Düzenle"
+
+#: includes/post-types/payment-cpt.php:34
+msgid "Add New Payment"
+msgstr "Yeni Ödeme Ekle"
+
+#: includes/post-types/payment-cpt.php:33
+msgctxt "Add New Payment"
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: includes/post-types/payment-cpt.php:32
+msgid "Payment"
+msgstr "Ödeme"
+
+#: includes/post-types/payment-cpt.php:31
+msgid "Payment History"
+msgstr "Ödeme Geçmişi"
+
+#: includes/post-types/booking-cpt/statuses.php:172
+#: includes/post-types/payment-cpt/statuses.php:166
+msgid "Status changed from %s to %s."
+msgstr "Durum %s'dan %s olarak değişmiştir."
+
+#: includes/post-types/booking-cpt/statuses.php:110
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] "İptal <span class=\"count\">(%s)</span>"
+msgstr[1] "İptal <span class=\"count\">(%s)</span>"
+
+#: includes/post-types/booking-cpt/statuses.php:105
+msgctxt "Booking status"
+msgid "Cancelled"
+msgstr "İptal edildi"
+
+#: includes/post-types/booking-cpt/statuses.php:100
+msgid "Confirmed <span class=\"count\">(%s)</span>"
+msgid_plural "Confirmed <span class=\"count\">(%s)</span>"
+msgstr[0] "Onaylandı <span class=\"count\">(%s)</span>"
+msgstr[1] "Onaylandı <span class=\"count\">(%s)</span>"
+
+#: includes/post-types/booking-cpt/statuses.php:95
+msgctxt "Booking status"
+msgid "Confirmed"
+msgstr "Onaylandı"
+
+#: includes/post-types/booking-cpt/statuses.php:90
+#: includes/post-types/payment-cpt/statuses.php:76
+msgid "Abandoned <span class=\"count\">(%s)</span>"
+msgid_plural "Abandoned <span class=\"count\">(%s)</span>"
+msgstr[0] "Terk edildi <span class=\"count\">(%s)</span>"
+msgstr[1] "Terk edildi <span class=\"count\">(%s)</span>"
+
+#: includes/post-types/booking-cpt/statuses.php:85
+msgctxt "Booking status"
+msgid "Abandoned"
+msgstr "Terk edildi"
+
+#: includes/post-types/booking-cpt/statuses.php:80
+msgid "Pending Admin <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Admin <span class=\"count\">(%s)</span>"
+msgstr[0] "Yöneticiyi beklemede <span class=\"count\">(%s)</span>"
+msgstr[1] "Yöneticiyi beklemede <span class=\"count\">(%s)</span>"
+
+#: includes/post-types/booking-cpt/statuses.php:75
+msgctxt "Booking status"
+msgid "Pending Admin"
+msgstr "Yöneticiyi beklemede"
+
+#: includes/post-types/booking-cpt/statuses.php:70
+msgid "Pending Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Payment <span class=\"count\">(%s)</span>"
+msgstr[0] "Ödeme bekleniyor <span class=\"count\">(%s)</span>"
+msgstr[1] "Ödeme bekleniyor <span class=\"count\">(%s)</span>"
+
+#: includes/post-types/booking-cpt/statuses.php:65
+msgctxt "Booking status"
+msgid "Pending Payment"
+msgstr "Ödeme bekleniyor"
+
+#: includes/post-types/booking-cpt/statuses.php:60
+msgid "Pending User Confirmation <span class=\"count\">(%s)</span>"
+msgid_plural "Pending User Confirmation <span class=\"count\">(%s)</span>"
+msgstr[0] "Kullanıcı onayı bekleniyor <span class=\"count\">(%s)</span>"
+msgstr[1] "Kullanıcı onayı bekleniyor <span class=\"count\">(%s)</span>"
+
+#: includes/post-types/booking-cpt/statuses.php:55
+msgctxt "Booking status"
+msgid "Pending User Confirmation"
+msgstr "Kullanıcı Onayı Bekleniyor"
+
+#: includes/post-types/booking-cpt.php:176
+msgid "Uploaded to this booking"
+msgstr "Bu rezervasyona yüklendi"
+
+#: includes/post-types/booking-cpt.php:175
+msgid "Insert into booking description"
+msgstr "Rezervasyon açıklamalarına ekle"
+
+#: includes/post-types/booking-cpt.php:174
+msgid "All Bookings"
+msgstr "Tüm Rezervasyonlar"
+
+#: includes/post-types/booking-cpt.php:173
+msgid "No bookings found in Trash"
+msgstr "Çöp Kutusunda hiçbir rezervasyon bulunamadı"
+
+#: includes/post-types/booking-cpt.php:172
+msgid "No bookings found"
+msgstr "Hiçbir rezervasyon bulunamadı"
+
+#: includes/post-types/booking-cpt.php:171
+msgid "Search Booking"
+msgstr "Rezervasyon Ara"
+
+#: includes/post-types/booking-cpt.php:170
+#: templates/emails/admin-customer-cancelled-booking.php:16
+#: templates/emails/admin-customer-confirmed-booking.php:16
+#: templates/emails/admin-payment-confirmed-booking.php:16
+#: templates/emails/admin-pending-booking.php:16
+msgid "View Booking"
+msgstr "Rezervasyonu Görüntüle"
+
+#: includes/post-types/booking-cpt.php:169
+msgid "New Booking"
+msgstr "Yeni Rezervasyon"
+
+#: includes/post-types/booking-cpt.php:168
+msgid "Edit Booking"
+msgstr "Rezervasyonu Düzenle"
+
+#: includes/post-types/booking-cpt.php:167
+msgid "Add New Booking"
+msgstr "Yeni Rezervasyon Ekle"
+
+#: includes/post-types/booking-cpt.php:166
+msgctxt "Add New Booking"
+msgid "Add New Booking"
+msgstr "Yeni Rezervasyon Ekle"
+
+#: includes/admin/menus.php:71 includes/admin/menus.php:72
+#: includes/post-types/booking-cpt.php:164
+msgid "Bookings"
+msgstr "Rezervasyonlar"
+
+#: includes/post-types/booking-cpt.php:142
+msgid "Total Booking Price"
+msgstr "Toplam Rezervasyon Ücreti"
+
+#: includes/post-types/booking-cpt.php:130
+msgid "Additional Information"
+msgstr "Ek Bilgi"
+
+#: includes/post-types/booking-cpt.php:62
+#: templates/emails/customer-approved-booking.php:29
+#: templates/emails/customer-cancelled-booking.php:29
+#: templates/emails/customer-confirmation-booking.php:35
+#: templates/emails/customer-pending-booking.php:30
+msgid "Customer Information"
+msgstr "Müşteri Bilgisi"
+
+#: includes/post-types/service-cpt.php:76 includes/views/booking-view.php:104
+msgid "Service"
+msgstr "Hizmet"
+
+#: includes/post-types/booking-cpt.php:34
+msgid "Booking Information"
+msgstr "Rezervasyon Bilgisi"
+
+#: includes/payments/gateways/two-checkout/ins-listener.php:89
+msgid "2Checkout fraud review in progress"
+msgstr "\"2Checkout\" sahtekarlık incelemesi devam ediyor"
+
+#: includes/payments/gateways/two-checkout/ins-listener.php:86
+msgid "2Checkout fraud review failed"
+msgstr "\"2Checkout\" sahtekarlık incelemesi başarısız oldu"
+
+#: includes/payments/gateways/two-checkout/ins-listener.php:83
+msgid "2Checkout fraud review passed"
+msgstr "\"2Checkout\" dolandırıcılık incelemesi geçti"
+
+#: includes/payments/gateways/two-checkout/ins-listener.php:75
+msgid "Payment refunded in 2Checkout"
+msgstr "2Checkout ile ödeme iade edildi"
+
+#: includes/payments/gateways/two-checkout/ins-listener.php:69
+msgid "2Checkout \"Order Created\" notification received."
+msgstr "2Checkout \"Sipariş Oluşturma\" bildirimi alındı."
+
+#: includes/payments/gateways/two-checkout-gateway.php:172
+msgid "Secret Word"
+msgstr "Gizli Kelime"
+
+#: includes/payments/gateways/two-checkout-gateway.php:167
+msgid "Account Number"
+msgstr "Hesap Numarası"
+
+#: includes/payments/gateways/two-checkout-gateway.php:74
+msgid "Click Apply"
+msgstr "Uygula' ya tıklayın"
+
+#: includes/payments/gateways/two-checkout-gateway.php:73
+msgid "In the Global URL field, enter the url %s"
+msgstr "Evrensel URL alanına url %s girin"
+
+#: includes/payments/gateways/two-checkout-gateway.php:72
+msgid "Click Enable All Notifications"
+msgstr "Tüm Bildirimleri Etkinleştir'i tıklayın"
+
+#: includes/payments/gateways/two-checkout-gateway.php:71
+msgid "Login to your 2Checkout account and click the Notifications tab"
+msgstr "2Checkout hesabınıza giriş yapın ve Bildirimler sekmesini tıklayın"
+
+#: includes/payments/gateways/two-checkout-gateway.php:69
+msgid "To setup the callback process for 2Checkout to automatically mark payments completed, you will need to"
+msgstr "2Checkout' ta Tamamlanan ödemeleri otomatik olarak işaretlemek amacıyla geri arama işlemini kurmak için, ihtiyacınız olacak"
+
+#: includes/payments/gateways/two-checkout-gateway.php:46
+#: includes/payments/gateways/two-checkout-gateway.php:82
+msgid "2Checkout"
+msgstr "2Checkout"
+
+#: includes/payments/gateways/test-gateway.php:13
+#: includes/payments/gateways/test-gateway.php:18
+msgid "Test Payment"
+msgstr "Test Ödemesi"
+
+#: includes/payments/gateways/stripe/stripe-api.php:63
+msgid "There was a problem connecting to the payment gateway."
+msgstr "Ödeme ağ geçidine bağlanırken bir sorun oluştu."
+
+#: includes/payments/gateways/beanstream-gateway.php:74
+#: includes/payments/gateways/braintree-gateway.php:171
+#: includes/payments/gateways/stripe-gateway.php:167
+msgid "The <a href=\"%2$s\">Force Secure Checkout</a> option is disabled. Please enable SSL and ensure your server has a valid SSL certificate. Otherwise, %1$s will only work in Test Mode."
+msgstr "Stripe etkinleştirildi, Ancak <a href=\"%2$s\"> Güvenli Ödeme Yap </a> seçeneği devre dışıdır. Lütfen SSL'yi etkinleştirin ve sunucunuzun geçerli bir SSL sertifikasına sahip olduğundan emin olun. Aksi takdirde, %1$s yalnızca Test Modunda çalışır."
+
+#: includes/payments/gateways/stripe-gateway.php:501
+msgid "Swedish"
+msgstr "İsveççe"
+
+#: includes/payments/gateways/stripe-gateway.php:500
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#: includes/payments/gateways/stripe-gateway.php:499
+msgid "Norwegian"
+msgstr "Norveççe"
+
+#: includes/payments/gateways/stripe-gateway.php:498
+msgid "Japanese"
+msgstr "Japonca"
+
+#: includes/payments/gateways/stripe-gateway.php:497
+msgid "Italian"
+msgstr "İtalyanca"
+
+#: includes/payments/gateways/stripe-gateway.php:496
+msgid "German"
+msgstr "Almanca"
+
+#: includes/payments/gateways/stripe-gateway.php:495
+msgid "French"
+msgstr "Fransızca"
+
+#: includes/payments/gateways/stripe-gateway.php:494
+msgid "Finnish"
+msgstr "Fince"
+
+#: includes/payments/gateways/stripe-gateway.php:493
+msgid "English"
+msgstr "İngilizce"
+
+#: includes/payments/gateways/stripe-gateway.php:492
+msgid "Dutch"
+msgstr "Flemenkçe"
+
+#: includes/payments/gateways/stripe-gateway.php:491
+msgid "Danish"
+msgstr "Danimarkaca"
+
+#: includes/payments/gateways/stripe-gateway.php:490
+msgid "Simplified Chinese"
+msgstr "Basitleştirilmiş Çince"
+
+#: includes/payments/gateways/stripe-gateway.php:405
+msgid "Stripe charge complete (Charge ID: %s)"
+msgstr "Stripe ücretlendirme tamamlandı (Ücret No: %s)"
+
+#: includes/payments/gateways/stripe-gateway.php:323
+msgid "Could not find payment information."
+msgstr "Ödeme bilgileri bulunamadı."
+
+#: includes/payments/gateways/stripe-gateway.php:322
+msgid "An error occurred while processing the card."
+msgstr "Kartın işlenmesi sırasında bir hata oluştu."
+
+#: includes/payments/gateways/stripe-gateway.php:321
+msgid "There is no card on a customer that is being charged."
+msgstr "Ücretlendirilecek müşteriye ait kart yok."
+
+#: includes/payments/gateways/stripe-gateway.php:320
+msgid "The card was declined."
+msgstr "Kart reddedildi."
+
+#: includes/payments/gateways/stripe-gateway.php:319
+msgid "The card's zip code failed validation."
+msgstr "Kartın posta kodu doğrulanamadı."
+
+#: includes/payments/gateways/stripe-gateway.php:318
+msgid "The card's security code is incorrect."
+msgstr "Kartın güvenlik kodu yanlış."
+
+#: includes/payments/gateways/stripe-gateway.php:317
+msgid "The card has expired."
+msgstr "Kartın süresi doldu."
+
+#: includes/payments/gateways/stripe-gateway.php:316
+msgid "The card number is incorrect."
+msgstr "Kart numarası yanlış."
+
+#: includes/payments/gateways/stripe-gateway.php:315
+msgid "The card's security code is invalid."
+msgstr "Kartın güvenlik kodu geçersiz."
+
+#: includes/payments/gateways/stripe-gateway.php:314
+msgid "The card's expiration year is invalid."
+msgstr "Kartın son kullanma tarihi geçersiz."
+
+#: includes/payments/gateways/stripe-gateway.php:313
+msgid "The card's expiration month is invalid."
+msgstr "Kartın son kullanma ayı geçersiz."
+
+#: includes/payments/gateways/stripe-gateway.php:312
+msgid "The card number is not a valid credit card number."
+msgstr "Kart numarası geçerli bir kredi kart numarası değil."
+
+#: includes/payments/gateways/stripe-gateway.php:286
+msgid "Stripe Payment Error: %s"
+msgstr "Stripe Ödeme Hatası: %s"
+
+#: includes/payments/gateways/stripe-gateway.php:266
+msgid "Sorry, the minimum allowed payment amount is %1$s to use this payment method."
+msgstr "Maalesef, bu ödeme yöntemini kullanabilmek için izin verilen minimum ödeme tutarı %1$s."
+
+#: includes/payments/gateways/stripe-gateway.php:236
+msgid "%s - Payment %s"
+msgstr "%s - Ödeme %s"
+
+#: includes/payments/gateways/stripe-gateway.php:216
+msgid "Display Checkout in the user's preferred language, if available."
+msgstr "Ödeme'yi mevcutsa, kullanıcının tercih ettiği dilde gösterin."
+
+#: includes/payments/gateways/stripe-gateway.php:213
+msgid "Checkout Locale"
+msgstr "Ödeme yapılan ülke"
+
+#: includes/payments/gateways/stripe-gateway.php:209
+msgid "Specify whether to accept Bitcoin."
+msgstr "Bitcoin'nin kabul olup olmadığını belirtin."
+
+#: includes/payments/gateways/stripe-gateway.php:207
+msgid "Accept Bitcoin"
+msgstr "Bitcoin kabul et"
+
+#: includes/payments/gateways/stripe-gateway.php:203
+msgid "Specify whether Checkout should collect the user's billing address."
+msgstr "Checkout'un kullanıcının fatura adresini alıp almayacağını belirtin."
+
+#: includes/payments/gateways/stripe-gateway.php:201
+msgid "Collect Billing Address"
+msgstr "Fatura Adresini Al"
+
+#: includes/payments/gateways/stripe-gateway.php:197
+msgid "Specify whether to include the option to \"Remember Me\" for future purchases."
+msgstr "Gelecekteki satın alımlar için \"Beni Hatırla\" seçeneğinin eklenip eklenmeyeceğini belirtin."
+
+#: includes/payments/gateways/stripe-gateway.php:195
+msgid "Enable \"Remember Me\" Option"
+msgstr "\"Beni Hatırla\" seçeneğini etkinleştirin"
+
+#: includes/payments/gateways/stripe-gateway.php:191
+msgid "A relative or absolute URL pointing to a square image of your brand or product. The recommended minimum size is 128x128px."
+msgstr "Markanızın veya ürününüzün kare bir resmini gösteren göreli veya mutlak bir URL. Önerilen minimum boyut 128x128 pikseldir."
+
+#: includes/payments/gateways/stripe-gateway.php:189
+msgid "Image of Your Brand"
+msgstr "Markanızın Görüntüsü"
+
+#: includes/payments/gateways/braintree-gateway.php:189
+#: includes/payments/gateways/stripe-gateway.php:184
+msgid "Public Key"
+msgstr "Genel anahtar"
+
+#: includes/payments/gateways/stripe-gateway.php:179
+msgid "Secret Key"
+msgstr "Gizli Anahtar"
+
+#: includes/payments/gateways/stripe-gateway.php:140
+msgid "Pay with your credit card via Stripe."
+msgstr "Stripe yoluyla kredi kartınızla ödeme yapın."
+
+#: includes/payments/gateways/stripe-gateway.php:139
+msgid "Pay by Card (Stripe)"
+msgstr "Kartla Öde (Stripe)"
+
+#: includes/payments/gateways/stripe-gateway.php:77
+#: includes/payments/gateways/stripe-gateway.php:169
+msgid "Stripe"
+msgstr "Stripe"
+
+#: includes/payments/gateways/paypal/ipn-listener.php:383
+msgid "PayPal Refund Transaction ID: %s"
+msgstr "PayPal Geri Ödeme İşlem Kimliği: %s"
+
+#: includes/payments/gateways/paypal/ipn-listener.php:379
+msgid "PayPal Payment #%s Refunded for reason: %s"
+msgstr "PayPal Ödeme #%s Nedeniyle iadesi: %s"
+
+#: includes/payments/gateways/paypal/ipn-listener.php:372
+msgid "Partial PayPal refund processed: %s"
+msgstr "Kısmi PayPal geri ödeme işlendi: %s"
+
+#: includes/payments/gateways/paypal/ipn-listener.php:352
+msgid "Payment is pending for unknown reasons. Contact PayPal support for assistance."
+msgstr "Ödeme, bilinmeyen nedenlerle beklemede. Yardım için PayPal desteğiyle iletişime geçin."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:346
+msgid "PayPal account is not verified. Verify account in order to accept this payment."
+msgstr "PayPal hesabı doğrulanmadı. Bu ödemeyi kabul etmek için hesabı doğrulayın."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:340
+msgid "PayPal account must be upgraded before this payment can be accepted."
+msgstr "Bu ödeme kabul edilmeden önce PayPal hesabı yükseltilmelidir."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:334
+msgid "Payment was sent to unconfirmed or non-registered email address."
+msgstr "Ödeme, teyit edilmemiş veya kayıtlı olmayan bir e-posta adresine gönderildi."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:328
+msgid "Payment is being reviewed by PayPal staff as high-risk or in possible violation of government regulations."
+msgstr "Ödeme, yüksek riskli veya hükümet düzenlemelerinin olası ihlaline karşın PayPal personeli tarafından gözden geçiriliyor."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:321
+msgid "Payment received in non-shop currency and must be accepted manually through PayPal."
+msgstr "Ödeme, alışverişe uygun olmayan para birimi cinsinden alındı ve PayPal aracılığıyla manuel olarak kabul edilmesi gerekir."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:315
+msgid "Payment must be accepted manually through PayPal due to international account regulations."
+msgstr "Ödeme, uluslararası hesap düzenlemelerinden dolayı PayPal aracılığıyla manuel olarak kabul edilmelidir."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:309
+msgid "Payment requires a confirmed customer address and must be accepted manually through PayPal."
+msgstr "Ödeme, teyit edilmiş bir müşteri adresine ihtiyaç duyar ve PayPal aracılığıyla manuel olarak kabul edilmesi gerekir."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:303
+msgid "Payment made via eCheck and will clear automatically in 5-8 days."
+msgstr "Ödeme eCheck üzerinden yapılır ve 5-8 gün içinde otomatik olarak silinir."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:230
+msgid "Payment failed due to invalid purchase key in PayPal IPN."
+msgstr "PayPal IPN'de geçersiz satın alma anahtarı nedeniyle ödeme başarısız oldu."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:215
+msgid "Payment failed due to invalid amount in PayPal IPN."
+msgstr "PayPal IPN'deki geçersiz miktar nedeniyle ödeme yapılamadı."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:200
+msgid "Payment failed due to invalid currency in PayPal IPN."
+msgstr "PayPal IPN'de geçersiz para birimi nedeniyle ödeme başarısız oldu."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:183
+msgid "Payment failed due to invalid PayPal business email."
+msgstr "Geçersiz PayPal işletme e-postası nedeniyle ödeme başarısız oldu."
+
+#: includes/payments/gateways/paypal/ipn-listener.php:164
+msgid "Payment %s via IPN."
+msgstr "IPN üzerinden ödeme %s."
+
+#: includes/bundles/countries-bundle.php:263
+msgid "Zimbabwe"
+msgstr "Zimbabve"
+
+#: includes/bundles/countries-bundle.php:262
+msgid "Zambia"
+msgstr "Zambiya"
+
+#: includes/bundles/countries-bundle.php:261
+msgid "Yemen"
+msgstr "Yemen"
+
+#: includes/bundles/countries-bundle.php:258
+msgid "Wallis and Futuna"
+msgstr "Wallis ve Futuna"
+
+#: includes/bundles/countries-bundle.php:257
+msgid "Vietnam"
+msgstr "Viyetnam"
+
+#: includes/bundles/countries-bundle.php:256
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: includes/bundles/countries-bundle.php:254
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: includes/bundles/countries-bundle.php:252
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: includes/bundles/countries-bundle.php:247
+msgid "United Arab Emirates"
+msgstr "Birleşik Arap Emirlikleri"
+
+#: includes/bundles/countries-bundle.php:246
+msgid "Ukraine"
+msgstr "Ukrayna"
+
+#: includes/bundles/countries-bundle.php:245
+msgid "Uganda"
+msgstr "Uganda"
+
+#: includes/bundles/countries-bundle.php:244
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: includes/bundles/countries-bundle.php:243
+msgid "Turks and Caicos Islands"
+msgstr "Türkler ve Caicos Adaları"
+
+#: includes/bundles/countries-bundle.php:242
+msgid "Turkmenistan"
+msgstr "Türkmenistan"
+
+#: includes/bundles/countries-bundle.php:240
+msgid "Tunisia"
+msgstr "Tunus"
+
+#: includes/bundles/countries-bundle.php:239
+msgid "Trinidad and Tobago"
+msgstr "Trinidad & Tobago"
+
+#: includes/bundles/countries-bundle.php:238
+msgid "Tonga"
+msgstr "Tonga"
+
+#: includes/bundles/countries-bundle.php:236
+msgid "Togo"
+msgstr "Togo"
+
+#: includes/bundles/countries-bundle.php:234
+msgid "Thailand"
+msgstr "Tayland"
+
+#: includes/bundles/countries-bundle.php:233
+msgid "Tanzania"
+msgstr "Tanzanya"
+
+#: includes/bundles/countries-bundle.php:232
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: includes/bundles/countries-bundle.php:231
+msgid "Taiwan"
+msgstr "Tayvan"
+
+#: includes/bundles/countries-bundle.php:229
+msgid "Switzerland"
+msgstr "İsviçre"
+
+#: includes/bundles/countries-bundle.php:228
+msgid "Sweden"
+msgstr "İsveç"
+
+#: includes/bundles/countries-bundle.php:227
+msgid "Swaziland"
+msgstr "Svaziland"
+
+#: includes/bundles/countries-bundle.php:226
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard ve Jan Mayen"
+
+#: includes/bundles/countries-bundle.php:225
+msgid "Suriname"
+msgstr "Surinam"
+
+#: includes/bundles/countries-bundle.php:223
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: includes/bundles/countries-bundle.php:222
+msgid "Spain"
+msgstr "İspanya"
+
+#: includes/bundles/countries-bundle.php:220
+msgid "South Korea"
+msgstr "Güney Kore"
+
+#: includes/bundles/countries-bundle.php:218
+msgid "South Africa"
+msgstr "Güney Afrika"
+
+#: includes/bundles/countries-bundle.php:217
+msgid "Somalia"
+msgstr "Somali"
+
+#: includes/bundles/countries-bundle.php:216
+msgid "Solomon Islands"
+msgstr "Solomon Adaları"
+
+#: includes/bundles/countries-bundle.php:215
+msgid "Slovenia"
+msgstr "Slovenya"
+
+#: includes/bundles/countries-bundle.php:214
+msgid "Slovakia"
+msgstr "Slovakya"
+
+#: includes/bundles/countries-bundle.php:213
+msgid "Singapore"
+msgstr "Singapur"
+
+#: includes/bundles/countries-bundle.php:212
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: includes/bundles/countries-bundle.php:211
+msgid "Seychelles"
+msgstr "Seyşel Adaları"
+
+#: includes/bundles/countries-bundle.php:210
+msgid "Serbia"
+msgstr "Sırbistan"
+
+#: includes/bundles/countries-bundle.php:209
+msgid "Senegal"
+msgstr "Senegal"
+
+#: includes/bundles/countries-bundle.php:208
+msgid "Saudi Arabia"
+msgstr "Suudi Arabistan"
+
+#: includes/bundles/countries-bundle.php:206
+msgid "San Marino"
+msgstr "San Marino"
+
+#: includes/bundles/countries-bundle.php:260
+msgid "Samoa"
+msgstr "Samoa"
+
+#: includes/bundles/countries-bundle.php:197
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: includes/bundles/countries-bundle.php:196
+msgid "Russia"
+msgstr "Rusya"
+
+#: includes/bundles/countries-bundle.php:195
+msgid "Romania"
+msgstr "Romanya"
+
+#: includes/bundles/countries-bundle.php:194
+msgid "Reunion"
+msgstr "Réunion"
+
+#: includes/bundles/countries-bundle.php:193
+msgid "Qatar"
+msgstr "Katar"
+
+#: includes/bundles/countries-bundle.php:191
+msgid "Portugal"
+msgstr "Portekiz"
+
+#: includes/bundles/countries-bundle.php:190
+msgid "Poland"
+msgstr "Polonya"
+
+#: includes/bundles/countries-bundle.php:188
+msgid "Philippines"
+msgstr "Filipinler"
+
+#: includes/bundles/countries-bundle.php:187
+#: includes/settings/main-settings.php:31
+msgid "Peru"
+msgstr "Peru"
+
+#: includes/bundles/countries-bundle.php:186
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: includes/bundles/countries-bundle.php:185
+msgid "Papua New Guinea"
+msgstr "Papua Yeni Gine"
+
+#: includes/bundles/countries-bundle.php:184
+msgid "Panama"
+msgstr "Panama"
+
+#: includes/bundles/countries-bundle.php:181
+msgid "Oman"
+msgstr "Oman"
+
+#: includes/bundles/countries-bundle.php:180
+msgid "Norway"
+msgstr "Norveç"
+
+#: includes/bundles/countries-bundle.php:177
+msgid "Norfolk Island"
+msgstr "Norfolk Adası"
+
+#: includes/bundles/countries-bundle.php:176
+msgid "Niue"
+msgstr "Niue"
+
+#: includes/bundles/countries-bundle.php:175
+msgid "Nigeria"
+msgstr "Nijerya"
+
+#: includes/bundles/countries-bundle.php:174
+msgid "Niger"
+msgstr "Nijer"
+
+#: includes/bundles/countries-bundle.php:173
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+#: includes/bundles/countries-bundle.php:172
+msgid "New Zealand"
+msgstr "Yeni Zelanda"
+
+#: includes/bundles/countries-bundle.php:171
+msgid "New Caledonia"
+msgstr "Yeni Kaledonya"
+
+#: includes/bundles/countries-bundle.php:170
+msgid "Netherlands"
+msgstr "Hollanda"
+
+#: includes/bundles/countries-bundle.php:169
+msgid "Nepal"
+msgstr "Nepal"
+
+#: includes/bundles/countries-bundle.php:168
+msgid "Nauru"
+msgstr "Nauru"
+
+#: includes/bundles/countries-bundle.php:167
+msgid "Namibia"
+msgstr "Namibya"
+
+#: includes/bundles/countries-bundle.php:165
+msgid "Mozambique"
+msgstr "Mozambik"
+
+#: includes/bundles/countries-bundle.php:164
+msgid "Morocco"
+msgstr "Fas"
+
+#: includes/bundles/countries-bundle.php:163
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: includes/bundles/countries-bundle.php:162
+msgid "Montenegro"
+msgstr "Karadağ"
+
+#: includes/bundles/countries-bundle.php:161
+msgid "Mongolia"
+msgstr "Moğolistan"
+
+#: includes/bundles/countries-bundle.php:160
+msgid "Monaco"
+msgstr "Monaco"
+
+#: includes/bundles/countries-bundle.php:159
+msgid "Moldova"
+msgstr "Moldovya"
+
+#: includes/bundles/countries-bundle.php:158
+msgid "Micronesia"
+msgstr "Mikronezya"
+
+#: includes/bundles/countries-bundle.php:157
+msgid "Mexico"
+msgstr "Meksika"
+
+#: includes/bundles/countries-bundle.php:156
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: includes/bundles/countries-bundle.php:155
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: includes/bundles/countries-bundle.php:154
+msgid "Mauritania"
+msgstr "Moritanya"
+
+#: includes/bundles/countries-bundle.php:153
+msgid "Martinique"
+msgstr "Martinik"
+
+#: includes/bundles/countries-bundle.php:152
+msgid "Marshall Islands"
+msgstr "Marshall Adaları"
+
+#: includes/bundles/countries-bundle.php:151
+msgid "Malta"
+msgstr "Malta"
+
+#: includes/bundles/countries-bundle.php:150
+msgid "Mali"
+msgstr "Mali"
+
+#: includes/bundles/countries-bundle.php:149
+msgid "Maldives"
+msgstr "Maldivler"
+
+#: includes/bundles/countries-bundle.php:148
+msgid "Malaysia"
+msgstr "Malezya"
+
+#: includes/bundles/countries-bundle.php:147
+msgid "Malawi"
+msgstr "Malawi"
+
+#: includes/bundles/countries-bundle.php:146
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: includes/bundles/countries-bundle.php:145
+msgid "Macedonia"
+msgstr "Makedonya"
+
+#: includes/bundles/countries-bundle.php:143
+msgid "Luxembourg"
+msgstr "Lüksemburg"
+
+#: includes/bundles/countries-bundle.php:142
+msgid "Lithuania"
+msgstr "Litvanya"
+
+#: includes/bundles/countries-bundle.php:141
+msgid "Liechtenstein"
+msgstr "Lihtenştayn"
+
+#: includes/bundles/countries-bundle.php:138
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: includes/bundles/countries-bundle.php:136
+msgid "Latvia"
+msgstr "Letonya"
+
+#: includes/bundles/countries-bundle.php:135
+msgid "Laos"
+msgstr "Laos"
+
+#: includes/bundles/countries-bundle.php:134
+msgid "Kyrgyzstan"
+msgstr "Kırgızistan"
+
+#: includes/bundles/countries-bundle.php:133
+msgid "Kuwait"
+msgstr "Kuveyt"
+
+#: includes/bundles/countries-bundle.php:132
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: includes/bundles/countries-bundle.php:131
+msgid "Kenya"
+msgstr "Kenya"
+
+#: includes/bundles/countries-bundle.php:130
+msgid "Kazakhstan"
+msgstr "Kazakistan"
+
+#: includes/bundles/countries-bundle.php:129
+msgid "Jordan"
+msgstr "Ürdün"
+
+#: includes/bundles/countries-bundle.php:127
+msgid "Japan"
+msgstr "Japonya"
+
+#: includes/bundles/countries-bundle.php:126
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: includes/bundles/countries-bundle.php:124
+msgid "Italy"
+msgstr "İtalya"
+
+#: includes/bundles/countries-bundle.php:123
+msgid "Israel"
+msgstr "İsrail"
+
+#: includes/bundles/countries-bundle.php:121
+msgid "Ireland"
+msgstr "İrlanda"
+
+#: includes/bundles/countries-bundle.php:118
+msgid "Indonesia"
+msgstr "Endonezya"
+
+#: includes/bundles/countries-bundle.php:117
+msgid "India"
+msgstr "Hindistan"
+
+#: includes/bundles/countries-bundle.php:116
+msgid "Iceland"
+msgstr "İzlanda"
+
+#: includes/bundles/countries-bundle.php:115
+msgid "Hungary"
+msgstr "Macaristan"
+
+#: includes/bundles/countries-bundle.php:113
+msgid "Honduras"
+msgstr "Honduras"
+
+#: includes/bundles/countries-bundle.php:110
+msgid "Guyana"
+msgstr "Guyana"
+
+#: includes/bundles/countries-bundle.php:109
+msgid "Guinea-Bissau"
+msgstr "Gine-Bissau"
+
+#: includes/bundles/countries-bundle.php:108
+msgid "Guinea"
+msgstr "Gine"
+
+#: includes/bundles/countries-bundle.php:106
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: includes/bundles/countries-bundle.php:104
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: includes/bundles/countries-bundle.php:103
+msgid "Grenada"
+msgstr "Grenada"
+
+#: includes/bundles/countries-bundle.php:102
+msgid "Greenland"
+msgstr "Grönland"
+
+#: includes/bundles/countries-bundle.php:101
+msgid "Greece"
+msgstr "Yunanistan"
+
+#: includes/bundles/countries-bundle.php:100
+msgid "Gibraltar"
+msgstr "Cebelitarık"
+
+#: includes/bundles/countries-bundle.php:98
+msgid "Germany"
+msgstr "Almanya"
+
+#: includes/bundles/countries-bundle.php:97
+msgid "Georgia"
+msgstr "Gürcüstan"
+
+#: includes/bundles/countries-bundle.php:96
+msgid "Gambia"
+msgstr "Gambiya"
+
+#: includes/bundles/countries-bundle.php:95
+msgid "Gabon"
+msgstr "Gabon"
+
+#: includes/bundles/countries-bundle.php:93
+msgid "French Polynesia"
+msgstr "Fransız Polinezyası"
+
+#: includes/bundles/countries-bundle.php:92
+msgid "French Guiana"
+msgstr "Fransız Guyanası"
+
+#: includes/bundles/countries-bundle.php:91
+msgid "France"
+msgstr "Fransa"
+
+#: includes/bundles/countries-bundle.php:90
+msgid "Finland"
+msgstr "Finlandiya"
+
+#: includes/bundles/countries-bundle.php:89
+msgid "Fiji"
+msgstr "Fiji"
+
+#: includes/bundles/countries-bundle.php:88
+msgid "Faroe Islands"
+msgstr "Faroe Adaları"
+
+#: includes/bundles/countries-bundle.php:87
+msgid "Falkland Islands"
+msgstr "Falkland Adaları"
+
+#: includes/bundles/countries-bundle.php:86
+msgid "Ethiopia"
+msgstr "Etiyopya"
+
+#: includes/bundles/countries-bundle.php:85
+msgid "Estonia"
+msgstr "Estonya"
+
+#: includes/bundles/countries-bundle.php:84
+msgid "Eritrea"
+msgstr "Eritre"
+
+#: includes/bundles/countries-bundle.php:82
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: includes/bundles/countries-bundle.php:81
+msgid "Egypt"
+msgstr "Mısır"
+
+#: includes/bundles/countries-bundle.php:80
+msgid "Ecuador"
+msgstr "Ekvator"
+
+#: includes/bundles/countries-bundle.php:79
+msgid "Dominican Republic"
+msgstr "Dominik Cumhuriyeti"
+
+#: includes/bundles/countries-bundle.php:78
+msgid "Dominica"
+msgstr "Dominika"
+
+#: includes/bundles/countries-bundle.php:77
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: includes/bundles/countries-bundle.php:76
+msgid "Denmark"
+msgstr "Danimarka"
+
+#: includes/bundles/countries-bundle.php:75
+msgid "Czech Republic"
+msgstr "Çek Cumhuriyeti"
+
+#: includes/bundles/countries-bundle.php:74
+msgid "Cyprus"
+msgstr "Kıbrıs"
+
+#: includes/bundles/countries-bundle.php:71
+msgid "Croatia"
+msgstr "Hırvatistan"
+
+#: includes/bundles/countries-bundle.php:70
+msgid "Costa Rica"
+msgstr "Kosta Rika"
+
+#: includes/bundles/countries-bundle.php:69
+msgid "Cook Islands"
+msgstr "Cook Adaları"
+
+#: includes/bundles/countries-bundle.php:68
+msgid "Congo (Kinshasa)"
+msgstr "Kongo - Kinşasa"
+
+#: includes/bundles/countries-bundle.php:67
+msgid "Congo (Brazzaville)"
+msgstr "Kongo - Brazzaville"
+
+#: includes/bundles/countries-bundle.php:66
+msgid "Comoros"
+msgstr "Komorlar"
+
+#: includes/bundles/countries-bundle.php:65
+msgid "Colombia"
+msgstr "Kolombiya"
+
+#: includes/bundles/countries-bundle.php:62
+msgid "China"
+msgstr "Şili"
+
+#: includes/bundles/countries-bundle.php:61
+msgid "Chile"
+msgstr "Şili"
+
+#: includes/bundles/countries-bundle.php:60
+msgid "Chad"
+msgstr "Çad"
+
+#: includes/bundles/countries-bundle.php:58
+msgid "Cayman Islands"
+msgstr "Cayman Adaları"
+
+#: includes/bundles/countries-bundle.php:57
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: includes/bundles/countries-bundle.php:56
+msgid "Canada"
+msgstr "Kanada"
+
+#: includes/bundles/countries-bundle.php:55
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: includes/bundles/countries-bundle.php:54
+msgid "Cambodia"
+msgstr "Kamboçya"
+
+#: includes/bundles/countries-bundle.php:53
+msgid "Burundi"
+msgstr "Burundi"
+
+#: includes/bundles/countries-bundle.php:52
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: includes/bundles/countries-bundle.php:51
+msgid "Bulgaria"
+msgstr "Bulgaristan"
+
+#: includes/bundles/countries-bundle.php:50
+msgid "Brunei"
+msgstr "Brunei"
+
+#: includes/bundles/countries-bundle.php:49
+msgid "British Virgin Islands"
+msgstr "İngiliz Virgin Adaları"
+
+#: includes/bundles/countries-bundle.php:47
+msgid "Brazil"
+msgstr "Brezilya"
+
+#: includes/bundles/countries-bundle.php:45
+msgid "Botswana"
+msgstr "Botswana"
+
+#: includes/bundles/countries-bundle.php:44
+msgid "Bosnia and Herzegovina"
+msgstr "Bosna Hersek"
+
+#: includes/bundles/countries-bundle.php:42
+msgid "Bolivia"
+msgstr "Bolivya"
+
+#: includes/bundles/countries-bundle.php:41
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: includes/bundles/countries-bundle.php:40
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: includes/bundles/countries-bundle.php:39
+msgid "Benin"
+msgstr "Benin"
+
+#: includes/bundles/countries-bundle.php:38
+msgid "Belize"
+msgstr "Belize"
+
+#: includes/bundles/countries-bundle.php:36
+msgid "Belgium"
+msgstr "Belçika"
+
+#: includes/bundles/countries-bundle.php:35
+msgid "Belarus"
+msgstr "Beyaz Rusya"
+
+#: includes/bundles/countries-bundle.php:34
+msgid "Barbados"
+msgstr "Barbados"
+
+#: includes/bundles/countries-bundle.php:32
+msgid "Bahrain"
+msgstr "Bahreyn"
+
+#: includes/bundles/countries-bundle.php:31
+msgid "Bahamas"
+msgstr "Bahamalar"
+
+#: includes/bundles/countries-bundle.php:30
+msgid "Azerbaijan"
+msgstr "Azerbaycan"
+
+#: includes/bundles/countries-bundle.php:29
+msgid "Austria"
+msgstr "Avustruya"
+
+#: includes/bundles/countries-bundle.php:28
+msgid "Australia"
+msgstr "Avustralya"
+
+#: includes/bundles/countries-bundle.php:27
+msgid "Aruba"
+msgstr "Aruba"
+
+#: includes/bundles/countries-bundle.php:26
+msgid "Armenia"
+msgstr "Ermenistan"
+
+#: includes/bundles/countries-bundle.php:25
+msgid "Argentina"
+msgstr "Arjantin"
+
+#: includes/bundles/countries-bundle.php:24
+msgid "Antigua and Barbuda"
+msgstr "Antigua ve Barbuda"
+
+#: includes/bundles/countries-bundle.php:22
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: includes/bundles/countries-bundle.php:21
+msgid "Angola"
+msgstr "Angola"
+
+#: includes/bundles/countries-bundle.php:20
+msgid "Andorra"
+msgstr "Andora"
+
+#: includes/bundles/countries-bundle.php:18
+msgid "Algeria"
+msgstr "Cezayir"
+
+#: includes/bundles/countries-bundle.php:17
+msgid "Albania"
+msgstr "Arnavutluk"
+
+#: includes/payments/gateways/paypal-gateway.php:195
+msgid "Specify an IPN listener for a specific payment instead of the listeners specified in your PayPal Profile."
+msgstr "PayPal Profilinizde belirtilen dinleyiciler yerine belirli bir ödeme için bir IPN dinleyicisi belirleyin."
+
+#: includes/payments/gateways/paypal-gateway.php:188
+msgid "Paypal Business Email"
+msgstr "Paypal Ticari E-posta"
+
+#: includes/post-types/booking-cpt.php:85
+#: includes/post-types/payment-cpt.php:246
+#: includes/views/shortcodes/checkout-view.php:370
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/post-types/booking-cpt.php:73
+#: includes/post-types/payment-cpt.php:232
+#: includes/views/shortcodes/checkout-view.php:354
+msgid "Last Name"
+msgstr "Soy isim"
+
+#: includes/post-types/booking-cpt.php:67
+#: includes/post-types/payment-cpt.php:225
+#: includes/views/shortcodes/checkout-view.php:346
+msgid "First Name"
+msgstr "İsim"
+
+#: includes/post-types/booking-cpt.php:104
+#: includes/post-types/payment-cpt.php:267
+#: includes/views/shortcodes/checkout-view.php:404
+msgid "City"
+msgstr "Şehir"
+
+#. country
+#: includes/post-types/booking-cpt.php:98
+#: includes/post-types/payment-cpt.php:274
+#: includes/views/shortcodes/checkout-view.php:396
+msgid "State"
+msgstr "Eyalet"
+
+#: includes/post-types/booking-cpt.php:92
+#: includes/post-types/payment-cpt.php:281
+msgid "Country"
+msgstr "Ülke"
+
+#: includes/payments/gateways/paypal-gateway.php:55
+msgid "Pay via PayPal"
+msgstr "PayPal ile ödeme yapın"
+
+#: includes/payments/gateways/paypal-gateway.php:43
+#: includes/payments/gateways/paypal-gateway.php:54
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/payments/gateways/gateway.php:468
+msgid "Payment method description that the customer will see on your website."
+msgstr "Müşterinin web sitenizde göreceği ödeme yöntemi açıklaması."
+
+#: includes/payments/gateways/gateway.php:460
+msgid "Payment method title that the customer will see on your website."
+msgstr "Müşterinin web sitenizde göreceği ödeme yöntemi başlığı."
+
+#: includes/payments/gateways/gateway.php:451
+msgid "Sandbox can be used to test payments."
+msgstr "Sandbox, ödemeleri test etmek için kullanılabilir."
+
+#: includes/payments/gateways/gateway.php:448
+msgid "Test Mode"
+msgstr "Test Modu"
+
+#: includes/payments/gateways/gateway.php:291
+msgid "%s is not a valid email address."
+msgstr "%s geçerli bir e-posta adresi değil."
+
+#: includes/payments/gateways/gateway.php:278
+msgid "%s is a required field."
+msgstr "%s gerekli bir alandır."
+
+#: includes/license-notice.php:43
+msgid "Your License Key is not active. Please, <a href='%s'>activate your License Key</a> to get plugin updates"
+msgstr "Lisans Anahtarınız etkin değil. Lütfen eklenti güncellemeleri almak için<a href='%s'> Lisans Anahtarınızı</a> etkinleştirin"
+
+#: includes/license-notice.php:32
+msgid "Dismiss "
+msgstr "Reddet "
+
+#: includes/entities/reserved-service.php:112
+msgid " &#215; %d adult"
+msgid_plural " &#215; %d adults"
+msgstr[0] " &#215; %d yetişkin"
+msgstr[1] " &#215; %d yetişkin"
+
+#: includes/entities/reserved-service.php:108
+msgid " &#215; %d night"
+msgid_plural " &#215; %d nights"
+msgstr[0] " &#215; %d gece"
+msgstr[1] " &#215; %d gece"
+
+#: includes/emails/booking/admin/cancelled-email.php:8
+msgid "Booking Cancelled"
+msgstr "Rzervasyon iptal edildi"
+
+#: includes/emails/booking/admin/cancelled-email.php:12
+msgid "%site_title% - Booking #%booking_id% Cancelled"
+msgstr "%site_title% - Rezervasyon #%booking_id% İptal Edildi"
+
+#: includes/emails/booking/admin/cancelled-email.php:16
+msgid "Email that will be sent to Admin when customer cancels booking."
+msgstr "Müşteri rezervasyon iptal ettiğinde Yönetici'ye gönderilecek e-posta."
+
+#: includes/emails/booking/customer/cancelled-email.php:8
+msgid "Your booking is cancelled"
+msgstr "Rezervasyonunuz iptal edildi"
+
+#: includes/emails/booking/customer/cancelled-email.php:12
+msgid "%site_title% - Your booking #%booking_id% is cancelled"
+msgstr "%site_title% - Rezervasyonunuz #%booking_id% iptal edildi"
+
+#: includes/emails/booking/customer/cancelled-email.php:16
+msgid "Email that will be sent to customer when booking is cancelled."
+msgstr "Rezervasyon iptal edildiği sırada müşteriye gönderilecek e-posta."
+
+#: includes/emails/booking/admin/cancelled-email.php:20
+#: includes/emails/booking/customer/cancelled-email.php:20
+msgid "Cancelled Booking Email"
+msgstr "İptal Edilen Rezervasyon E-postası"
+
+#: includes/emails/booking/admin/confirmed-by-payment-email.php:8
+#: includes/emails/booking/admin/confirmed-email.php:8
+msgid "Booking Confirmed"
+msgstr "Rezervasyon Onaylanmıştır"
+
+#: includes/emails/booking/admin/confirmed-by-payment-email.php:12
+#: includes/emails/booking/admin/confirmed-email.php:12
+msgid "%site_title% - Booking #%booking_id% Confirmed"
+msgstr "%site_title% - Rezervasyonunuz #%booking_id% Onaylanmıştır"
+
+#: includes/emails/booking/admin/confirmed-email.php:16
+msgid "Email that will be sent to Admin when customer confirms booking."
+msgstr "Müşteri rezervasyonu onayladığında Yönetici'ye gönderilecek e-posta."
+
+#: includes/emails/booking/customer/approved-email.php:8
+msgid "Your booking is approved"
+msgstr "Rezervasyonunuz onaylandı"
+
+#: includes/emails/booking/customer/approved-email.php:12
+msgid "%site_title% - Your booking #%booking_id% is approved"
+msgstr "%site_title% - Rezervasyonunuz  #%booking_id% onaylandı"
+
+#: includes/emails/booking/customer/approved-email.php:16
+msgid "Email that will be sent to customer when booking is approved."
+msgstr "Rezervasyon onaylandığında müşteriye gönderilecek e-posta."
+
+#: includes/emails/booking/admin/confirmed-email.php:20
+#: includes/emails/booking/customer/approved-email.php:20
+msgid "Approved Booking Email"
+msgstr "Onaylanan Rezervasyon E-postası"
+
+#: includes/emails/booking/customer/confirmation-email.php:8
+msgid "Confirm your booking"
+msgstr "Rezervasyonunuzu onaylayın"
+
+#: includes/emails/booking/customer/confirmation-email.php:12
+msgid "%site_title% - Confirm your booking #%booking_id%"
+msgstr "%site_title% - Rezervasyonunuzu onaylayın #%booking_id%"
+
+#: includes/emails/booking/customer/confirmation-email.php:21
+msgid "New Booking Email (Confirmation by User)"
+msgstr "Yeni Rezervasyon E-postası (Kullanıcı Tarafından Doğrulama)"
+
+#: includes/emails/booking/customer/pending-email.php:8
+msgid "Your booking is placed"
+msgstr "Rezervasyonunuz ayarlandı"
+
+#: includes/emails/booking/customer/pending-email.php:12
+msgid "%site_title% - Booking #%booking_id% is placed"
+msgstr "%site_title% - Rezervasyon #%booking_id% ayarlandı"
+
+#: includes/emails/booking/customer/confirmation-email.php:17
+#: includes/emails/booking/customer/pending-email.php:17
+msgid "Email that will be sent to customer after booking is placed."
+msgstr "Rezervasyon ayarlandığında müşteriye gönderilecek e-posta."
+
+#: includes/emails/booking/customer/pending-email.php:21
+msgid "New Booking Email (Confirmation by Admin)"
+msgstr "Yeni Rezervasyon E-postası (Yönetici tarafından Onaylama)"
+
+#: includes/emails/booking/admin/pending-email.php:8
+msgid "Confirm new booking"
+msgstr "Yeni rezervasyonu onayla"
+
+#: includes/emails/booking/admin/pending-email.php:12
+msgid "%site_title% - New booking #%booking_id%"
+msgstr "%site_title% - Yeni Rezervasyon #%booking_id%"
+
+#: includes/emails/booking/admin/pending-email.php:17
+msgid "Email that will be sent to administrator after booking is placed."
+msgstr "Rezervasyon ayarlandığında müşteriye gönderilecek e-posta."
+
+#: includes/emails/booking/admin/pending-email.php:21
+msgid "Pending Booking Email"
+msgstr "Beklemedeki Rezevasyon E-postası"
+
+#: includes/emails/booking/customer/pending-email.php:16
+msgid "This email is sent when \"Booking Confirmation Mode\" is set to Admin confirmation."
+msgstr "Bu e-posta, \"Rezervasyon Onay Modu\", Yönetici Onayı olarak ayarlandığında gönderilir."
+
+#: includes/emails/templaters/abstract-templater.php:90
+msgid "none"
+msgstr "Hiçbiri"
+
+#: includes/emails/templaters/abstract-templater.php:72
+msgid "Possible tags:"
+msgstr "Olası etiketler:"
+
+#: includes/emails/templaters/cancellation-booking-templater.php:50
+#: includes/emails/templaters/email-templater.php:242
+msgid "User Cancellation Link"
+msgstr "Kullanıcı İptal Linki"
+
+#: includes/emails/templaters/email-templater.php:230
+msgid "Confirmation Link Expiration Time ( UTC )"
+msgstr "Doğrulama Linkinin Sona Erme Süresi (UTC)"
+
+#: includes/emails/templaters/email-templater.php:226
+msgid "Confirmation Link"
+msgstr "Onay Bağlantısı"
+
+#: includes/emails/templaters/email-templater.php:209
+#: includes/emails/templaters/reserved-rooms-templater.php:175
+msgid "Accommodation Rate Description"
+msgstr "Konaklama Puanı Açıklaması"
+
+#: includes/emails/templaters/email-templater.php:203
+#: includes/emails/templaters/reserved-rooms-templater.php:171
+msgid "Accommodation Rate Title"
+msgstr "Konaklama Puanı Başlığı"
+
+#: includes/emails/templaters/email-templater.php:197
+#: includes/emails/templaters/reserved-rooms-templater.php:167
+msgid "Accommodation Type Bed"
+msgstr "Konaklama Tipi Yatak"
+
+#: includes/emails/templaters/email-templater.php:191
+#: includes/emails/templaters/reserved-rooms-templater.php:163
+msgid "Accommodation Type Categories"
+msgstr "Konaklama Tipi Kategorileri"
+
+#: includes/emails/templaters/email-templater.php:185
+#: includes/emails/templaters/reserved-rooms-templater.php:159
+msgid "Accommodation Type Title"
+msgstr "Konaklama Tipi Başlığı"
+
+#: includes/emails/templaters/email-templater.php:179
+#: includes/emails/templaters/reserved-rooms-templater.php:155
+msgid "Accommodation Type Link"
+msgstr "Konaklama Tipi Bağlantısı"
+
+#: includes/emails/templaters/email-templater.php:168
+#: includes/post-types/booking-cpt.php:123
+msgid "Customer Note"
+msgstr "Müşteri Notu"
+
+#: includes/emails/templaters/email-templater.php:164
+msgid "Customer Phone"
+msgstr "Müşteri Telefonu"
+
+#: includes/emails/templaters/email-templater.php:160
+msgid "Customer Email"
+msgstr "Müşteri E-postası"
+
+#: includes/emails/templaters/email-templater.php:156
+msgid "Customer Last Name"
+msgstr "Müşteri Soy Adı"
+
+#: includes/emails/templaters/email-templater.php:152
+msgid "Customer First Name"
+msgstr "Müşteri Adı"
+
+#: includes/emails/templaters/email-templater.php:139
+#: includes/emails/templaters/reserved-rooms-templater.php:143
+#: includes/post-types/room-type-cpt.php:228 includes/views/booking-view.php:47
+#: templates/shortcodes/search/search-form.php:78
+msgid "Children"
+msgstr "Çocuklar"
+
+#: includes/emails/templaters/email-templater.php:133
+#: includes/emails/templaters/reserved-rooms-templater.php:139
+#: includes/post-types/room-type-cpt.php:219 includes/views/booking-view.php:42
+#: includes/views/shortcodes/checkout-view.php:150 template-functions.php:545
+#: templates/shortcodes/search/search-form.php:66
+msgid "Adults"
+msgstr "Yetişkinler"
+
+#: includes/emails/templaters/email-templater.php:121
+#: includes/post-types/booking-cpt.php:53 template-functions.php:535
+#: templates/shortcodes/search/search-form.php:55
+#: templates/widgets/search-availability/search-form.php:56
+msgid "Check-out Date"
+msgstr "Çıkış Tarihi"
+
+#: includes/emails/templaters/email-templater.php:117
+#: includes/post-types/booking-cpt.php:46 template-functions.php:526
+#: templates/shortcodes/search/search-form.php:36
+#: templates/widgets/search-availability/search-form.php:38
+msgid "Check-in Date"
+msgstr "Giriş Tarihi"
+
+#: includes/emails/templaters/email-templater.php:113
+msgid "Booking Total Price"
+msgstr "Toplam Rezervasyon Ücreti"
+
+#: includes/emails/templaters/email-templater.php:109
+msgid "Booking Edit Link"
+msgstr "Rezervasyonu Düzenleme Linki"
+
+#: includes/emails/templaters/email-templater.php:105
+#: includes/post-types/payment-cpt.php:211
+msgid "Booking ID"
+msgstr "Rezervasyon Kimliği"
+
+#: includes/emails/templaters/email-templater.php:92
+msgid "Site title (set in Settings > General)"
+msgstr "Site başlığı (Ayarlar> Genel olarak ayarlanır)"
+
+#: includes/emails/booking/customer/base-email.php:40
+msgid "\"%s\" mail sending is failed."
+msgstr "\"%s\" posta gönderilemedi."
+
+#: includes/emails/booking/customer/base-email.php:38
+msgid "\"%s\" mail was sent to customer."
+msgstr "\"%s\"  posta müşteriye gönderildi."
+
+#: includes/emails/booking/admin/base-email.php:56
+msgid "\"%s\" mail sending to admin is failed."
+msgstr "\"%s\" yöneticiye gönderilen e-posta başarısız oldu."
+
+#: includes/emails/booking/admin/base-email.php:54
+msgid "\"%s\" mail was sent to admin."
+msgstr "\"%s\"  postası yöneticiye gönderildi."
+
+#: includes/emails/abstract-email.php:366
+msgid "Email Template"
+msgstr "E-posta Şablonu"
+
+#: includes/emails/abstract-email.php:357
+msgid "Header"
+msgstr "Üst bilgi"
+
+#: includes/emails/abstract-email.php:348
+msgid "Subject"
+msgstr "Konu"
+
+#: includes/emails/abstract-email.php:343
+msgid "Disable this email notification"
+msgstr "Bu e-postadan gelen bildirimleri kaldır"
+
+#: includes/crons/cron-manager.php:70
+msgid "Pending Payment Time set in Hotel Booking Settings"
+msgstr "Otel Rezervasyon Ayarlarında belirlenen Bekleyen Ödeme Süresi"
+
+#: includes/crons/cron-manager.php:65
+msgid "User Approval Time setted in Hotel Booking Settings"
+msgstr "Otel Rezervasyon Ayarlarında belirlenen Kullanıcı Onay Süresi"
+
+#: includes/bundles/units-bundle.php:23
+msgid "yd²"
+msgstr "yd²"
+
+#: includes/bundles/units-bundle.php:22
+msgid "f²"
+msgstr "f²"
+
+#: includes/bundles/units-bundle.php:21
+msgid "m²"
+msgstr "m²"
+
+#: includes/bundles/units-bundle.php:18
+msgid "Square Yard"
+msgstr "yard kare"
+
+#: includes/bundles/units-bundle.php:17
+msgid "Square Foot"
+msgstr "feet kare"
+
+#: includes/bundles/units-bundle.php:16
+msgid "Square Meter"
+msgstr "metre kare"
+
+#: includes/bundles/currency-bundle.php:135
+msgid "After with space"
+msgstr "Boşluktan sonra"
+
+#: includes/bundles/currency-bundle.php:134
+msgid "Before with space"
+msgstr "Boşluktan önce"
+
+#: includes/bundles/currency-bundle.php:133
+msgid "After"
+msgstr "Sonra"
+
+#: includes/bundles/currency-bundle.php:132
+msgid "Before"
+msgstr "Önce"
+
+#: includes/bundles/currency-bundle.php:66
+msgid "South African rand"
+msgstr "Güney Afrika randı"
+
+#: includes/bundles/currency-bundle.php:65
+msgid "Vietnamese Dong"
+msgstr "Vietnam Dong"
+
+#: includes/bundles/currency-bundle.php:64
+msgid "US Dollars"
+msgstr "Amerikan Doları"
+
+#: includes/bundles/currency-bundle.php:63
+msgid "Ukrainian Hryvnia"
+msgstr "Ukrayna Grivnası"
+
+#: includes/bundles/currency-bundle.php:62
+msgid "Taiwan New Dollars"
+msgstr "Tayvan Yeni Doları"
+
+#: includes/bundles/currency-bundle.php:61
+msgid "Turkish Lira"
+msgstr "Türk Lirası"
+
+#: includes/bundles/currency-bundle.php:60
+msgid "Thai Baht"
+msgstr "Tayland Bahtısı"
+
+#: includes/bundles/currency-bundle.php:59
+msgid "Singapore Dollar"
+msgstr "Singapur Doları"
+
+#: includes/bundles/currency-bundle.php:58
+msgid "Swedish Krona"
+msgstr "İsveç Kronu"
+
+#: includes/bundles/currency-bundle.php:57
+msgid "Saudi Riyal"
+msgstr "Suudi Arabistan Riyali"
+
+#: includes/bundles/currency-bundle.php:56
+msgid "Russian Ruble"
+msgstr "Rus Rublesi"
+
+#: includes/bundles/currency-bundle.php:55
+msgid "Romanian Leu"
+msgstr "Rumen Leu"
+
+#: includes/bundles/currency-bundle.php:54
+msgid "Paraguayan Guaraní"
+msgstr "Paraguaylı Guarani"
+
+#: includes/bundles/currency-bundle.php:53
+msgid "Polish Zloty"
+msgstr "Polonya Zlotisi"
+
+#: includes/bundles/currency-bundle.php:52
+msgid "Pakistani Rupee"
+msgstr "Pakistan Rupisi"
+
+#: includes/bundles/currency-bundle.php:51
+msgid "Philippine Pesos"
+msgstr "Filipin Pesosu"
+
+#: includes/bundles/currency-bundle.php:50
+msgid "New Zealand Dollar"
+msgstr "Yeni Zelanda Doları"
+
+#: includes/bundles/currency-bundle.php:49
+msgid "Nepali Rupee"
+msgstr "Nepal Rupisi"
+
+#: includes/bundles/currency-bundle.php:48
+msgid "Norwegian Krone"
+msgstr "Norveç Kranı"
+
+#: includes/bundles/currency-bundle.php:47
+msgid "Nigerian Naira"
+msgstr "Nijerya Nairasi"
+
+#: includes/bundles/currency-bundle.php:46
+msgid "Malaysian Ringgits"
+msgstr "Malezya Ringgitsi"
+
+#: includes/bundles/currency-bundle.php:45
+msgid "Mexican Peso"
+msgstr "Meksika Pezosu"
+
+#: includes/bundles/currency-bundle.php:44
+msgid "Lao Kip"
+msgstr "Lao Kip"
+
+#: includes/bundles/currency-bundle.php:43
+msgid "South Korean Won"
+msgstr "Güney Kore Wonu"
+
+#: includes/bundles/currency-bundle.php:42
+msgid "Kenyan shilling"
+msgstr "Kenya Şilini"
+
+#: includes/bundles/currency-bundle.php:41
+msgid "Japanese Yen"
+msgstr "Japon Yeni"
+
+#: includes/bundles/currency-bundle.php:40
+msgid "Icelandic krona"
+msgstr "İzlanda Kronu"
+
+#: includes/bundles/currency-bundle.php:39
+msgid "Indian Rupee"
+msgstr "Hint Rupisi"
+
+#: includes/bundles/currency-bundle.php:38
+msgid "Israeli Shekel"
+msgstr "İsrail Şekeli"
+
+#: includes/bundles/currency-bundle.php:37
+msgid "Indonesia Rupiah"
+msgstr "Endonezya Rupiah"
+
+#: includes/bundles/currency-bundle.php:36
+msgid "Hungarian Forint"
+msgstr "Macar Forinti"
+
+#: includes/bundles/currency-bundle.php:35
+msgid "Croatia kuna"
+msgstr "Hırvat Kunası"
+
+#: includes/bundles/currency-bundle.php:34
+msgid "Hong Kong Dollar"
+msgstr "Hong Kong Doları"
+
+#: includes/bundles/currency-bundle.php:33
+msgid "Pound Sterling"
+msgstr "Pound Sterling"
+
+#: includes/bundles/currency-bundle.php:32
+msgid "Euros"
+msgstr "Euro"
+
+#: includes/bundles/currency-bundle.php:31
+msgid "Egyptian Pound"
+msgstr "Mısır Poundu"
+
+#: includes/bundles/currency-bundle.php:30
+msgid "Dominican Peso"
+msgstr "Dominik Pezosu"
+
+#: includes/bundles/currency-bundle.php:29
+msgid "Danish Krone"
+msgstr "Danimarka Kralı"
+
+#: includes/bundles/currency-bundle.php:28
+msgid "Czech Koruna"
+msgstr "Çek Korunası"
+
+#: includes/bundles/currency-bundle.php:27
+msgid "Colombian Peso"
+msgstr "Kolombiya Pezosu"
+
+#: includes/bundles/currency-bundle.php:26
+msgid "Chinese Yuan"
+msgstr "Çin Yuanı"
+
+#: includes/bundles/currency-bundle.php:25
+msgid "Chilean Peso"
+msgstr "Şili Pezosu"
+
+#: includes/bundles/currency-bundle.php:24
+msgid "Swiss Franc"
+msgstr "İsviçre Frangı"
+
+#: includes/bundles/currency-bundle.php:23
+msgid "Canadian Dollar"
+msgstr "Kanada Doları"
+
+#: includes/bundles/currency-bundle.php:22
+msgid "Brazilian Real"
+msgstr "Brezilya Reali"
+
+#: includes/bundles/currency-bundle.php:21
+msgid "Bulgarian Lev"
+msgstr "Bulgar Levası"
+
+#: includes/bundles/currency-bundle.php:20
+msgid "Bangladeshi Taka"
+msgstr "Bangladeşli Yani"
+
+#: includes/bundles/currency-bundle.php:19
+msgid "Australian Dollars"
+msgstr "Avustralya Doları"
+
+#: includes/bundles/currency-bundle.php:18
+msgid "Argentine Peso"
+msgstr "Arjantin Pezosu"
+
+#: includes/bundles/currency-bundle.php:17
+msgid "United Arab Emirates Dirham"
+msgstr "Birleşik Arap Emirlikleri Dirhemi"
+
+#: includes/bookings-calendar.php:830
+msgid "Booking #%d"
+msgstr "Rezervasyon #%d"
+
+#: includes/bookings-calendar.php:828
+msgid "Check-in #%d"
+msgstr "Giriş #%d"
+
+#: includes/bookings-calendar.php:825
+msgid "Check-out #%d"
+msgstr "Çıkış #%d"
+
+#. rooms loop
+#: includes/bookings-calendar.php:670
+msgid "No accommodations found."
+msgstr "Konaklama bulunamadı."
+
+#: includes/bookings-calendar.php:603
+msgid "Next &gt;"
+msgstr "Bir sonraki &gt;"
+
+#: includes/bookings-calendar.php:594
+msgid "&lt; Prev"
+msgstr "&lt; Bir önceki"
+
+#: includes/bookings-calendar.php:593
+msgid "Period:"
+msgstr "Periyot:"
+
+#: includes/bookings-calendar.php:560
+#: includes/views/shortcodes/checkout-view.php:111
+msgid "Accommodation Type:"
+msgstr "Konaklama Tipi:"
+
+#: includes/bookings-calendar.php:547 includes/bookings-calendar.php:615
+msgid "Until"
+msgstr "Kadar"
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:311
+#: includes/bookings-calendar.php:542 includes/bookings-calendar.php:614
+msgid "From"
+msgstr "itibaren"
+
+#: includes/bookings-calendar.php:526
+msgid "Status:"
+msgstr "Durum:"
+
+#: includes/bookings-calendar.php:487 includes/bookings-calendar.php:515
+#: includes/script-managers/public-script-manager.php:150
+msgid "Pending"
+msgstr "Beklemede"
+
+#: includes/bookings-calendar.php:504
+msgid "Search results for accommodations that have bookings with status \"%s\" from %s until %s"
+msgstr "%s ' dan %s ' kadar    rezervasyon durumu  \"%s\" olan konaklamalar için arama sonuçları için"
+
+#: includes/bookings-calendar.php:486 includes/bookings-calendar.php:514
+#: includes/script-managers/public-script-manager.php:149
+msgid "Booked"
+msgstr "Rezerve edildi"
+
+#: includes/bookings-calendar.php:485
+msgid "Legend:"
+msgstr "Semboller:"
+
+#: includes/bookings-calendar.php:482
+#: templates/shortcodes/search/search-form.php:91
+#: templates/widgets/search-availability/search-form.php:102
+msgid "Search"
+msgstr "Ara"
+
+#: includes/bookings-calendar.php:478
+msgid "Show"
+msgstr "Göster"
+
+#: includes/bookings-calendar.php:435
+msgid "Custom"
+msgstr "Özel"
+
+#: includes/bookings-calendar.php:434
+msgid "Year"
+msgstr "Yıl"
+
+#: includes/bookings-calendar.php:433
+msgid "Quarter"
+msgstr "Çeyrek"
+
+#: includes/bookings-calendar.php:432
+msgid "Month"
+msgstr "Ay"
+
+#: includes/ajax.php:412
+msgid "Chosen payment method is not available. Please refresh the page and try one more time."
+msgstr "Seçilen ödeme yöntemi kullanılamıyor. Lütfen sayfayı yenileyin ve bir kez daha deneyin."
+
+#: includes/ajax.php:264
+msgid "An error has occurred. Please try again later."
+msgstr "Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz."
+
+#: includes/ajax.php:300
+#: includes/shortcodes/checkout-shortcode/step-booking.php:152
+#: includes/shortcodes/checkout-shortcode/step-booking.php:168
+#: includes/shortcodes/checkout-shortcode/step-booking.php:301
+#: includes/shortcodes/checkout-shortcode/step-booking.php:313
+msgid "Rate is not valid."
+msgstr "Puan geçerli değil."
+
+#: includes/ajax.php:181 includes/script-managers/public-script-manager.php:148
+msgid "An error has occurred, please try again later."
+msgstr "Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz."
+
+#: includes/ajax.php:292
+#: includes/shortcodes/checkout-shortcode/step-booking.php:140
+#: includes/shortcodes/checkout-shortcode/step-booking.php:146
+#: includes/shortcodes/checkout-shortcode/step-checkout.php:123
+#: includes/shortcodes/checkout-shortcode/step-checkout.php:135
+msgid "Accommodation Type is not valid."
+msgstr "Konaklama Tipi geçerli değildir."
+
+#: includes/ajax.php:280 includes/script-managers/public-script-manager.php:173
+#: includes/shortcodes/checkout-shortcode/step.php:51
+#: includes/shortcodes/search-results-shortcode.php:506
+msgid "Check-out date is not valid."
+msgstr "Çıkış tarihi geçerli değil."
+
+#: includes/shortcodes/checkout-shortcode/step.php:33
+#: includes/shortcodes/search-results-shortcode.php:488
+msgid "Check-in date cannot be earlier than today."
+msgstr "Çıkış tarihi bugünden daha erken olamaz."
+
+#: includes/ajax.php:273 includes/script-managers/public-script-manager.php:172
+#: includes/shortcodes/checkout-shortcode/step.php:30
+#: includes/shortcodes/search-results-shortcode.php:485
+msgid "Check-in date is not valid."
+msgstr "Giriş tarihi geçerli değildir."
+
+#: includes/ajax.php:195
+msgid "Please complete all required fields and try again."
+msgstr "Lütfen tüm gerekli alanları doldurun ve tekrar deneyin."
+
+#: includes/ajax.php:138
+msgid "Request does not pass security verification. Please refresh the page and try one more time."
+msgstr "İstek güvenlik doğrulamasını geçirmiyor. Lütfen sayfayı yenileyin ve bir kez daha deneyin."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:493
+#: includes/payments/gateways/gateway.php:340
+#: includes/views/shortcodes/checkout-view.php:151
+#: includes/views/shortcodes/checkout-view.php:168
+#: includes/views/shortcodes/checkout-view.php:347
+#: includes/views/shortcodes/checkout-view.php:355
+#: includes/views/shortcodes/checkout-view.php:363
+#: includes/views/shortcodes/checkout-view.php:371
+#: includes/views/shortcodes/checkout-view.php:380
+#: includes/views/shortcodes/checkout-view.php:397
+#: includes/views/shortcodes/checkout-view.php:405
+#: includes/views/shortcodes/checkout-view.php:413
+#: includes/views/shortcodes/checkout-view.php:421
+msgid "Required"
+msgstr "Gerekli"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:485
+msgid "Optional."
+msgstr "İsteğe bağlı."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:445
+msgid "empty string"
+msgstr "Boş dize"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:440
+msgid "Default:"
+msgstr "Varsayılan:"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:435
+msgid "Values:"
+msgstr "Değerler:"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:382
+msgid "Example"
+msgstr "Örnek"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:381
+msgid "Parameters"
+msgstr "Parametreler"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:380
+msgid "Shortcode"
+msgstr "Kıda kod"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:376
+#: includes/admin/menu-pages/shortcodes-menu-page.php:497
+msgid "Shortcodes"
+msgstr "Kısa kodlar"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:368
+msgid "Use this shortcode on Booking Confirmation Page"
+msgstr "Bu kısa kodu Rezervasyon Onay Sayfasında kullanın"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:368
+msgid "Use this shortcode on <a href=\"%s\">Booking Confirmation Page</a>"
+msgstr "Bu kısa kodu <a href=\"%s\">Rezervasyon Onay Sayfasında </a> kullanın"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:365
+msgid "Display booking confirmation message."
+msgstr "Rezervasyon onay mesajını görüntüle."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:357
+msgid "Booking Confirmation."
+msgstr "Rezervasyon onayı."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:350
+msgid "Show Accommodation Rates List for accommodation type with id 777"
+msgstr "777 numaralı konaklama türü için konaklama puan listesini göster"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:337
+msgid "ID of accommodation type."
+msgstr "Konaklama türü kimliği."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:333
+msgid "Accommodation Rates List"
+msgstr "Konaklama Puan Listesi"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:328
+msgid "Show Booking Form for Accommodation Type with id 777"
+msgstr "777 numaralı Konaklama Tipi için rezervasyon formunu göster"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:315
+msgid "ID of Accommodation Type to check availability."
+msgstr "Mevcudiyet durumunu kontrol etmek için Konaklama Tipi kimliği."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:314
+#: includes/admin/menu-pages/shortcodes-menu-page.php:336
+#: includes/emails/templaters/email-templater.php:173
+#: includes/emails/templaters/reserved-rooms-templater.php:151
+msgid "Accommodation Type ID"
+msgstr "Konaklama Tipi Kimliği"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:311
+msgid "Booking Form"
+msgstr "Rezervasyon Formu"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:306
+msgid "Use only on page that you set as Checkout Page in <a href=\"%s\">Settings</a>"
+msgstr "Yalnızca  <a href=\"%s\">Ayarlar'da </a>Ödeme Sayfası olarak ayarladığınız sayfada kullanın"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:296
+msgid "Display checkout form."
+msgstr "Ödeme formu görüntüle."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:295
+msgid "Checkout Form"
+msgstr "Ödeme formu"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:290
+msgid "Display accommodation type with title and image."
+msgstr "Başlık ve resim içeren konaklama türlerini görüntüleyin."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:229
+#: includes/admin/menu-pages/shortcodes-menu-page.php:316
+#: includes/admin/menu-pages/shortcodes-menu-page.php:338
+msgid "integer number"
+msgstr "tam sayı"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:228
+msgid "ID of accommodation type to display."
+msgstr "Görüntülenecek konaklama türü kimliği."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:224
+msgid "Display Single Accommodation Type"
+msgstr "Tek Konaklama Tipini Göster"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:219
+msgid "Show All Services"
+msgstr "Tüm Hizmetleri Göster"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:204
+msgid "IDs of services that will be shown. "
+msgstr "Gösterilecek servislerin kimlikleri. "
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:174
+#: includes/admin/menu-pages/shortcodes-menu-page.php:179
+#: includes/admin/menu-pages/shortcodes-menu-page.php:184
+#: includes/admin/menu-pages/shortcodes-menu-page.php:203
+msgid "Comma-separated IDs."
+msgstr ""
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:202
+msgid "IDs"
+msgstr "Kimlikler"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:199
+msgid "Services Listing"
+msgstr "Hizmetler Listesi"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:93
+#: includes/admin/menu-pages/shortcodes-menu-page.php:158
+#: includes/admin/menu-pages/shortcodes-menu-page.php:268
+msgid "Whether to display Book button."
+msgstr "Rezervasyon düğmesini görüntüleyip görüntülememek."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:92
+#: includes/admin/menu-pages/shortcodes-menu-page.php:157
+msgid "Show Book button"
+msgstr "Rezervasyon düğmesini göster"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:87
+#: includes/admin/menu-pages/shortcodes-menu-page.php:152
+#: includes/admin/menu-pages/shortcodes-menu-page.php:263
+msgid "Whether to display \"View Details\" button with the link to accommodation type."
+msgstr "Konaklama türüne bağlantılı \"Detayları Görüntüle\" düğmesini görüntüleyip görüntülememek."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:86
+#: includes/admin/menu-pages/shortcodes-menu-page.php:151
+#: includes/admin/menu-pages/shortcodes-menu-page.php:262
+msgid "Show View Details button"
+msgstr "Ayrıntıları Görüntüle düğmesini göster"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:81
+#: includes/admin/menu-pages/shortcodes-menu-page.php:146
+#: includes/admin/menu-pages/shortcodes-menu-page.php:257
+#: includes/admin/menu-pages/shortcodes-menu-page.php:278
+msgid "Whether to display price of the accommodation type."
+msgstr "Konaklama türünün fiyatının görüntülenip görüntülenmemesi."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:118
+msgid "Accommodation Types Listing"
+msgstr "Konaklama Türleri Listeleme"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:113
+msgid "Use only on page that you set as Search Results Page in <a href=\"%s\">Settings</a>"
+msgstr "Yalnızca <a href=\"%s\"> Ayarlarda </a> Arama Sonuçları Sayfası olarak ayarladığınız sayfada kullanın"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:113
+#: includes/admin/menu-pages/shortcodes-menu-page.php:306
+msgid "NOTE:"
+msgstr "NOT:"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:113
+msgid "Search Results sorting by price."
+msgstr "Arama Sonuçlarını fiyata göre sırala."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:99
+msgid "Sort by"
+msgstr "Göre sırala"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:76
+#: includes/admin/menu-pages/shortcodes-menu-page.php:141
+#: includes/admin/menu-pages/shortcodes-menu-page.php:252
+msgid "Whether to display details of the accommodation type."
+msgstr "Konaklama türünün ayrıntılarını görüntüleme veya görüntülememe."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:71
+#: includes/admin/menu-pages/shortcodes-menu-page.php:136
+#: includes/admin/menu-pages/shortcodes-menu-page.php:247
+msgid "Whether to display excerpt (short description) of the accommodation type."
+msgstr "Konaklama tipinin alıntısını (kısa açıklama) gösterilip gösterilmemesi."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:66
+#: includes/admin/menu-pages/shortcodes-menu-page.php:131
+#: includes/admin/menu-pages/shortcodes-menu-page.php:242
+msgid "Whether to display gallery of the accommodation type."
+msgstr "Konaklama türünün galerisini görüntülenip görüntülenmemesi."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:61
+#: includes/admin/menu-pages/shortcodes-menu-page.php:126
+#: includes/admin/menu-pages/shortcodes-menu-page.php:237
+msgid "Whether to display featured image of the accommodation type."
+msgstr "Konaklama türünün öne çıkan görüntüsünü görüntülenip görüntülenmemesi."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:56
+#: includes/admin/menu-pages/shortcodes-menu-page.php:121
+#: includes/admin/menu-pages/shortcodes-menu-page.php:232
+msgid "Whether to display title of the accommodation type."
+msgstr "Konaklama türünün başlığını görüntülenip görüntülenmemesi."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:53
+msgid "Display listing of accommodation types that meet the search criteria."
+msgstr "Arama kriterlerini karşılayan konaklama türlerini görüntüleyin."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:52
+msgid "Availability Search Results"
+msgstr "Kullanılabilirlik arama sonuçları"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:42
+#: includes/admin/menu-pages/shortcodes-menu-page.php:105
+#: includes/admin/menu-pages/shortcodes-menu-page.php:169
+#: includes/admin/menu-pages/shortcodes-menu-page.php:213
+#: includes/admin/menu-pages/shortcodes-menu-page.php:274
+#: includes/admin/menu-pages/shortcodes-menu-page.php:300
+#: includes/admin/menu-pages/shortcodes-menu-page.php:320
+#: includes/admin/menu-pages/shortcodes-menu-page.php:342
+#: includes/admin/menu-pages/shortcodes-menu-page.php:361
+msgid "whitespace separated css classes"
+msgstr "Boşluklarla ayrılmış css sınıfları"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:41
+#: includes/admin/menu-pages/shortcodes-menu-page.php:104
+#: includes/admin/menu-pages/shortcodes-menu-page.php:168
+#: includes/admin/menu-pages/shortcodes-menu-page.php:212
+#: includes/admin/menu-pages/shortcodes-menu-page.php:273
+#: includes/admin/menu-pages/shortcodes-menu-page.php:299
+#: includes/admin/menu-pages/shortcodes-menu-page.php:319
+#: includes/admin/menu-pages/shortcodes-menu-page.php:341
+#: includes/admin/menu-pages/shortcodes-menu-page.php:360
+msgid "Custom CSS class for shortcode wrapper"
+msgstr "Kısa kod sarıcı için özel CSS sınıfı"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:36
+msgid "Check-out date presetted in the search form."
+msgstr "Arama formunda önceden ayarlanmış çıkış tarihi."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:32
+#: includes/admin/menu-pages/shortcodes-menu-page.php:37
+msgid "date in format %s"
+msgstr "Tarih %s biçiminde"
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:31
+msgid "Check-in date presetted in the search form."
+msgstr "Arama formunda önceden ayarlanmış giriş tarihi."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:26
+msgid "The number of children presetted in the search form."
+msgstr "Arama formunda önceden ayarlanmış çocukların sayısı."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:21
+msgid "The number of adults presetted in the search form."
+msgstr "Arama formunda önceden ayarlanmış yetişkinlerin sayısı."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:18
+msgid "Display search form."
+msgstr "Arama formunu görüntüle."
+
+#: includes/admin/menu-pages/shortcodes-menu-page.php:17
+msgid "Availability Search Form"
+msgstr "Müsaitliği Arama Formu"
+
+#: includes/admin/menu-pages/settings-menu-page.php:576
+msgid "Settings saved."
+msgstr "Ayarlar kaydedildi."
+
+#: includes/admin/menu-pages/settings-menu-page.php:547
+#: includes/admin/menu-pages/settings-menu-page.php:549
+msgid "License"
+msgstr "Lisans"
+
+#: includes/payments/gateways/gateway.php:466
+#: includes/post-types/coupon-cpt.php:24 includes/post-types/rate-cpt.php:66
+msgid "Description"
+msgstr "Açıklama"
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:194
+msgid "Check-out days"
+msgstr "Çıkış Günleri"
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:163
+msgid "Check-in days"
+msgstr "Giriş Günleri"
+
+#: includes/admin/menu-pages/booking-rules-menu-page.php:37
+#: includes/admin/menu-pages/booking-rules-menu-page.php:342
+#: includes/admin/menu-pages/booking-rules-menu-page.php:346
+msgid "Booking Rules"
+msgstr "Rezervasyon Kuralları"
+
+#: includes/admin/menu-pages/settings-menu-page.php:526
+msgid "Period of time in minutes the user is given to complete payment. Unpaid bookings become Abandoned and accommodation status changes to Available."
+msgstr "Kullanıcının ödemeyi tamamlaması için dakika olarak verilen süre. Ödemesi yapılmauan rezervasyonlar İptal Edildi ve konaklama durumu Müsait olarak değiştilir."
+
+#: includes/admin/menu-pages/settings-menu-page.php:525
+msgid "Pending Payment Time"
+msgstr "Bekleyen Ödeme Süresi"
+
+#: includes/admin/menu-pages/settings-menu-page.php:517
+msgid "Default Gateway"
+msgstr "Varsayılan Ağ Geçidi"
+
+#: includes/admin/menu-pages/settings-menu-page.php:512
+msgid "Failed Transaction Page"
+msgstr "Başarısız İşlem Sayfası"
+
+#: includes/admin/menu-pages/settings-menu-page.php:507
+msgid "Payment Success Page"
+msgstr "Başarılı Ödeme Sayfası"
+
+#: includes/admin/menu-pages/settings-menu-page.php:503
+msgid "Force SSL (HTTPS) on the checkout pages. You must have an SSL certificate installed to use this option."
+msgstr "Ödeme sayfalarında SSL'yi (HTTPS) zorunlu hale getirin. Bu seçeneği kullanmak için bir SSL sertifikası kurulu olmalıdır."
+
+#: includes/admin/menu-pages/settings-menu-page.php:501
+msgid "Force Secure Checkout"
+msgstr "Güvenli Ödeme zorunlu hale getir"
+
+#: includes/admin/menu-pages/settings-menu-page.php:494
+msgid "Deposit Amount"
+msgstr "Depozit Miktarı"
+
+#: includes/admin/menu-pages/settings-menu-page.php:488
+msgid "Percent"
+msgstr "Yüzde"
+
+#: includes/admin/menu-pages/settings-menu-page.php:487
+msgid "Fixed"
+msgstr "Belirlendi"
+
+#: includes/admin/menu-pages/settings-menu-page.php:485
+msgid "Deposit Type"
+msgstr "Depozit Tipi"
+
+#: includes/admin/menu-pages/settings-menu-page.php:479
+#: includes/views/booking-view.php:206
+msgid "Deposit"
+msgstr "Depozit"
+
+#: includes/admin/menu-pages/settings-menu-page.php:478
+msgid "Full Amount"
+msgstr "Tam Miktar"
+
+#: includes/admin/menu-pages/settings-menu-page.php:476
+msgid "User Pays"
+msgstr "Kullanıcı Öder"
+
+#: includes/admin/menu-pages/settings-menu-page.php:468
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: includes/admin/menu-pages/settings-menu-page.php:468
+msgid "Payment Gateways"
+msgstr "Ödeme Ağ Geçitleri"
+
+#: includes/admin/menu-pages/settings-menu-page.php:449
+msgid "Body Text Color"
+msgstr "Gövde Metni Rengi"
+
+#: includes/admin/menu-pages/settings-menu-page.php:443
+msgid "Body Background Color"
+msgstr "Gövde Arka Planı Rengi"
+
+#: includes/admin/menu-pages/settings-menu-page.php:437
+msgid "Background Color"
+msgstr "Arkaplan Rengi"
+
+#: includes/admin/menu-pages/settings-menu-page.php:431
+msgid "Base Color"
+msgstr "Taban Rengi"
+
+#. Style Group
+#: includes/admin/menu-pages/settings-menu-page.php:426
+msgid "Styles"
+msgstr "Stiller"
+
+#: includes/admin/menu-pages/settings-menu-page.php:407
+msgid "Footer Text"
+msgstr "Altbilgi Metni"
+
+#: includes/admin/menu-pages/settings-menu-page.php:393
+msgid "From Name"
+msgstr "İsmden"
+
+#: includes/admin/menu-pages/settings-menu-page.php:387
+msgid "From Email"
+msgstr "E-posta'dan"
+
+#: includes/admin/menu-pages/settings-menu-page.php:382
+msgid "Email Sender"
+msgstr "E-posta Göndereni"
+
+#: includes/admin/menu-pages/settings-menu-page.php:380
+msgid "Email Settings"
+msgstr "E-posta Ayarları"
+
+#: includes/admin/menu-pages/settings-menu-page.php:353
+msgid "Customer Emails"
+msgstr "Müşteri E-postaları"
+
+#: includes/admin/menu-pages/settings-menu-page.php:340
+msgid "Admin Emails"
+msgstr "Yönetici E-postaları"
+
+#. like booking.com
+#: includes/admin/menu-pages/settings-menu-page.php:262
+msgid "Max Children"
+msgstr "Maksimum Çocuk"
+
+#. like booking.com
+#: includes/admin/menu-pages/settings-menu-page.php:255
+msgid "Max Adults"
+msgstr "Maksimum Yetişkin"
+
+#: includes/admin/menu-pages/settings-menu-page.php:248
+msgid "Maximum accommodation occupancy available in the Search Form."
+msgstr "Maksimum bir konaklama doluluk oranı Arama Formunda mevcuttur."
+
+#: includes/admin/menu-pages/settings-menu-page.php:241
+msgid "Page to redirect to after booking cancellation."
+msgstr "Rezervasyon iptali sonrasında yönlendirilecek sayfa."
+
+#: includes/admin/menu-pages/settings-menu-page.php:240
+msgid "Cancellation Page"
+msgstr "İptal Sayfası"
+
+#: includes/admin/menu-pages/settings-menu-page.php:235
+msgid "User can cancel booking via link provided inside email."
+msgstr "Kullanıcı, e-postanın sağladığı link yoluyla rezervasyon iptal edebilir."
+
+#: includes/admin/menu-pages/settings-menu-page.php:230
+msgid "Booking Cancellation"
+msgstr "Rezervasyon İptali"
+
+#: includes/admin/menu-pages/settings-menu-page.php:211
+msgid "Period of time in minutes the user is given to confirm booking via email. Unconfirmed bookings become Abandoned and accommodation status changes to Available."
+msgstr "Kullanıcıya e-posta yoluyla rezervasyon onaylamak için verilen dakika cinsinden süre. Teyit edilmeyen rezervasyonlar İptal Edildi ve konaklama durumu Müsait olarak değiştirilir."
+
+#: includes/admin/menu-pages/settings-menu-page.php:210
+msgid "Approval Time for User"
+msgstr "Kullanıcı Onayı Süresi"
+
+#: includes/admin/menu-pages/settings-menu-page.php:205
+msgid "Page user will be redirected to once the booking is confirmed."
+msgstr "Sayfa kullanıcısı, rezervasyon onaylandıktan sonra yönlendirilecektir."
+
+#: includes/admin/menu-pages/settings-menu-page.php:204
+msgid "Confirmation Page"
+msgstr "Onaylama Sayfası"
+
+#: includes/admin/menu-pages/settings-menu-page.php:198
+msgid "Confirmation upon payment"
+msgstr "Ödeme Üzerine Onay"
+
+#: includes/admin/menu-pages/settings-menu-page.php:197
+msgid "By admin manually"
+msgstr "Yönetici Tarafından Manuel olarak"
+
+#: includes/admin/menu-pages/settings-menu-page.php:196
+msgid "By customer via email"
+msgstr "Müşteri Tarafından e-posta yoluyla"
+
+#: includes/admin/menu-pages/settings-menu-page.php:194
+msgid "Confirmation Mode"
+msgstr "Onay Modu"
+
+#: includes/admin/menu-pages/settings-menu-page.php:189 includes/wizard.php:96
+msgid "Booking Confirmation"
+msgstr "Rezervasyon onayı"
+
+#: includes/admin/menu-pages/settings-menu-page.php:181
+msgid "Text instead of reservation form while booking is disabled"
+msgstr "Rezervasyon devre dışı iken rezervasyon formu yerine olan metin"
+
+#: includes/admin/menu-pages/settings-menu-page.php:175
+msgid "Hide reservation forms and buttons"
+msgstr "Rezervasyon formlarını ve butonlarını gizle"
+
+#: includes/admin/menu-pages/settings-menu-page.php:170
+msgid "Disable Booking"
+msgstr "Rezervasyonu Devre Dışı Bırak"
+
+#: includes/admin/menu-pages/settings-menu-page.php:163
+msgid "Specify terms and conditions that are applied to your clients' purchases. This text will appear on the Checkout/Place Order screen."
+msgstr "Müşterilerinizin satın alımları için geçerli olan şartları ve koşulları belirtin. Bu metin, Ödeme / Sipariş ekranında görünecektir."
+
+#: includes/admin/menu-pages/settings-menu-page.php:162
+msgid "Terms & Conditions"
+msgstr "Şartlar ve Koşullar"
+
+#: includes/admin/menu-pages/settings-menu-page.php:156
+msgid "Choose Theme Mode to display the content with the styles of your theme. Choose Developer Mode to control appearance of the content with custom page templates, actions and filters. This option can't be changed if your theme is initially integrated with the plugin."
+msgstr "Temanızın stilleri ile içeriği görüntülemek için Tema Modu'nu seçin. Özel sayfa şablonları, eylemler ve filtrelerle Içeriğin görünüşünün kontrolünü yapmak için Geliştirici Modu'nu seçin. Temanız başlangıçta eklentilerle entegre edilmişse, bu seçenek değiştirilemez."
+
+#: includes/admin/menu-pages/settings-menu-page.php:154
+msgid "Theme Mode"
+msgstr "Tema Modu"
+
+#: includes/admin/menu-pages/settings-menu-page.php:153
+msgid "Developer Mode"
+msgstr "Geliştirici Modu"
+
+#: includes/admin/menu-pages/settings-menu-page.php:151
+msgid "Template Mode"
+msgstr "Şablon Modu"
+
+#: includes/admin/menu-pages/settings-menu-page.php:117
+msgid "Add Bed Type"
+msgstr "Yatak Tipi Ekle"
+
+#: includes/admin/menu-pages/settings-menu-page.php:113
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:111
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:160
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:214
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:263
+msgid "Type"
+msgstr "Tip"
+
+#: includes/admin/menu-pages/settings-menu-page.php:108
+msgid "Bed Types"
+msgstr "Yatak Tipi"
+
+#: includes/admin/menu-pages/settings-menu-page.php:98
+#: includes/emails/templaters/email-templater.php:129
+msgid "Check-out Time"
+msgstr "Çıkış Zamanı"
+
+#: includes/admin/menu-pages/settings-menu-page.php:103
+#: includes/emails/templaters/email-templater.php:125
+msgid "Check-in Time"
+msgstr "Giriş Zamanı"
+
+#: includes/admin/menu-pages/settings-menu-page.php:92
+msgid "Datepicker Date Format"
+msgstr "Tarih seçici Tarih Formatı"
+
+#: includes/admin/menu-pages/settings-menu-page.php:86
+msgid "Currency Position"
+msgstr "Para birimi pozisyonu"
+
+#: includes/admin/menu-pages/settings-menu-page.php:80
+#: includes/post-types/payment-cpt.php:187
+msgid "Currency"
+msgstr "Para birimi"
+
+#: includes/admin/menu-pages/settings-menu-page.php:74
+msgid "Square Units"
+msgstr "Kare Birimleri"
+
+#. Misc
+#: includes/admin/menu-pages/settings-menu-page.php:69
+msgid "Misc"
+msgstr "Çeşitli"
+
+#: includes/admin/menu-pages/settings-menu-page.php:59
+msgid "Select page user will be redirected to complete booking."
+msgstr "Bir kullanıcının rezervasyon işlemlerini tamamlayabileceği bir sayfa seçin."
+
+#: includes/admin/menu-pages/settings-menu-page.php:58
+msgid "Checkout Page"
+msgstr "Ödeme Sayfası"
+
+#: includes/admin/menu-pages/settings-menu-page.php:53
+msgid "Select page to display search results. Use search results shortcode on this page."
+msgstr "Arama sonuçlarını görüntülemek için sayfayı seçin. Bu sayfada arama sonuçları kısakodunu kullanın."
+
+#: includes/admin/menu-pages/settings-menu-page.php:52
+msgid "Search Results Page"
+msgstr "Arama Sonuçları Sayfası"
+
+#. Pages
+#: includes/admin/menu-pages/settings-menu-page.php:47
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: includes/admin/menu-pages/settings-menu-page.php:44
+msgid "General"
+msgstr "Genel"
+
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:82
+#: includes/post-types/room-type-cpt.php:250
+msgid "View"
+msgstr "Görüntüle"
+
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:73
+msgid "Accommodation generated."
+msgid_plural "%s accommodations generated."
+msgstr[0] "Konaklama oluşturuldu."
+msgstr[1] "%s  Konaklama oluşturuldu."
+
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:65
+msgid "Generate"
+msgstr "Oluşturun"
+
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:60
+msgid "Leave empty to use accommodation type title."
+msgstr "Konaklama tipi başlığı kullanmak için boş bırakın."
+
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:56
+#: includes/payments/gateways/gateway.php:458
+msgid "Title"
+msgstr "Başlık"
+
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:24
+msgid "Number of accommodations"
+msgstr "Konaklama Sayısı"
+
+#: includes/admin/menu-pages/calendar-menu-page.php:28
+#: includes/admin/menu-pages/calendar-menu-page.php:45
+msgid "Booking Calendar"
+msgstr "Rezervasyon Takvimi"
+
+#: includes/admin/manage-cpt-pages/service-manage-cpt-page.php:42
+#: includes/entities/service.php:169 includes/post-types/service-cpt.php:146
+msgid "Per Accommodation"
+msgstr "Konaklama Başına"
+
+#: includes/admin/manage-cpt-pages/service-manage-cpt-page.php:42
+#: includes/entities/service.php:167 includes/post-types/service-cpt.php:147
+msgid "Per Adult"
+msgstr "Yetişkin Başına"
+
+#: includes/admin/manage-cpt-pages/service-manage-cpt-page.php:39
+#: includes/entities/service.php:161 includes/post-types/service-cpt.php:132
+msgid "Once"
+msgstr "Bir defa"
+
+#: includes/admin/manage-cpt-pages/service-manage-cpt-page.php:18
+#: includes/post-types/service-cpt.php:144
+msgid "Charge"
+msgstr "Yükleme"
+
+#: includes/admin/manage-cpt-pages/service-manage-cpt-page.php:17
+#: includes/post-types/service-cpt.php:130
+msgid "Periodicity"
+msgstr "Periyodiklik"
+
+#: includes/admin/fields/rules-list-field.php:41
+#: includes/admin/manage-cpt-pages/season-manage-cpt-page.php:48
+#: includes/admin/menu-pages/booking-rules-menu-page.php:149
+#: includes/admin/menu-pages/booking-rules-menu-page.php:150
+#: includes/admin/menu-pages/booking-rules-menu-page.php:307
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:140
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:194
+#: includes/bookings-calendar.php:512 includes/bookings-calendar.php:564
+#: includes/script-managers/admin-script-manager.php:65
+msgid "All"
+msgstr "Tümü"
+
+#: includes/admin/fields/rules-list-field.php:42
+#: includes/admin/manage-cpt-pages/season-manage-cpt-page.php:46
+#: includes/script-managers/admin-script-manager.php:66
+msgid "None"
+msgstr "Hiçbiri"
+
+#: includes/admin/manage-cpt-pages/season-manage-cpt-page.php:18
+#: includes/admin/menu-pages/booking-rules-menu-page.php:171
+#: includes/admin/menu-pages/booking-rules-menu-page.php:202
+msgid "Days"
+msgstr "Günler"
+
+#: includes/admin/manage-cpt-pages/season-manage-cpt-page.php:17
+msgid "End"
+msgstr "Son"
+
+#: includes/admin/manage-cpt-pages/season-manage-cpt-page.php:16
+msgid "Start"
+msgstr "Başla"
+
+#: includes/admin/manage-cpt-pages/room-type-manage-cpt-page.php:93
+msgid "Active:"
+msgstr "Aktif:"
+
+#: includes/admin/manage-cpt-pages/room-type-manage-cpt-page.php:89
+#: includes/shortcodes/search-results-shortcode.php:567
+#: includes/shortcodes/search-results-shortcode.php:664
+msgid "Total:"
+msgstr "Toplam:"
+
+#: includes/admin/manage-cpt-pages/room-type-manage-cpt-page.php:48
+#: includes/views/loop-room-type-view.php:115
+#: includes/views/single-room-type-view.php:202
+#: templates/widgets/rooms/room-content.php:124
+msgid "Size:"
+msgstr "Boyut:"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:106
+#: includes/admin/manage-cpt-pages/room-type-manage-cpt-page.php:47
+#: includes/views/loop-room-type-view.php:91
+#: includes/views/single-room-type-view.php:178
+#: templates/widgets/rooms/room-content.php:66
+#: templates/widgets/search-availability/search-form.php:83
+msgid "Children:"
+msgstr "Çocuklar:"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:103
+#: includes/admin/manage-cpt-pages/room-type-manage-cpt-page.php:46
+#: includes/views/loop-room-type-view.php:79
+#: includes/views/single-room-type-view.php:166
+#: templates/widgets/rooms/room-content.php:59
+#: templates/widgets/search-availability/search-form.php:66
+msgid "Adults:"
+msgstr "Yetişkin:"
+
+#: includes/admin/manage-cpt-pages/room-type-manage-cpt-page.php:22
+#: includes/admin/menu-pages/booking-rules-menu-page.php:177
+#: includes/admin/menu-pages/booking-rules-menu-page.php:208
+#: includes/admin/menu-pages/booking-rules-menu-page.php:240
+#: includes/admin/menu-pages/booking-rules-menu-page.php:272
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:137
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:191
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:242
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:291
+#: includes/post-types/room-cpt.php:21 includes/post-types/room-cpt.php:31
+#: includes/wizard.php:90
+msgid "Accommodations"
+msgstr "Konaklamalar"
+
+#: includes/admin/manage-cpt-pages/room-type-manage-cpt-page.php:21
+msgid "Bed Type"
+msgstr "Yatak Tipi"
+
+#: includes/admin/manage-cpt-pages/room-type-manage-cpt-page.php:20
+#: includes/post-types/room-type-cpt.php:215
+msgid "Capacity"
+msgstr "Kapasite"
+
+#: includes/admin/manage-cpt-pages/room-manage-cpt-page.php:76
+msgid "All Accommodation Types"
+msgstr "Tüm Konaklama Çeşitleri"
+
+#: includes/admin/manage-cpt-pages/rate-manage-cpt-page.php:213
+msgid "Rate was duplicated."
+msgstr "Puan kopyalandı."
+
+#: includes/admin/manage-cpt-pages/rate-manage-cpt-page.php:132
+msgid "Duplicate"
+msgstr "Kopyala"
+
+#: includes/admin/manage-cpt-pages/rate-manage-cpt-page.php:22
+msgid "Season &#8212; Price"
+msgstr "Sezon &#8212; Fiyat"
+
+#: includes/admin/manage-cpt-pages/rate-manage-cpt-page.php:21
+#: includes/admin/manage-cpt-pages/room-manage-cpt-page.php:32
+#: includes/admin/menu-pages/booking-rules-menu-page.php:296
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:33
+#: includes/post-types/rate-cpt.php:28 includes/post-types/room-cpt.php:64
+#: includes/post-types/room-type-cpt.php:41
+msgid "Accommodation Type"
+msgstr "Konaklama Tipi"
+
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:116
+msgid "Modified on: "
+msgstr "Değiştirilme tarihi: "
+
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:111
+msgid "Created on: "
+msgstr "Oluşturulma tarihi: "
+
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:33
+msgid "Created/Modified Date"
+msgstr "Oluşturulma/Değiştirilme Tarihi"
+
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:32
+#: includes/post-types/payment-cpt.php:203
+msgid "Transaction ID"
+msgstr "İşlem Kimliği"
+
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:31
+#: includes/post-types/payment-cpt.php:145
+msgid "Gateway"
+msgstr "Ağ Geçidi"
+
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:30
+#: includes/post-types/booking-cpt.php:165
+msgid "Booking"
+msgstr "Rezervasyon"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:192
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:29
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:120
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:170
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:222
+#: includes/admin/menu-pages/taxes-and-fees-menu-page.php:271
+#: includes/post-types/payment-cpt.php:166 includes/views/booking-view.php:57
+#: includes/views/booking-view.php:83 includes/views/booking-view.php:106
+#: includes/views/booking-view.php:127 includes/views/booking-view.php:145
+#: includes/views/booking-view.php:161
+msgid "Amount"
+msgstr "Miktar"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:344
+msgid "Booking status changed."
+msgid_plural "%s booking statuses changed."
+msgstr[0] "Rezervasyon durumu değişti."
+msgstr[1] "%s rezervasyon durumu değişti."
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:234
+msgid "Set to %s"
+msgstr "%s olarak ayarla"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:203
+#: includes/post-types/booking-cpt.php:79
+#: includes/post-types/payment-cpt.php:239
+#: includes/views/shortcodes/checkout-view.php:362
+msgid "Email"
+msgstr "E-Posta"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:115
+#: includes/script-managers/admin-script-manager.php:70
+msgid "Children: "
+msgstr "Çocuklar: "
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:112
+#: includes/script-managers/admin-script-manager.php:69
+msgid "Adults: "
+msgstr "Yetişkin: "
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:138
+msgid "%s night"
+msgid_plural "%s nights"
+msgstr[0] "%s gece"
+msgstr[1] "%s gece"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:95
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:75
+msgid "Expire %s"
+msgstr "Son kullanma tarihi %s"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:48
+#: includes/admin/room-sync-queue-list-table.php:124
+msgid "Date"
+msgstr "Tarih"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:47
+#: includes/admin/manage-cpt-pages/service-manage-cpt-page.php:16
+#: includes/post-types/rate-cpt.php:52 includes/post-types/service-cpt.php:114
+#: includes/post-types/service-cpt.php:118
+#: includes/views/single-service-view.php:18
+msgid "Price"
+msgstr "Fiyat"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:46
+#: templates/emails/admin-customer-cancelled-booking.php:23
+#: templates/emails/admin-customer-confirmed-booking.php:23
+#: templates/emails/admin-payment-confirmed-booking.php:30
+#: templates/emails/admin-pending-booking.php:23
+msgid "Customer Info"
+msgstr "Müşteri Bilgisi"
+
+#: includes/emails/templaters/email-templater.php:145
+#: includes/emails/templaters/reserved-rooms-templater.php:147
+#: includes/post-types/service-cpt.php:75
+#: includes/post-types/service-cpt.php:85 includes/views/booking-view.php:100
+msgid "Services"
+msgstr "Hizmetler"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:45
+msgid "Guests"
+msgstr "Misafirler"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:44
+msgid "Check-in / Check-out"
+msgstr "Giriş/Çıkış"
+
+#: includes/post-types/rate-cpt.php:83
+msgid "Rate"
+msgstr "Puan"
+
+#. 'cb'		 => '<input type="checkbox" />',
+#: includes/admin/menu-pages/booking-rules-menu-page.php:302
+#: includes/admin/room-list-table.php:97
+#: includes/admin/room-sync-queue-list-table.php:117
+#: includes/bookings-calendar.php:625 includes/bookings-calendar.php:643
+#: includes/post-types/room-cpt.php:22 includes/post-types/room-cpt.php:57
+#: includes/post-types/room-type-cpt.php:47
+msgid "Accommodation"
+msgstr "Konaklama"
+
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:42
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:26
+#: includes/admin/menu-pages/shortcodes-menu-page.php:227
+#: includes/post-types/booking-cpt.php:39
+#: includes/post-types/payment-cpt.php:137
+msgid "ID"
+msgstr "Kimlik"
+
+#: includes/admin/groups/license-settings-group.php:99
+msgid "Renew License"
+msgstr "Lisansı Yenile"
+
+#: includes/admin/groups/license-settings-group.php:92
+msgid "Deactivate License"
+msgstr "Lisansı Devre Dışı Bırak"
+
+#: includes/admin/groups/license-settings-group.php:86
+msgid "Activate License"
+msgstr "Lisansı Aktif et"
+
+#: includes/admin/groups/license-settings-group.php:78
+msgid "Action"
+msgstr "Eylem"
+
+#: includes/admin/groups/license-settings-group.php:66
+msgid "Your License Key does not match the installed plugin. <a href='https://motopress.zendesk.com/hc/en-us/articles/202957243-What-to-do-if-the-license-key-doesn-t-correspond-with-the-plugin-license' target='_blank'>How to fix this.</a>"
+msgstr "Lisans Anahtarınız yüklenmiş eklentiyle eşleşmiyor.  <a href='https://motopress.zendesk.com/hc/en-us/articles/202957243-What-to-do-if-the-license-key-doesn-t-correspond-with-the-plugin-license' target='_blank'>Bunu nasıl düzeltebilirim.</a>"
+
+#: includes/admin/groups/license-settings-group.php:63
+msgid "Invalid"
+msgstr "Geçersiz"
+
+#: includes/admin/groups/license-settings-group.php:60
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:97
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:77
+msgid "Expired"
+msgstr "Süresi Doldu"
+
+#: includes/admin/groups/license-settings-group.php:53
+msgid "Valid (Lifetime)"
+msgstr "Geçerli (Ömür boyu)"
+
+#: includes/admin/groups/license-settings-group.php:51
+msgid "Valid until"
+msgstr "Kadar Geçerli"
+
+#: includes/admin/groups/license-settings-group.php:45
+msgid "Inactive"
+msgstr "Pasif"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:191
+#: includes/admin/groups/license-settings-group.php:38
+#: includes/admin/manage-cpt-pages/booking-manage-cpt-page.php:43
+#: includes/admin/manage-cpt-pages/payment-manage-cpt-page.php:28
+#: includes/admin/room-sync-queue-list-table.php:118
+msgid "Status"
+msgstr "Durum"
+
+#: includes/admin/groups/license-settings-group.php:24
+msgid "License Key"
+msgstr "Lisans Anahtarı"
+
+#: includes/admin/groups/license-settings-group.php:19
+msgid "The License Key is required in order to get automatic plugin updates and support. You can manage your License Key in your personal account. <a href='https://motopress.zendesk.com/hc/en-us/articles/202812996-How-to-use-your-personal-MotoPress-account' target='blank'>Learn more</a>."
+msgstr "Otomatik eklenti güncellemeleri ve destek almak için Lisans Anahtarı gereklidir. Lisans Anahtarınızı kişisel hesabınızdan yönetebilirsiniz.  <a href='https://motopress.zendesk.com/hc/en-us/articles/202812996-How-to-use-your-personal-MotoPress-account' target='blank'>Daha Fazlasını Öğren</a>."
+
+#: includes/admin/fields/total-price-field.php:16
+msgid "Recalculate Total Price"
+msgstr "Toplam Fiyatı Tekrar Hesapla"
+
+#: includes/admin/fields/gallery-field.php:36
+msgid "Remove gallery"
+msgstr "Galeri Kaldır"
+
+#: includes/admin/fields/gallery-field.php:35
+msgid "Add gallery"
+msgstr "Galeri Ekle"
+
+#: includes/admin/fields/dynamic-select-field.php:61
+#: includes/admin/fields/page-select-field.php:16
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:37
+#: includes/post-types/booking-cpt.php:91
+#: includes/post-types/booking-cpt.php:136
+#: includes/post-types/payment-cpt.php:210 includes/post-types/rate-cpt.php:29
+#: includes/post-types/room-cpt.php:61
+#: includes/views/shortcodes/checkout-view.php:154
+#: includes/views/shortcodes/checkout-view.php:171
+msgid "— Select —"
+msgstr "— Seç —"
+
+#: includes/admin/fields/complex-vertical-field.php:17
+#: includes/settings/main-settings.php:19
+msgid "Default"
+msgstr "Varsayılan"
+
+#: includes/admin/fields/complex-horizontal-field.php:36
+#: includes/admin/fields/rules-list-field.php:39
+#: includes/admin/room-sync-queue-list-table.php:125
+msgid "Actions"
+msgstr "Eylemler"
+
+#: includes/admin/fields/abstract-complex-field.php:21
+#: includes/admin/fields/rules-list-field.php:38
+msgid "Delete"
+msgstr "Sil"
+
+#: includes/admin/fields/abstract-complex-field.php:20
+#: includes/admin/fields/rules-list-field.php:34
+msgid "Add"
+msgstr "Ekle"
+
+#: includes/admin/edit-cpt-pages/room-type-edit-cpt-page.php:89
+msgid "Active Accommodations:"
+msgstr "Aktif Konaklamalar:"
+
+#: includes/admin/edit-cpt-pages/room-type-edit-cpt-page.php:81
+#: includes/admin/edit-cpt-pages/room-type-edit-cpt-page.php:98
+msgid "Show Accommodations"
+msgstr "Konaklamaları Göster"
+
+#: includes/admin/edit-cpt-pages/room-type-edit-cpt-page.php:72
+msgid "Total Accommodations:"
+msgstr "Toplam Konanklama:"
+
+#: includes/admin/edit-cpt-pages/room-type-edit-cpt-page.php:28
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:28
+msgid "Count of real accommodations of this type in your hotel."
+msgstr "Otelinizde bu tür gerçek konaklama sayısı."
+
+#: includes/admin/edit-cpt-pages/room-type-edit-cpt-page.php:23
+msgid "Number of Accommodations:"
+msgstr "Konaklama Sayısı:"
+
+#: includes/admin/edit-cpt-pages/room-type-edit-cpt-page.php:11
+#: includes/admin/edit-cpt-pages/room-type-edit-cpt-page.php:109
+#: includes/admin/manage-cpt-pages/room-manage-cpt-page.php:127
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:17
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:140
+#: includes/admin/menu-pages/rooms-generator-menu-page.php:144
+msgid "Generate Accommodations"
+msgstr "Konaklama Oluştur"
+
+#: includes/admin/edit-cpt-pages/rate-edit-cpt-page.php:116
+msgid "Duplicate Rate"
+msgstr "Puanı Kopyala"
+
+#: includes/admin/edit-cpt-pages/rate-edit-cpt-page.php:72
+msgid "Create Rate"
+msgstr "Puan Oluştur"
+
+#: includes/admin/edit-cpt-pages/rate-edit-cpt-page.php:33
+#: includes/admin/groups/license-settings-group.php:57
+msgid "Disabled"
+msgstr "Devre Dışı"
+
+#: includes/admin/edit-cpt-pages/rate-edit-cpt-page.php:32
+msgid "Active"
+msgstr "Aktif"
+
+#: includes/admin/edit-cpt-pages/rate-edit-cpt-page.php:15
+#: includes/admin/edit-cpt-pages/rate-edit-cpt-page.php:70
+#: includes/admin/edit-cpt-pages/rate-edit-cpt-page.php:72
+msgid "Update Rate"
+msgstr "Puanı Güncelle"
+
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:65
+msgid "Create Payment"
+msgstr "Ödemeyi Oluştur"
+
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:43
+msgid "Modified on:"
+msgstr "Değiştirilme tarihi:"
+
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:10
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:63
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:65
+msgid "Update Payment"
+msgstr "Ödemeyi Güncelle"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:159
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:86
+msgid "Message:"
+msgstr "Mesaj:"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:154
+#: includes/payments/gateways/stripe-gateway.php:489
+msgid "Auto"
+msgstr "Otomatik"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:148
+msgid "Author:"
+msgstr "Yazar:"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:143
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:82
+msgid "Date:"
+msgstr "Tarih:"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:65
+msgid "Create Booking"
+msgstr "Rezervasyon Oluştur"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:55
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:55
+#: includes/admin/edit-cpt-pages/rate-edit-cpt-page.php:62
+msgid "Move to Trash"
+msgstr "Çöpe At"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:53
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:53
+#: includes/admin/edit-cpt-pages/rate-edit-cpt-page.php:60
+msgid "Delete Permanently"
+msgstr "Kalıcı Olarak Sil"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:43
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:40
+#: includes/admin/edit-cpt-pages/rate-edit-cpt-page.php:50
+msgid "Created on:"
+msgstr "Oluşturulma tarihi:"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:19
+#: includes/admin/edit-cpt-pages/payment-edit-cpt-page.php:11
+msgid "Logs"
+msgstr "Kayıtlar"
+
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:18
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:63
+#: includes/admin/edit-cpt-pages/booking-edit-cpt-page.php:65
+msgid "Update Booking"
+msgstr "Rezervasyonu Güncelle"
+
+#: includes/bookings-calendar.php:513
+msgid "Free"
+msgstr "Ücretsiz"
+
+#: functions.php:66
+msgctxt "Post Status"
+msgid "Auto Draft"
+msgstr "Otomatik taslak"
+
+#: functions.php:63
+msgctxt "Post Status"
+msgid "New"
+msgstr "Yeni"
