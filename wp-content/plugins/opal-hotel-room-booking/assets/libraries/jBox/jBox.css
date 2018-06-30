@@ -6,6 +6,7 @@
     box-sizing: border-box;
     overflow-x: scroll;
     height: 100%;
+    top:50px !important;
 }
 
 .jBox-title,
