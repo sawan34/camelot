@@ -3,9 +3,7 @@
 
 .jBox-wrapper {
   text-align: left;
-    box-sizing: border-box;
-    height: 100%;
-    overflow: scroll;
+  box-sizing: border-box;
 }
 
 .jBox-title,
@@ -22,8 +20,6 @@
 
 .jBox-content {
   padding: 8px 10px;
-  overflow-x: hidden;
-  overflow-y: auto;
   transition: opacity .2s;
 }
 
