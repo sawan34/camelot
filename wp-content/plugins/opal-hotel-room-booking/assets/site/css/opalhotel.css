@@ -2545,7 +2545,7 @@ body.opalhotel-single .sidebar .widget {
 
 /* Vertical Reservation Form */
 .widget_opalhotel-check-available {
-  background-color: #040836;
+  background-color: #f7f7f7;
   background-repeat: no-repeat;
   background-position: center bottom;
   padding: 35px 30px 45px; }
@@ -2564,10 +2564,18 @@ body.opalhotel-single .sidebar .widget {
     margin-bottom: 10px;
     padding: 0; }
     .widget_opalhotel-check-available .opalhotel-form-field .opalhotel-form-lable {
-      font-size: 12px;
-      font-weight: 400;
-      color: #FFF;
-      margin-bottom: 5px; }
+      font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 5px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 0 5px;
+    
+    }
     .widget_opalhotel-check-available .opalhotel-form-field .opalhotel-form-field-group i {
       right: 15px;
       top: 15px; }
@@ -2996,3 +3004,14 @@ body.opalhotel-single .sidebar .widget {
     content: '\F03D'; }
 
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJjc3Mvb3BhbGhvdGVsLmNzcyIsInNvdXJjZVJvb3QiOiIifQ==*/
+
+
+.opalhotel-check-available h2.widgettitle {
+  font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 15px;
+    border-bottom: 1px solid #e4e4e4;
+}
