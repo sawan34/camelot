@@ -382,17 +382,20 @@
     color: #FFF;
     border-color: #c29b73; }
   .button.button-primary {
-    letter-spacing: 1px;
-    color: #999;
-    background-color: #fff; }
+    background-color: #43c71c;
+    border: 1px solid #43c71c;
+    color: #fff;
+    padding: 14px; }
     .button.button-primary:hover {
-      color: #c29b73;
-      border-color: #c29b73; }
+         border-color: #43c71c;
+    background: #2d8214; }
   .button.button-default {
     font-weight: 900;
     font-size: 12px; }
     .button.button-default:hover {
-      color: #999; }
+      color: #999; 
+    
+    }
   .button.button-theme {
     color: #FFF;
     background-color: #c29b73;
@@ -2545,7 +2548,7 @@ body.opalhotel-single .sidebar .widget {
 
 /* Vertical Reservation Form */
 .widget_opalhotel-check-available {
-  background-color: #040836;
+  background-color: #f7f7f7;
   background-repeat: no-repeat;
   background-position: center bottom;
   padding: 35px 30px 45px; }
@@ -2564,20 +2567,37 @@ body.opalhotel-single .sidebar .widget {
     margin-bottom: 10px;
     padding: 0; }
     .widget_opalhotel-check-available .opalhotel-form-field .opalhotel-form-lable {
-      font-size: 12px;
-      font-weight: 400;
-      color: #FFF;
-      margin-bottom: 5px; }
+      font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 5px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 0 5px;
+    
+    }
     .widget_opalhotel-check-available .opalhotel-form-field .opalhotel-form-field-group i {
       right: 15px;
-      top: 15px; }
+      top: 15px; 
+      color: #43c71c;
+    }
       .rtl .widget_opalhotel-check-available .opalhotel-form-field .opalhotel-form-field-group i {
         left: 15px;
         right: auto; }
     .widget_opalhotel-check-available .opalhotel-form-field .opalhotel-form-field-group input,
     .widget_opalhotel-check-available .opalhotel-form-field .opalhotel-form-field-group select {
-      padding: 7px 40px 7px 15px;
-      line-height: 36px; }
+      background-color: #fff;
+    border: 1px solid #e4e4e4;
+    color: #333;
+    padding: 7px 15px;
+    font-size: 12px;
+    line-height: 1.42857143;
+    background-image: none;
+    
+    }
       .rtl .widget_opalhotel-check-available .opalhotel-form-field .opalhotel-form-field-group input, .rtl
       .widget_opalhotel-check-available .opalhotel-form-field .opalhotel-form-field-group select {
         padding: 7px 15px 7px 40px; }
@@ -2996,3 +3016,14 @@ body.opalhotel-single .sidebar .widget {
     content: '\F03D'; }
 
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJjc3Mvb3BhbGhvdGVsLmNzcyIsInNvdXJjZVJvb3QiOiIifQ==*/
+
+
+.opalhotel-check-available h2.widgettitle {
+  font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 15px;
+    border-bottom: 1px solid #e4e4e4;
+}
