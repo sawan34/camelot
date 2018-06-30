@@ -37,7 +37,7 @@
 			init: function() {
 				var _doc = $( document );
 
-				_doc.on( 'click', '.opalhotel-room-toggle-packages', this.collapsedata ); //
+				_doc.on( 'click', '.opalhotel-room-toggle-packages', this.collapse ); //
 
 				_doc.on( 'submit', '.opalhotel_check_availability', this.check_availability );
 
@@ -55,7 +55,7 @@
 				_doc.on( 'click', '.opalhotel-view-package-details', this.package_details );
 			},
 
-			collapsedata: function( e ) {
+			collapse: function( e ) {
 				e.preventDefault();
 				var _self = $( this );
 				var	_collapse = _self.parents( '.opalhotel-available-form:first' ).find( '.opalhotel-room-package-wrapper' );
